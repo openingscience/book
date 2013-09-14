@@ -86,7 +86,7 @@ to realize evidence-based personalized medicine. One way to achieve this
 goal could be the adaption of ideas and concepts of open research data
 (see below).
 
-##Role of the Patient and Its Data
+## Role of the Patient and Its Data
 
 As described in the previous section, data is of high importance. This
 data cannot be collected without patients and their cooperation is
@@ -94,7 +94,7 @@ crucial on several levels. This leads to a very central role for the
 patient and, in addition, to a special nature of medical data and its
 acquisition compared to other research data.
 
-*1. Medical data is personal data*
+### 1. Medical data is personal data
 
 By default medical data is always personal data. The implications that
 derive from this fact may vary according to the legal framework of a
@@ -108,7 +108,7 @@ purpose this information is used. The information may only be altered,
 transferred, used, stored or deleted with according permission and
 sufficient traceability guaranteed.
 
-*2. Ethics*
+### 2. Ethics
 
 Having an experimental setup that allows the acquisition of data
 suitable for verifying or falsifying the scientific hypothesis goes
@@ -121,7 +121,7 @@ and needs ethic approval. This may lead to situations where experimental
 setups are optimal from a technocratic research perspective but cannot
 be approved ethically and therefore must be altered or not conducted.
 
-*3. Lack of predictability and limits of measurements*
+### 3. Lack of predictability and limits of measurements
 
 Most research-relevant incidents (e.g. (re)occurrence of an illness,
 adverse reactions) are not predictable and not projectable (fortunately;
@@ -133,7 +133,7 @@ reasons. Without the possibilities to repeat[^6] “measurements” and in
 conjunction with the heterogeneity explained in the previous section,
 getting a sufficient number of cases is a nontrivial task.
 
-*4. Long “field” observation periods*
+### 4. Long “field” observation periods
 
 In order to derive conclusions that really matter for patients, like
 “improved survival”or “improved quality of life” you need observation
@@ -145,7 +145,7 @@ nature of the system. Therefore, keeping track on a study participant
 and assembling a non-biased, non-filtered view on study relevant
 data[^7] can be very complicated.
 
-*5. Compliance*
+### 5. Compliance
 
 Besides all the explained technical and organizational problems, the key
 stakeholder is the study participant / patient and its compliance to the
@@ -163,7 +163,7 @@ Organization up to 50% of the patients are not therapy compliant. An
 unnoticed lack of therapy compliance may introduce a bias towards the
 trial results.
 
-*6. Consent*
+### 6. Consent
 
 The patient has to consent[^8] on three levels before he can be part of
 a medical trial. First, he must consent to a therapy that is relevant
@@ -184,7 +184,7 @@ You may find each aspect in other types of research data, but the
 combination of all six aspects is very distinctive for medical research
 data and makes special handling necessary.
 
-##Role of Open Research Data
+## Role of Open Research Data
 
 The chapter “Open Research Data: From Vision to Practice” in this book
 gives an overview over the benefits open data is supposed to bring.
@@ -209,8 +209,7 @@ Besides this, several groups (e.g. the [Genetic
 Alliance](http://www.geneticalliance.org) or the
 former mentioned project Consent to Research) see open access to data as
 the only sensible alternative to the ongoing privatization of science
-data and results. For instance the company [23andMe](http://www.23andme.com/about/press/12_11_2012) offers genome
-sequencing for 99$.
+data and results. For instance the company [23andMe](http://www.23andme.com/about/press/12_11_2012) offers genome sequencing for 99$.
 In addition to the offered service the company builds up a private
 database for research and the customers consent that this data may be
 used by the company to develop intellectual property and commercialize
@@ -231,7 +230,7 @@ anatomy and pathology, which is often not explicit and computationally
 accessible […]“, as stated by Rubin et al. (2008). Thus, implementing
 open data could be an opportunity to tackle this problem as well.
 
-##Challenges
+## Challenges
 
 The previous sections have discussed the need for data consolidation,
 the peculiarities of medical research data and how medical research is
@@ -261,7 +260,7 @@ may derive from regulatory decisions – which determine if and how open
 data may improve medical research. Therefore, two of these issues will
 be discussed in more detail.
 
-##Pooling the Data
+## Pooling the Data
 
 Given that the requirements are met and you are allowed to pool the data
 of different sources for your medical research, you have to deal with
@@ -287,7 +286,7 @@ difficult to guarantee comparability of pooled data and to avoid any
 kind of selection bias (e.g.: Is an event really absent or just not
 classified appropriately by a pooled study protocol).
 
-##Anonymization, Pseudonymization and Reidentification
+## Anonymization, Pseudonymization and Reidentification
 
 Individuals must be protected from (re)identification via their personal
 data used for research. German privacy laws, for instance, define
@@ -309,27 +308,27 @@ zone or installed system fonts.
 The following examples illustrate possibilities and incidents of
 reidentification:
 
-a.  *Simple demographics* The publications of Sweeney (2000) and Golle
-    (2006) indicate that for 63%–87% of the U.S. citizens the set of
+a.  **Simple demographics**. The publications of Sweeney (2000) and Golle (2006)
+    indicate that for 63%–87% of the U.S. citizens the set of
     birth date, sex and postal code is unique and a quasi-identifier.
-b.  *ICD codes* Loukides et al. (2010) assume that 96.5% of the patients
+b.  **ICD codes**. Loukides et al. (2010) assume that 96.5% of the patients
     can be identified by their set of ICD9[^13] diagnoses codes. For
     their research the Vanderbilt Native Electrical Conduction (VNEC)
     dataset was used. The data set was compiled and published for an
     NIH[^14] funded genome-wide association study.
-c.  *AOL search data* AOL put anonymized Internet search data (including
+c.  **AOL search data**. AOL put anonymized Internet search data (including
     health-related searches) on its web site. New York Times reporters
     (Barbaro et al. 2006) were able to re-identify an individual from
     her search records within a few days.
-d.  *Chicago homicide database*Students (Ochoa et al. 2001) were able to
+d.  **Chicago homicide database**. Students (Ochoa et al. 2001) were able to
     re-identify a 35% of individuals in the Chicago homicide database by
     linking it with the social security death index.
-e.  *Netflix movie recommendations*[^15] Individuals in an anonymized
+e.  **Netflix movie recommendations**.[^15] Individuals in an anonymized
     publicly available database of customer movie recommendations from
     Netflix are re-identified by linking their ratings with ratings in a
     publicly available Internet movie rating web site.
-f.  *Re-identification of the medical record of the governor of
-    Massachusetts* Data from the Group Insurance Commission, which
+f.  **Re-identification of the medical record of the governor of
+    Massachusetts**. Data from the Group Insurance Commission, which
     purchases health insurance for state employees, was matched against
     the voter list for Cambridge, re-identifying the governor’s health
     insurance records (Sweeney 2002).
@@ -364,26 +363,18 @@ and used with available face recognition APIs[^18] or you could take
 the volume data convert it into a 3D model and print it via a
 3D-printer[^19].
 
-<center>
-<Image:>
--- insert figure 1 here --
-</center>
-*Figure 1: Example for a magnetic resonance head image (MRI). The upper
+![**Figure 1**. Example for a magnetic resonance head image (MRI). The upper
 MRI shows an original layer of data set of an study participant (axial
 view, parallel to the feet). The MRIs below are reconstructions of the
 original data in sagittal view (left) and coronal view (right). The
 sagittal view is similar to a head silhouette and therefore more
-familiar.*
+familiar.](/images/challenges_of_open_data.png)
 
-<center>
-<Image:>
--- insert figure 2 here --
-</center>
-*Figure 2: Volumetric rendering of the data set shown in Figure 1. The
+![**Figure 2**. Volumetric rendering of the data set shown in Figure 1. The
 possibility to reidentify is now strikingly obvious. Volumetric
-rendering can easily be done with software tools publically available*
+rendering can easily be done with software tools publically available.](/images/challenges_of_open_data_2.png)
 
-##References
+## References
 
 Barbaro, M. et al., 2006. A face is exposed for AOL searcher no.
 4417749. *NY Times*.
@@ -437,7 +428,6 @@ Action*, Available at:
 
 [^1]: Sage Bionetworks is the name of a research institute which promotes biotechnology by practicing and encouraging open science. It is founded with a donation of the pharmaceutical services company Quinitles. cf. <http://en.wikipedia.org/wiki/Sage_Bionetworks>
 
-
 [^2]: An Example is the German Consortium for Translational Cancer Research (Deutsches Konsortium für Translationale Krebsforschung, DKTK; <http://www.dkfz.de/de/dktk/index.html>. One objective in the DKTK is the establishement of a clinical communication platform. This platform aims amongst others to better coordinate and standardize multi centric studies.
 
 [^3]: The Declaration was originally adopted in June 1964 in Helsinki, Finland. The Declaration is an important document in the history of research ethics as the first significant effort of the medical community to regulate research itself, and forms the basis of most subsequent documents.
@@ -473,7 +463,3 @@ Action*, Available at:
 [^18]: One example would be web API offered by face.com (<http://en.wikipedia.org/wiki/Face.com>).
 
 [^19]: In order to print 3D-Models you can use services like <http://www.shapeways.com> or <http://i.materialise.com>.
-
-
-
-

@@ -28,7 +28,7 @@ level as Research Funding 2.0? This article focuses on both of the
 aspects: Firstly, how Research Funding is promoting Open Science.
 Secondly, how an innovative and open Research Funding might look like.
 
-##Research Funding Policies: Pushing forward Open Science
+## Research Funding Policies: Pushing forward Open Science
 
 In the past decades, with new technology allowing interactive
 communication between content producers, content consumers, and
@@ -130,7 +130,7 @@ now the processes of research funding are hardly ever considered to be
 relevant to Open Science scenarios and appear to be closed, hidden, and
 opaque (in contradiction to any idea of Openness).
 
-##Research Funding at Present: Limitations and Closed Discourses
+## Research Funding at Present: Limitations and Closed Discourses
 
 Usually, applications for research funding are reviewed and assessed in
 closed procedures similar to the review and assessment of articles
@@ -140,7 +140,7 @@ the applicant is known to the reviewers (so-called *single blind
 review*). Horrobin describes the process of evaluating a funding
 application as follows:
 
-*“A grant application is submitted. The administrators send it to
+A grant application is submitted. The administrators send it to
 reviewers (usually two) who are specialists in the field and therefore
 competitors of the applicant. A committee (usually between ten and 30
 members) assesses the application and the reviewers’ reports, perhaps
@@ -232,7 +232,7 @@ In the following, the question as to what extent crowdfunding and other
 innovative funding procedures and channels may serve as an alternative
 to traditional research funding will be examined.
 
-##Open Research Funding
+## Open Research Funding
 
 Open Science and Open Research Funding share mutual spheres of interest.
 Both want to advance science through the involvement of citizens, and
@@ -251,8 +251,7 @@ institutions capable of funding large-scale news publishing.
 Notwithstanding the bromide that the Internet has allowed everybody to
 publish, it has also allowed everyone to find a financier for publishing
 - through self-publishing on the eBook market through micropayments to
-crowdfunding sites like [Spot.us](http://spot.us) or [Emphas.is](http://www.emphas.is) we have seen the
-gradual development of democratized news funding.
+crowdfunding sites like [Spot.us](http://spot.us) or [Emphas.is](http://www.emphas.is) we have seen the gradual development of democratized news funding.
 
 Similarly in the arts. While true skills in the arts still require
 perseverance, endurance, and none-the-least talent, the Internet has
@@ -292,7 +291,7 @@ were released under a CC-by-license, thus allowing attribution and
 sharing.[^16] Again, the motivation to create content outside of traditional
 publishing avenues is a key factor in the success of crowdfunding.
 
-*Open Research Funding: Some Considerations*
+### Open Research Funding: Some Considerations
 
 A consideration of the criticism voiced against the traditional models
 of research funding suggests that innovative procedures of research
@@ -312,7 +311,7 @@ whether there might not be more flexible vehicles that are better suited
 for the funding of niche projects unrelated to the buzzwords or academic
 discourses of the day.
 
-*Crowdfunding*
+### Crowdfunding
 
 Obviously, crowdfunding meets several of the aforementioned criteria.
 Jim Giles, while commenting also on the public nature of crowdfunding,
@@ -463,14 +462,13 @@ operate on a non-profit basis and channel all proceeds to researchers;
 others are commercial concerns and take a cut of the money raised.”*
 (Giles 2012, p. 253).
 
-*Social Payments in Science*
+### Social Payments in Science
 
 Related to crowdfunding, but not entirely the same, are new tools known
 as social payments. Typically, these are micropayments given for content
 that already exists on the net. They share with crowdfunding the notion
 of many small payments generating large income through accumulation.
-[Flattr](http://flattr.com) and [Kachingle](http://kachingle.com) are two tools commonly associated with
-social payments. They are a little different from each other, but share
+[Flattr](http://flattr.com) and [Kachingle](http://kachingle.com) are two tools commonly associated with social payments. They are a little different from each other, but share
 the idea that a content creator embeds a small button on its webpage,
 and a content financer in pushing that button ships a small payment to
 the content creator.
@@ -549,7 +547,7 @@ in journals, invitations to congresses, and third-party funding, but
 would allow assessment of the influence of scientific publications
 within the public sphere.
 
-*Virtual Currencies in Science*
+### Virtual Currencies in Science
 
 All of the tools described above relate in one way or another to real
 cash-flows in the overall economy. However, these mechanisms might also
@@ -574,9 +572,9 @@ of ‘Aristotle-Dollars’ for every publication in the public domain. Based
 on the amount of ‘Aristotle-Dollars’ which they earn, they receive
 earlier access to public data.
 
-##Some Critical Reflections
+## Some Critical Reflections
 
-*Quality Assurance and Sustainability*
+### Quality Assurance and Sustainability
 
 One advantage of the peer review system is seen in the provision of
 quality assurance, although the procedure, as stated before, has been
@@ -633,7 +631,7 @@ researchers rather than abstract projects with fluctuating staff. Small
 projects with a funding volume below the funding threshold of classic
 funders could also be financed with these instruments.
 
-*Plagiarism*
+### Plagiarism
 
 As already mentioned, the public character of proposals for crowdfunding
 is more likely to expose plagiarism in projects than closed review
@@ -644,7 +642,7 @@ plagiarizing of ‘their’ project. To put things into perspective, it must
 be mentioned that plagiarism or idea theft has also been reported for
 closed review procedures (Fröhlich 2003, p. 54).
 
-*Pop Science, Self-Marketing, and Verifiability*
+### Pop Science, Self-Marketing, and Verifiability
 
 On account of its proximity to citizens and its public character,
 crowdfunding also bears the inherent danger of unduly popularizing
@@ -675,7 +673,7 @@ entirely open contexts, but rather only within scientific communities
 learned societies). In such a scenario, however, the aspect of
 involvement of civic society would be lost.
 
-*What about Openness?*
+### What about Openness?
 
 Although crowdfunding, social payments, and virtual currencies appear as
 more transparent than traditional avenues of research financing, the
@@ -696,19 +694,17 @@ interest* as well as sponsorship bias, it may be advisable to keep the
 identity of the financiers hidden from the fundees until the project’s
 end.
 
-##Appendix: A List of Crowdfunding Platforms for Scientific Projects
+## Appendix: A List of Crowdfunding Platforms for Scientific Projects
 
--   *\#SciFund Challenge* hostet by
-    RocketHub, [](http://scifundchallenge.org/)[http](http://scifundchallenge.org/)[://](http://scifundchallenge.org/)[scifundchallenge](http://scifundchallenge.org/)[.](http://scifundchallenge.org/)[org](http://scifundchallenge.org/)[/](http://scifundchallenge.org/)
--   *Open Source Science Project OSSP*, [](http://www.theopensourcescienceproject.com/)[http](http://www.theopensourcescienceproject.com/)[://](http://www.theopensourcescienceproject.com/)[www](http://www.theopensourcescienceproject.com/)[.](http://www.theopensourcescienceproject.com/)[theopensourcescienceproject](http://www.theopensourcescienceproject.com/)[.](http://www.theopensourcescienceproject.com/)[com](http://www.theopensourcescienceproject.com/)[/](http://www.theopensourcescienceproject.com/)
--   *SciFlies*, [](http://sciflies.org/)[http](http://sciflies.org/)[://](http://sciflies.org/)[sciflies](http://sciflies.org/)[.](http://sciflies.org/)[org](http://sciflies.org/)[/](http://sciflies.org/)
--   *PetriDish*, [](http://www.petridish.org/)[http](http://www.petridish.org/)[://](http://www.petridish.org/)[www](http://www.petridish.org/)[.](http://www.petridish.org/)[petridish](http://www.petridish.org/)[.](http://www.petridish.org/)[org](http://www.petridish.org/)[/](http://www.petridish.org/)
--   *iAMscientist*, [](http://www.iamscientist.com/)[http](http://www.iamscientist.com/)[://](http://www.iamscientist.com/)[www](http://www.iamscientist.com/)[.](http://www.iamscientist.com/)[iamscientist](http://www.iamscientist.com/)[.](http://www.iamscientist.com/)[com](http://www.iamscientist.com/)[/](http://www.iamscientist.com/)
--   *Sciencestarter* (by now the only German crowdfunding service for
-    scientific
-    projects), [](http://www.sciencestarter.de/)[www](http://www.sciencestarter.de/)[.](http://www.sciencestarter.de/)[sciencestarter](http://www.sciencestarter.de/)[.](http://www.sciencestarter.de/)[de](http://www.sciencestarter.de/)
+-   [SciFund Challenge](http://scifundchallenge.org/) hosted by RocketHub.
+-   [Open Source Science Project OSSP](http://www.theopensourcescienceproject.com/)
+-   [SciFlies](http://sciflies.org/)
+-   [PetriDish](http://www.petridish.org/)
+-   [iAMscientist](http://www.iamscientist.com/)
+-   [Sciencestarter](http://www.sciencestarter.de/) (by now the only German crowdfunding service for
+    scientific projects.
 
-##References
+## References
 
 Besselaar, van den, P., 2012. Selection committee membership: Service or
 self-service. *Journal of Informetrics*, 6(4), pp.580–585.

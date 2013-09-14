@@ -116,9 +116,7 @@ be necessary to inventory the status of publishing and research in
 various disciplines, and then to devise ways new technologies might
 enhance research and communication across all fields of knowledge.
 
-<Image:>
-
-*Figure 1: Publishing practices of the sciences and the humanities*
+![**Figure 1**. Publishing practices of the sciences and the humanities.](/images/open_science_three_cultures.png)
 
 Another strategy that would alleviate the potential conflict with the
 moniker ‘Open Science’ is to substitute it with the phrase ‘Open

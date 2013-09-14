@@ -158,12 +158,10 @@ Erdős & Rényi 1960). Examples of conventional random networks include
 transport or electricity networks, as depicted in Fig. 1 and Tab. 1 for
 the European high-speed railway network.
 
-<Image:>
-
-*Fig. 1: The high-speed railway network in Europe. It represents a
+![**Figure 1**. The high-speed railway network in Europe. It represents a
 random network as proposed by Erdős and Rényi. (Source and copyright of
 the diagram: Akwa and Bernese media & BIL under a Creative Commons
-licence)*
+licence).](/images/social_factor.png)
 
 During their investigation, Barabási and Albert (1999) looked at
 Internet links and initially assumed a random network of the kind
@@ -183,12 +181,10 @@ well-attached nodes attract even fewer new links. Barabási later coined
 the very apt designation “The Rich get Richer Phenomenon” to describe
 this effect (cf. Barabási & Bonabeau 2003, p. 64f)
 
-<Image:>
-
-*Fig. 2: The frequency distribution of the links between the nodes of
+![**Figure 2**. The frequency distribution of the links between the nodes of
 the European high-speed railway network. The density function
 superimposed on the dots illustrates the underlying Poisson
-distribution.*
+distribution.](/images/social_factor_2.png)
 
 Applying this investigation to science, it confirms the hypothesis
 proposed at the beginning of this treatise that reach, rather than
@@ -228,7 +224,7 @@ form of publication will make no difference to the fundamental research
 results achieved by Barabási/Albert. The early bird catches the worm,
 regardless of whether that bird is a publisher or a researcher.
 
-##The Importance of Network Science for Research Relevance
+## The Importance of Network Science for Research Relevance
 
 There are only a few research results that can be described as
 “objectively good”. It is usually those publications about which enough
@@ -271,7 +267,7 @@ the ensuing consequences in practice. This list, like the whole book, is
 an incomplete preview of a topic that is still under development but
 will revolutionize science.
 
-##Aspects of the Social Web in Open Science
+## Aspects of the Social Web in Open Science
 
 Users particularly welcome innovations when they hold the promise of an
 advantage of some kind. Individual features embedded in otherwise linear
@@ -285,7 +281,7 @@ fraction of their collective, self-multiplying effect. They are
 nevertheless being included individually for the sake of maintaining the
 linear structure of the text.
 
-###The Basic Principles of Search Engines: Relevance and Reputation
+### The Basic Principles of Search Engines: Relevance and Reputation
 
 The purpose of search engines is to present results of relevant Internet
 searches, arranged according to their reputation. Relevance is assessed
@@ -322,7 +318,7 @@ of reputation will prove to be a challenge. Bearing the evolution of
 search engines in mind, we anticipate a highly dynamic advancement and
 permanent alignment of the algorithms employed.
 
-###Identification of the Protagonists
+### Identification of the Protagonists
 
 The fact that there are sometimes two or more scientists with the same
 name can be misleading, but this is not so serious that it renders
@@ -346,7 +342,7 @@ influence and reputation cannot actually be foreseen at the moment, due
 to the growing number of members, but it is highly probable when we
 consider the dynamic evolution of scale-free networks.
 
-###Ascertaining a Quality Factor from Likes, Dislikes, Assessments and Comments
+### Ascertaining a Quality Factor from Likes, Dislikes, Assessments and Comments
 
 One of the most straightforward uses of the Social Web 2.0 for Open
 Science is the ability to transfer positive and negative ratings and
@@ -380,7 +376,7 @@ be possible to experiment with both forms in order to ascertain a
 quantified quality factor that would also be taken into consideration in
 evaluating the reputation of an article or researcher.
 
-###Crowd Editing
+### Crowd Editing
 
 The possibility of crowd editing is a completely new, feasible feature
 in the Open Science web. Strictly speaking, it amounts to the steadfast
@@ -398,7 +394,7 @@ relevant subversion could be cited – not really a new procedure – but
 the principle of crowd editing might increase the frequency of
 amendments.
 
-###Suggestion Systems for Articles during the Writing Process
+### Suggestion Systems for Articles during the Writing Process
 
 The potentiality of suggestion systems is, however, really new. Whereas
 authors today actively look for literary sources in conventional and
@@ -451,7 +447,7 @@ Once these technical problems have been solved satisfactorily, we can
 envisage a completely new form of academic writing, along the lines of
 the example outlined briefly below:
 
-###Example of academic writing
+### Example of academic writing
 
 *A researcher has an idea for an article and already possesses some
 previous knowledge of the subject-matter, which allows him to put his
@@ -477,7 +473,7 @@ point of contact. This might conceivably be extended to announcements
 for specialist conferences, other relevant events or items that match
 the theme.
 
-###Parallels to Search Engines
+### Parallels to Search Engines
 
 Expressed in simplified terms, search engines consist of a crawler and
 an indexer. The crawler visits websites, records the contents and
@@ -505,7 +501,7 @@ output, subject to dynamic change. This is due to the high probability
 of leading, and implicitly more relevant, search results being used more
 often for quoting, so scientists strive to optimize their own input.
 
-###Similar Problems to those of Search Engines
+### Similar Problems to those of Search Engines
 
 The history of search engines is dotted with attempts to influence this
 process – initially through the frequent repetition of keywords taken
@@ -531,7 +527,7 @@ traditional academia. What does need to be solved is the problem of
 avoiding cartels of this kind and it is essential that we learn as much
 as possible from past experience with search engine optimization.
 
-###Similar Solutions to Those of Search Engines
+### Similar Solutions to Those of Search Engines
 
 Solutions in the field of search engine technology are increasingly
 permeating the domain of network science. Analyzing typical and atypical

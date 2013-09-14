@@ -59,24 +59,20 @@ decreasing number of potential outlets, science journalism is
 additionally (or maybe consequently) suffering from a continuous
 decrease in credibility.
 
-<Image:>
-
-*Figure 1: The business models of traditional print journalism in the
+![**Figure 1**. The business models of traditional print journalism in the
 U.S. have eroded remarkably fast: the industry has lost as much market
 share in five years as they had gained in the 50 years before. The
 disintegration of mass media outlets in terms of circulation and
 advertising revenue may not be as abrupt in Europe as it is in the U.S.
 Nonetheless, popular science publishers in Europe are also heavily under
-pressure.*
+pressure.](/images/science_caught_flat_footed.jpg)
 
-<Image:>
-
-*Figure 2: Who is most appropriate to explain the impact of science upon
+![**Figure 2**. Who is most appropriate to explain the impact of science upon
 society? Less than one out of five Europeans nowadays name journalists,
 and the numbers are constantly decreasing (light grey: 2010, dark grey:
 2005). In fact, a majority expects the scientists themselves to deliver
 their messages directly. Interactive online media offer new
-opportunities to do exactly that.*
+opportunities to do exactly that.](/images/science_caught_flat_footed_2.png)
 
 Questioned about who is most appropriate to explain the impact of
 science upon society, only 16–20 % of Europeans nowadays name
@@ -126,7 +122,7 @@ reacting and adapting to the mass media logic by which it is
 increasingly being shaped and framed (Krotz 2007; Fuller 2010; Weingart
 2005). This brings us to the second dimension of science communication.
 
-##Communication by Scientists and the Institutionalised PR
+## Communication by Scientists and the Institutionalised PR
 
 Self-critical scholars as well as practitioners of science communication
 wonder how far we have effectively come since 1985, when the Royal
@@ -152,15 +148,13 @@ science—66 % in 2010 compared to 78 % in 2005 (European Commission
 2010)—is an encouraging sign of an increasingly critical public (Bauer
 2009).
 
-<Image:>
-
-*Figure 3: Presumably as a direct result of mediatisation in the era of
+![**Figure 3**. Presumably as a direct result of mediatisation in the era of
 PUSH, the so-called “myth of science”, the naïve trust in science being
 able to solve any problem, has decreased significantly. In some
 countries like Germany (inner pie) this trust is even lower than the
 European average. This development is often misinterpreted as a problem.
 It should instead be seen as an encouraging sign of an increasingly
-critical public.*
+critical public.](/images/science_caught_flat_footed_3.png)
 
 PR professionals have been ‘PUSH-trained’, so to speak, to focus on the
 dissemination of research results, ideally in the form of a well-told
@@ -264,7 +258,7 @@ engagement pursued by the ideal of Open Science. Thus within the ‘big
 picture’ we should embrace the opportunities of the OSC era, and in
 particular the interactive online technologies driving it.
 
-##Outlook
+## Outlook
 
 Driven by interactive online media, OIC has the potential to exceed the
 outdated view of communication as a ‘packaging industry’. In the next
@@ -279,7 +273,7 @@ scientific system, and thus the challenge to measure communication
 impact properly, and even normalise and standardise these new
 measurements.
 
-##References
+## References
 
 Allgaier, J., 2013. Journalism and Social Media as Means of Observing
 the Contexts of Science. *BioScience*, 63(4), pp.284–287.

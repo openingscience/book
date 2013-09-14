@@ -71,10 +71,7 @@ The following table comprises the five identified schools together with
 their central assumptions, the involved stakeholder groups, their aims,
 and the tools and methods used to achieve and promote these aims.
 
-<center>
-<Image:>
 --- Insert Table 1 about here ---
-</center>
 
 It must be noted that our review is not solely built upon traditional
 scholarly publications but, due to the nature of the topic, also
@@ -85,7 +82,7 @@ following, we will describe the five schools in more detail and provide
 references to relevant literature for each.
 
 
-##Public School: The Obligation to Make Science Accessible to the Public
+## Public School: The Obligation to Make Science Accessible to the Public
 
 In a nutshell, advocates of the public school argue that science needs
 to be accessible for a wider audience. The basic assumption herein is
@@ -101,12 +98,9 @@ between scientists and the public and define openness as a form of
 devotion to a wider audience. In the following section we will elaborate
 more on both streams in reference to relevant literature.
 
-<center>
-<image:>
 --- Insert Table Public School about here ---
-</center>
 
-*Accessibility to the Research Process—Can Anyone be a Scientist?*
+### Accessibility to the Research Process — Can Anyone be a Scientist?
 
 To view the issue as a formerly hidden research process becoming
 transparent and accessible to the common man seems a decidedly romantic
@@ -194,7 +188,7 @@ authors’ knowledge, no research regarding this topic. Future research
 could for instance cover factors of success for project pitches or the
 actual potential of crowdfunding for science.
 
-*Comprehensibility of the Research Result—Making Science Understandable*
+### Comprehensibility of the Research Result—Making Science Understandable
 
 The second stream of the public school refers to the comprehensibility
 of science for a wider audience, that is mainly science communication.
@@ -242,7 +236,7 @@ emerging market for brokers and mediators of academic knowledge?
 Besides, what are the dangers of preparing research results in easily
 digestible formats?
 
-##Democratic School: Making Research Products Available
+## Democratic School: Making Research Products Available
 
 The democratic school is concerned with the concept of access to
 knowledge. Unlike the public school, which promotes accessibility in
@@ -264,7 +258,7 @@ school, namely open access to research publications and Open Data. We
 assume that both represent a wider set of arguments that accompanies
 discussion on free access to research products.
 
-*Open Data*
+#### Open Data
 
 Regarding Open Data in science, Murray-Rust (2008, p. 52) relates the
 meaning of the prefix ‘open’ to the common definition of open source
@@ -286,10 +280,7 @@ permission from a journal. He assumes that, other than validating
 research, journals have no use for claiming possession over supporting
 information—other researchers, however, do.
 
-<center>
-<image:>
 --- Insert Table Open Data about here ---
-</center>
 
 According to Murray-Rust’s understanding, data should not be ‘free’ (as
 in free beer), but open for re-use in studies foreseen or unforeseen by
@@ -349,12 +340,9 @@ of an appropriate online data repository or meta-data structures for
 research data. The implied multitude of obstacles for practicing Open
 Data also illustrates that research on this issue needs to be holistic.
 
-*Open Access to Research Publication*
+### Open Access to Research Publication
 
-<center>
-<image:>
 --- Insert Table open access to Research Publications about here ---
-</center>
 
 When it comes the open access of research publications, the argument is
 often less researcher-centric. Cribb and Sari (2010) make the case for
@@ -399,7 +387,7 @@ re-aligns copyright and enables broad reuse of publications while at the
 same time assuring authors and publishers that they receive credit for
 their effort (e.g. through open licensing).
 
-##Pragmatic School: Making Research More Efficient
+## Pragmatic School: Making Research More Efficient
 
 Advocates of the pragmatic school regard Open Science as a method to
 make research and knowledge dissemination more efficient. It thereby
@@ -410,9 +398,7 @@ through online tools. The notion of ‘open’ follows in this regard very
 much the disclosed production process known from open innovation
 concepts.
 
-<center>
 --- Insert Table Pragmatic School about here ---
-</center>
 
 Tacke (2010) for instance builds upon the connection between open
 innovation and Open Science. Similar to open innovation, the author
@@ -525,7 +511,7 @@ or the potential inclusion of software tools in the existing practice.
 In other words: The assumed coherence in regard to Open Science still
 lacks empirical research.
 
-##Infrastructure School: Architecture Matters Most
+## Infrastructure School: Architecture Matters Most
 
 The infrastructure school is concerned with the technical infrastructure
 that enables emerging research practices on the Internet, for the most
@@ -536,9 +522,7 @@ practice-oriented and case-specific; it focuses on the technological
 requirements that facilitate particular research practices (e.g. the
 Open Science Grid).
 
-<center>
 --- Insert Table Infrastructure School about here---
-</center>
 
 In 2003, Nentwich (2003, p. 1) coined the term cyberscience to describe
 the trend of applying information and communication technologies to
@@ -570,7 +554,7 @@ The trends are:
 -   Social and collaboration networks for scientists: Enabling
     researcher interaction and collaboration
 
-*Distributed Computing*
+### Distributed Computing
 
 A striking example for distributed computing in science is the Open
 Science Grid, ''“a large distributed computational infrastructure in the
@@ -619,7 +603,7 @@ research infrastructure in the near future. One could say that the
 objective of scientific computing is the increase of performance by
 interconnecting many autonomous and dispersed computers.
 
-*Social and Collaboration Networks*
+### Social and Collaboration Networks
 
 A second, more researcher-centric, infrastructure trend focuses on
 platforms that foster interaction between locally dispersed individuals
@@ -666,7 +650,7 @@ Realm”, the authors elaborate more on the role of social networks for
 scientists—including tools for scientific collaboration such as
 collaborative writing environments.
 
-##Measurement School: Finding Alternative Measurements for Scientific Output
+## Measurement School: Finding Alternative Measurements for Scientific Output
 
 The measurement school is concerned with alternative standards to
 ascertain scientific impact. Inarguably, the impact factor, which
@@ -698,9 +682,7 @@ are leaving traces online and offer a new basis by which to measure
 scientific impact. The umbrella term for these new impact measurements
 is altmetrics.
 
-<center>
 --- Insert Table Altmetrics about here ---
-</center>
 
 Yeong and Abdullah (2012) state that altmetrics differ from webometrics
 which are, as the authors argue, relatively slow, unstructured, and
@@ -739,7 +721,7 @@ registration, dissemination, and certification of scholarly knowledge
 should also focus on the overall process of science, its transformative
 powers, and, likewise, constraints.
 
-##Discussion
+## Discussion
 
 This chapter showed that “Open Science” is an umbrella term that
 encompasses almost any dispute about the future of knowledge creation
@@ -802,7 +784,7 @@ electric car—an indeed sensible but expenseful thing which would do
 better to be parked in the neighbor’s garage; an idea everybody agrees
 upon but urges others to take the first step for.
 
-##References
+## References
 
 Altunay, M. et al., 2010. A Science Driven Production
 Cyberinfrastructure—the Open Science Grid. *Journal of Grid Computing*,

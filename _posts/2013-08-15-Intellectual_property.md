@@ -5,6 +5,7 @@ authors:
  - name: Victoria Stodden
    orcid: 0000-0003-2015-7825
 categories: [vision]
+tags: [licenses, open access]
 ---
 
 ## Abstract

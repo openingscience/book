@@ -122,11 +122,7 @@ Turk*](https://www.mturk.com/mturk/welcome)) can actually include the
 entire spectrum from simple “click-working” to solving highly complex
 assignments.
 
-<center>
-<Image:>
-insert figure 1 here
-</center>
-*Figure 1: Crowdsourcing and open innovation*
+![**Figure 1**. Crowdsourcing and open innovation.](/images/open_innovation_and_crowdsourcing.png)
 
 This section focuses on scientific methods for open science via
 crowdsourcing, also including possibilities and risks for open
@@ -140,7 +136,7 @@ inspection: how can scientists and scientific institutions in particular
 take part in open innovation and open up science projects, and how can
 they collaborate with companies?
 
-##How Scientists Employ Crowdsourcing
+## How Scientists Employ Crowdsourcing
 
 The use of crowdsourcing not only makes it possible to pool and
 aggregate data but also to group and classify data. It would seem,
@@ -165,7 +161,7 @@ We can conclude that the two major forms of open innovation and
 crowdsourcing in the sciences are: contributing towards a solution
 (perspective 1) and requesting a solution (perspective 2).
 
-##Perspective 1: Contributing to a Crowdsourcing Process (Open Science)
+## Perspective 1: Contributing to a Crowdsourcing Process (Open Science)
 
 One form of open innovation through crowdsourcing in the sciences is to
 contribute to research questions by setting out ideas—often free of
@@ -213,7 +209,7 @@ worldwide peers by exchanging information and insights
 social networks and pose questions and get them answered by colleagues
 from all over the world (ResearchGate.com).
 
-##Perspective 2: Obtaining Support for One’s Own Science (Citizen Science)
+## Perspective 2: Obtaining Support for One’s Own Science (Citizen Science)
 
 The other aforementioned aspect of open innovation through crowdsourcing
 in the sciences is to ask a community for help. This aspect refers to
@@ -245,8 +241,7 @@ the [FoldIt](http://fold.it.portal/) project. Citizens interested in this
 subject and scientists working in this field of knowledge can therefore
 be included as contributors.
 
-A very vivid example is the [“Galaxy Zoo”](http://www.galaxyzoo.org) project. Briefly, the task is tohelp
-classify galaxies. Volunteers are asked to help and it turned out that
+A very vivid example is the [“Galaxy Zoo”](http://www.galaxyzoo.org) project. Briefly, the task is to help classify galaxies. Volunteers are asked to help and it turned out that
 the classifications <http://www.galaxyzoo.org>
 provides are as good as those from professional astronomers. The results
 are also of use to a large number of researchers.
@@ -271,7 +266,7 @@ research departments can use these platforms for their own purposes.
   **Focus**        innovation challenges (initiated by companies/ organisations); community   innovation challenges and presentation of new solutions   innovation challenges; community   scientific and social projects   search for experts on specific issues   completed ideas to date   develop products based on new and existing technologies; gamification
   ---------------- -------------------------------------------------------------------------- --------------------------------------------------------- ---------------------------------- -------------------------------- --------------------------------------- ------------------------- -----------------------------------------------------------------------
 
-##Innocentive (<http://www.innocentive.com>)
+## Innocentive (<http://www.innocentive.com>)
 
 Innocentive.com is the best known open innovation platform that allows
 companies and experts to interact (Wessel 2007). It was founded by the
@@ -282,7 +277,7 @@ partnerships, however, more than 12 million “solvers” can be reached.
 Over \$ 35 million were paid out to winners, with sums ranging between
 \$ 500 and over \$ 1 million, depending on the complexity of the task.
 
-*Forms of challenges and competitions*
+### Forms of challenges and competitions
 
 Challenges can either be addressed to the external community, or they
 may be limited to certain groups of people, such as employees. There are
@@ -321,7 +316,7 @@ institutions—the “seekers”—post their assignments, and the “solvers”
 select those that are of interest to them based on the discipline in
 which they work.
 
-*Registration, profile and CV*
+### Registration, profile and CV
 
 Anybody can register as a “solver”, even anonymously, if they chose, but
 a valid email address is required. The profile, which is open to the
@@ -344,7 +339,7 @@ website or in a social network. The “InnoCentive Anywhere” App creates
 an opportunity for the “solver” to keep up-to-date with regard to
 forthcoming challenges.
 
-##Innoget (<http://www.innoget.com>)
+## Innoget (<http://www.innoget.com>)
 
 Innoget focuses on linking up organizations that generate innovations
 with those that are in search of innovation, both having equal rights.
@@ -368,7 +363,7 @@ like countries, nature of challenge (such as a collaboration, licensing
 or a research contract) or organization/institution (major enterprise,
 public sector, university etc.).
 
-##SolutionXchange (<http://www.solutionxchange.com>)
+## SolutionXchange (<http://www.solutionxchange.com>)
 
 SolutionXchange.com was founded by Genpact, an Indian provider of
 process and technology services that operates worldwide. A distinctive
@@ -397,7 +392,7 @@ experts with the task of evolving an idea that was remunerated,
 depending on the importance or size of the project or the time spent on
 development.
 
-##One Billion Minds (<http://www.onebillionminds.com>)
+## One Billion Minds (<http://www.onebillionminds.com>)
 
 This platform calls itself “Human Innovation Network”; “openness”
 according to the open innovation principle is highlighted in particular.
@@ -420,7 +415,7 @@ answers. At
 economical aim. The declared intention of is “to
 change the world”.[^7]
 
-##Presans (<http://presans.com>)
+## Presans (<http://presans.com>)
 
 Presans.com follows a very different approach from those mentioned
 above: The company provides a search engine that—according to the
@@ -432,7 +427,7 @@ expert’s availability are of value. This issue is based on the
 assumption that the solution-seeking company often does not know what
 kind of solution the company is actually looking for.
 
-##Inpama (<http://inpama.com>)
+## Inpama (<http://inpama.com>)
 
 Inpama.com enables inventors and scientists to present their solutions
 ready for licensing and accordingly ready to be put on the market.
@@ -447,7 +442,7 @@ category. Also, Inpama.com offers further information and assistance
 with impoving the product or invention by contacting test consumers or
 industrial property agents or by marketing the invention.
 
-##Marblar (<http://marblar.com>)
+## Marblar (<http://marblar.com>)
 
 Marblar.com adopts a very interesting approach. Assuming that a minimum
 of 95 per cent of the inventions that have been developed at
@@ -460,7 +455,7 @@ to make inventions useful that would have been filed away. Marblar.com
 also helps to open up a further source of income to the research
 institutions.
 
-##A Landscape of Today's Platforms: Summary
+## A Landscape of Today's Platforms: Summary
 
 The crowdsourcing platforms often consist of creatives that participate
 either by submitting active content, such as contributions to a
@@ -513,7 +508,7 @@ outlines the point of the challenge fairly clearly when intellectual
 property changes ownership. But still, details of that have to be
 discussed between the “solver” and the “seeker”.
 
-##Risks in Crowdsourcing Science
+## Risks in Crowdsourcing Science
 
 It is clear that different risks have to be taken into account when
 using or applying the methods of crowdsoucing or open innovation. The
@@ -595,7 +590,7 @@ after that, nothing happened or they weren’t mentioned in reports on the
 crowdsourcing process. That would only cause or aggravate frustration
 and that is something nobody needs.
 
-##Outlook: What the Future Might Bring
+## Outlook: What the Future Might Bring
 
 A possible future route for development might be hyper-specialization:
 “Breaking work previously done by one person into more specialized
@@ -635,7 +630,7 @@ individuals are grouped and rearranged according to the ideas being
 shared and the resulting benefits? And to what extent will the open
 source trend increase or find its own level?
 
-##References
+## References
 
 Baldwin, C.Y., 2010. When open architecture beats closed: The
 entrepreneurial use of architectural knowledge. In Massachusetts, USA:
@@ -722,7 +717,6 @@ Wessel, D., 2007. Prizes for Solutions to Problems Play Valuable Role in
 Innovation. *The Wall Street Journal*. Available at:
 <http://online.wsj.com/public/article/SB116968486074286927-7z_a6JoHM_hf4kdePUFZEdJpAMI_20070201.html>.
 
-
 [^1]: Human Genome Project Information:
 
 [^2]: Human Genome Project Information - About the Human Genome Project: <http://www.ornl.gov/sci/techresources/Human_Genome/project/about.shtml>
@@ -736,4 +730,3 @@ Innovation. *The Wall Street Journal*. Available at:
 [^6]: ARTigo: <http://www.artigo.org/about.html>
 
 [^7]: One Billion Minds: <http://onebillionminds.com/start>
-

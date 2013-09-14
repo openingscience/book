@@ -35,7 +35,7 @@ That is why she and her colleagues in the laboratory of Leif W. Ellisen
 at Massachusetts General Hospital Cancer Center in Boston,
 Massachusetts, study tumors on individual levels and search for cancer
 causes. In March 2012 Forster was trying to isolate ribonucleic acid
-(RNA)—the genetic blueprint for proteins within the cell—within mouse
+(RNA) — the genetic blueprint for proteins within the cell—within mouse
 cells. To prepare the cells for her experiment she mixed them with a
 special gel that provided them with all the nutrients to grow and
 proliferate, even outside the body, for a short period of time. Yet in
@@ -80,7 +80,7 @@ methods they will include in their work. This, however,—as anything in
 research—starts with informing oneself about what is already out there;
 it is our goal to provide that information with this book.
 
-##Knowledge Creation and Dissemination: A Brief History
+## Knowledge Creation and Dissemination: A Brief History
 
 In an early draft-version of this book, the present section was called
 ‘A Brief History of Science’. Yet, we ran into several problems with
@@ -92,7 +92,7 @@ preparation of this book we constantly ran into this dilemma and we
 would like to take the opportunity to tell you that whenever we talk
 about science we mean any organized form of knowledge creation (see
 chapter 06, Sidler:
-[Open](https://docs.google.com/document/d/19IgWhakIduAZmn6iMEPeVAsnfMESLPP8S5Ohx15WeOo/edit)[](https://docs.google.com/document/d/19IgWhakIduAZmn6iMEPeVAsnfMESLPP8S5Ohx15WeOo/edit)……..
+[Open](https://docs.google.com/document/d/19IgWhakIduAZmn6iMEPeVAsnfMESLPP8S5Ohx15WeOo/edit).
 *Secondly*, science is often understood as the product created by a
 scientist. And a scientist is understood as someone with a full-time job
 at a university or a research institute. Yet, new forms of collaboration
@@ -172,7 +172,7 @@ roughly 100 million scientists. More and more disciplines formed and
 scientists became professional specialists in tiny fields rather than
 experts in general knowledge.
 
-##Professionalization of Knowledge Creation: The First Scientific Revolution
+## Professionalization of Knowledge Creation: The First Scientific Revolution
 
 The professionalization of knowledge creation is often called the first
 scientific revolution. Indeed it is this revolution that laid the
@@ -231,7 +231,7 @@ of today's researchers to assess and evaluate those newly created
 options, to bridge the legacy gap, and to lay a path towards the second
 scientific revolution.
 
-##Legacy Gap: The Background of the Second Scientific Revolution
+## Legacy Gap: The Background of the Second Scientific Revolution
 
 The journal system developed at a time when written or printed letters
 and a few books were the only means of transferring knowledge. Before
@@ -242,16 +242,12 @@ scientific content by controlling the printing and dissemination of
 scientific results. Accordingly, the assessment of scientific impact
 developed around the journal system.
 
-<center>
-<Image:>
-insert figure 1
-</center>
-*Figure 1: The first scientific revolution happened when the publishing
+![**Figure 1**. The first scientific revolution happened when the publishing
 of scientific papers became the prevailing means of disseminating
 scientific knowledge. Our scientific culture developed around this.
 Today the Internet provides novel means of publishing and we are in the
 ‘legacy gap’ between the availability of these tools and their profound
-integration into the scientific culture (second scientific revolution).*
+integration into the scientific culture (second scientific revolution).](/images/towards_another_scientific_revolution.png)
 
 However, paper is no longer the only media of choice. Publishing costs
 diminished and from a technical viewpoint preliminary results or idea
@@ -263,7 +259,7 @@ points to the fact that we are on the brink of a new scientific
 revolution. Yet, how this revolution actually will be played out remains
 one of the most interesting questions in modern science.
 
-##The Second Scientific Revolution
+## The Second Scientific Revolution
 
 Picture a situation in which scientists would be able to publish all
 their thoughts, results, conclusions, data, and such as they occur,
@@ -285,26 +281,17 @@ project running into the same problem that stopped the first project
 simply because the first project never published an explanation of its
 failure (Figure 2).
 
-<center>
-<Image:>
-insert figure 2
-</center>
-
-*Figure 2: Today, research projects are conducted until results justify
+![**Figure 2**. Today, research projects are conducted until results justify
 a full-blown paper. In the future, scientists might openly share ideas,
 preliminary results, and negative results at much earlier stages of
 their research using the novel publication methods that became available
-with the Internet.*
+with the Internet.](/images/towards_another_scientific_revolution_2.png)
 
-<center>
-<Image:>
-insert figure 3
-</center>
-*Figure 3: The research culture of the future possibly supports an open
+![**Figure 3**. The research culture of the future possibly supports an open
 and wide communication beyond institutes and personal networks by
 providing novel, credited means of disseminating knowledge between
 researchers. Negative as well as positive findings will contribute to
-other research projects much sooner after the findings occur.*
+other research projects much sooner after the findings occur.](/images/towards_another_scientific_revolution_3.png)
 
 The advantages of such a scientific culture are multifaceted. We would
 see faster knowledge exchange, prevention of unnecessarily repeated
@@ -313,21 +300,17 @@ use these novel publication formats, they must be appropriately credited
 by other scientists and—maybe more importantly—by granting authorities,
 which is not yet the case.
 
-##Naming the New: Science 2.0, Open Science, eScience, Mode2, Open Research
+## Naming the New: Science 2.0, Open Science, eScience, Mode2, Open Research
 
 Terms like Science 2.0, Open Science, Digital Humanities, eScience,
 Mode2, or Open Research are all umbrella terms that formed over the past
 few years **and** that emphasize various aspects of the second
 scientific revolution.
 
-<center>
-<Image:>
-insert figure 4
-</center>
-*Figure 4: Since the first scientific revolution, science and knowledge
+![**Figure 4**. Since the first scientific revolution, science and knowledge
 creation was open—as open as the methods of the seventeenth century
 allowed it to be. The Internet has brought about novel methods, thus
-allowing science to be more open.*
+allowing science to be more open.](/images/towards_another_scientific_revolution_4.png)
 
 All of these umbrella terms struggle to find a clear definition and
 people often use them interchangeably when talking about current changes
@@ -344,7 +327,6 @@ only two—mainly in order to use them in the discussions contained within
 this book.
 
 -   **Science 2.0** refers to all scientific culture, incl. scientific communication, which employs features enabled by Web 2.0 and the Internet (in contrast to Science 1.0 which represents a scientific culture that does not take advantage of the Internet).
-
 -   **Open Science** refers to a scientific culture that is
     characterized by its openness. Scientist share results almost
     immediately and with a very wide audience. Strictly speaking, since
@@ -360,7 +342,7 @@ employ features of the Internet, but stay very much put in terms of
 publishing their results. This might be due to cultural and legal
 restrictions.
 
-##The Second Scientific Revolution: Road to a Great New Future?
+## The Second Scientific Revolution: Road to a Great New Future?
 
 Many stakeholders serve the current scientific culture. They brought
 research, and with it society, quite far. Yet now, we have to face the
@@ -408,44 +390,36 @@ process and they should be aware of the potential consequences. This
 book is meant to support scientists in becoming a constructing factor in
 the designing process of the second scientific revolution.
 
-##The Second Scientific Revolution is Based on Many Novel Aspects and Tools
+## The Second Scientific Revolution is Based on Many Novel Aspects and Tools
 
 Despite their separation, the key aspects of the second scientific
 revolution are interconnected (Figure 5). Open Access (see chapter 09,
-Sitek: Open Access: A State of the Art), for instance, needs new forms
-of copyright concepts (see case 19, Friesike: Creative Commons).
-Reference managers (see chapter 08, Fenner: Reference Management)
+[Open Access: A State of the Art](http://localhost:4000/tools/open_access_state_of_the_art)), for instance, needs new forms
+of copyright concepts (see case 19, [Creative Commons Licences](/cases_recipes_howtos/creative_commons_licences)).
+Reference managers (see chapter 08, [Reference Management](/tools/reference_management))
 are a great addition to social networks for scientists (see chapter 07,
-Nentwich: Academia Goes Facebook? The Potential of Social Network Sites
-in the Scholarly Realm). Assessing the scientific impact of novel
-publications such as blog posts (see chapter 08, Puschmann:
-[(](https://docs.google.com/document/d/18xiMyla_bryOkxN9JOoLX7qSeTRMoWlkLegSy0Ky3Jk/edit)……INSERT CHAPTER LINK
-needs novel impact measurement factors—altmetrics (see chapter 12,
-Fenner: Scientific Impact: Altmetrics and Other Novel Tools), which
-might be based on unambiguous researcher IDs (see case 21, Fenner:
-[Unique](https://docs.google.com/document/d/1sNsMrqSiBasJPlymJj36MQ6SGDdxvELDNmfqk6Ms_H4/edit)[]INSERT CHAPTER LINK.
+[Academia Goes Facebook? The Potential of Social Network Sites in the Scholarly Realm](/tools/academia_goes_facebook)). Assessing the scientific impact of novel
+publications such as blog posts (see chapter 06, [(Micro)blogging Science? Notes on Potentials and Constraints of New Forms of Scholarly Communication](http://localhost:4000/tools/microblogging_science) needs novel impact measurement factors — altmetrics (see chapter 12,
+[Altmetrics and Other Novel Measures for Scientific Impact](http://localhost:4000/vision/altmetrics)), which
+might be based on unambiguous researcher IDs (see case 21,
+[Unique Identifiers for Researchers](/cases_recipes_howtos/unique_identifiers_for_researchers)).
 Altmetrics, at the same time, can be integrated into social networks.
 There is no single most important factor: it is more a multitude of
 facets that jointly change how research works.
 
-<center>
-<Image:>
-insert figure 5 here
-</center>
-
-*Figure 5: It is important to understand that many tools of the second
+![**Figure 5**. It is important to understand that many tools of the second
 scientific revolution will only make sense if others are also
 implemented. For example, alternative impact measurement systems such as
 altmetrics only make sense if researchers can be uniquely identified -
-either with a Unique Researcher ID or within a social network.*
+either with a Unique Researcher ID or within a social network.](/images/towards_another_scientific_revolution_5.png)
 
-##How This Book Works: Artificially Dissecting the Second Scientific Revolution
+## How This Book Works: Artificially Dissecting the Second Scientific Revolution
 
 This book brings together the enabling concepts that shape the current
 discussion on our changing research environment. We divided the book
 into three parts in order to make its content easily accessible.
 
--   The first part of the book is called ***Basics***; here we cover
+-   The first part of the book is called **Basics**; here we cover
     topics that highlight the overall shift in scientific thinking. It
     begins with the chapter “Open Science: One Term, Five Schools of
     Thought” in which *Benedikt Fecher* and editor *Sascha Friesike*
@@ -464,7 +438,7 @@ into three parts in order to make its content easily accessible.
     and Science 2.0 share: the fact that all of the implied concepts are
     valid for researchers outside the sciences as well, yet the name
     might scare them away.
--   The second part of the book is called ***Tools*** and deals with
+-   The second part of the book is called **Tools** and deals with
     implementations that already work today. *Cornelius Puschmann*
     starts the section with his piece on blogging and microblogging
     among researches called “(Micro)blogging Science? Notes on
@@ -477,7 +451,7 @@ into three parts in order to make its content easily accessible.
     and *Roland Bertelmann*, and *James MacGregor, Kevin Stranack*,
     and *John Willinsky’s* “The Public Knowledge Project: Open Source
     Tools for Open Access to Scholarly Communication”.
--   The third part named ***Vision*** takes a more long term view on the
+-   The third part named **Vision** takes a more long term view on the
     issue and thus explains how single aspects of research might develop
     over the next decade or two. The section begins with an article by
     *Martin Fenner* named “Altmetrics and Other Novel Measures for
@@ -495,7 +469,7 @@ into three parts in order to make its content easily accessible.
     the authors focus on specific aspects and projects, give advice, or
     present their experience
 
-##References
+## References
 
 Begley, C.G. & Ellis, L.M., 2012. Drug development: Raise standards for
 preclinical cancer research. *Nature*, 483(7391), pp.531–533.

@@ -31,11 +31,8 @@ feedback was added. Chapters were divided among both editors, so that
 one contact person was responsible for each chapter. In jour-fixe Skype
 sessions the status of the work in progress was discussed.
 
-<Image:>
---insert figure 1 here--
-
-*Figure 1: The table of contents was the central workplace for the
-editors in the early phase of this book project*
+![**Figure 1**. The table of contents was the central workplace for the
+editors in the early phase of this book project.](/images/how_this_book_was_created.jpg)
 
 **Phase II:** A table of contents was created as a text document in
 Google Docs. The returning abstracts were uploaded to Google Docs and
@@ -49,13 +46,10 @@ the Google documents. Commenting functionality was used to discuss
 points of controversy. Images were designed in Apple Keynote and the
 image files and other files were shared using Dropbox.
 
-<Image:>
---insert figure 2 here --
-
-*Figure 2: During the editing process of the chapters, the authors and
+![**Figure 2**. During the editing process of the chapters, the authors and
 editors changed the chapters with editing privileges, while all others
 authors were invited to comment - serving as a form of internal
-peer-review*
+peer-review.](/images/how_this_book_was_created_2.jpg)
 
 **Phase IV:** An internal review started once almost final versions of
 the chapters existed. All authors received a TOC with links to every
