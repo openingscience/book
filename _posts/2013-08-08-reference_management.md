@@ -213,13 +213,11 @@ parallel.
    now widely supported by reference managers that work with Microsoft
    Word and other authoring tools, and by online bibliographic
    databases such as Google Scholar.
-
 -   **RIS** (Research Information Systems) is standardized tag format
     originally invented by Research Information Systems (now part of
     Thomson Reuters). The format is widely supported and has been
     adapted over time, e.g. to include a field for digital object
     identifiers (DOIs).
-
 -   **Endnote XML and Citeproc JSON** are newer formats which are not
     yet as widely supported. BibTeX and RIS are plain text formats. XML
     and, more recently, JSON have evolved into the standard data

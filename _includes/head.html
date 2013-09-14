@@ -1,12 +1,14 @@
   <head>
     <title>{{ page.title }}</title>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="{{ site.author.name }}" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />{% if page.authors %}{% for author in page.authors %}
+    <meta name="author" content="{{ author.name }}" />{% endfor %}{% else %}{% for editor in site.editors %}
+    <meta name="author" content="{{ editor.name }}" />{% endfor %}{% endif %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}" />
 
     <!-- RDFa Metadata (in DublinCore) -->
-    <meta property="dc:title" content="{{ page.title }}" />
-    <meta property="dc:creator" content="{{ site.author.name }}" />{% if post %}
+    <meta property="dc:title" content="{{ page.title }}" />{% if page.authors %}{% for author in page.authors %}
+    <meta property="dc:creator" content="{{ author.name }}" />{% endfor %}{% else %}{% for editor in site.editors %}
+    <meta property="dc:creator" content="{{ editor.name }}" />{% endfor %}{% endif %}{% if post %}
     <meta name="citation_publication_date" content="{{ post.date | date: "%FT%T%:z" }}"/>{% else %}
     <meta name="citation_publication_date" content="{{ page.date | date: "%FT%T%:z" }}"/>{% endif %}
     <meta property="dc:format" content="text/html" />
@@ -18,8 +20,8 @@
     <meta property="dc:type" content="website" />
 
     <!-- Google Scholar Metadata -->{% if page.authors %}{% for author in page.authors %}
-    <meta name="citation_author" content="{{ author.name }}"/>{% endfor %}{% else %}
-    <meta name="citation_author" content="{{ site.author.name }}"/>{% endif %}{% if post %}
+    <meta name="citation_author" content="{{ author.name }}"/>{% endfor %}{% else %}{% for editor in site.editors %}
+    <meta name="citation_author" content="{{ editor.name }}"/>{% endfor %}{% endif %}{% if post %}
     <meta name="citation_publication_date" content="{{ post.date | date: "%Y-%m-%d" }}"/>{% else %}
     <meta name="citation_publication_date" content="{{ page.date | date: "%Y-%m-%d" }}"/>{% endif %}
     <meta name="citation_title" content="{{ page.title }}"/>
