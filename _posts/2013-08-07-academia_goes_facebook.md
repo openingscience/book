@@ -4,6 +4,7 @@ title: Academia Goes Facebook? The Potential of Social Network Sites in the Scho
 authors:
  - name:  Michael Nentwich
  - name:  René König
+categories: [tools]
 ---
 
 > This network is the seat of scientific opinion which is not held by
