@@ -68,10 +68,11 @@ medicine. John Wilbanks, the chief commons officer of Sage
 Bionetworks[^1], put this fact
 more bluntly:
 
-*„[…] neither Google nor Facebook would make a change to an advertising
+> […] neither Google nor Facebook would make a change to an advertising
 algorithm with a sample set as small as that used in a Phase III
-clinical trial.“* <div align="right"> John Wilbanks, Sage Bionetworks <br> Kotz, J.; *SciBX* 5(25); 2012
-</div> <br>
+clinical trial.
+<small>John Wilbanks, Sage Bionetworks. Kotz, J.; *SciBX* 5(25); 2012</small>
+
 One strategy to tackle these shortcomings is to build up networks and
 initiatives and pool the data to acquire sufficient sample sets[^2].
 This is not a trivial task because of the heterogeneity of the public
