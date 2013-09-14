@@ -1,0 +1,257 @@
+/* Bootstrap */
+$sansFontFamily: "rosario", Arial, sans-serif;
+$serifFontFamily: Georgia, serif;
+$baseFontFamily: $sansFontFamily;
+$baseFontSize: 16px;
+$baseLineHeight: 20px;
+$headingsFontFamily: $sansFontFamily;
+
+@import "bootstrap";
+@import "bootstrap-responsive";
+
+/* Font Awesome */
+$FontAwesomePath:   "../../font";
+@import "font-awesome/scss/font-awesome.scss";
+
+/* Pandoc syntax highlighting */
+@import "syntax";
+
+/* jekyll-scholar bibliography */
+ol.bibliography { padding-left: 1em; }
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 740px;
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+.page-header {
+  border-bottom: 0;
+  margin-bottom: 0.5em;
+}
+
+.page-header .date, .page-header p {
+  font-family: $sansFontFamily;
+  font-size: 1.1em;
+  line-height: 1.3em;
+  font-weight: 400;
+  color: #999;
+}
+
+.nav, .brand, .pagination li, .pagination a {
+  font-family: $sansFontFamily;
+  font-size: 1em;
+}
+
+.content p, .content ul, .content ol, figcaption {
+  margin-bottom: 1.5em;
+}
+
+.content p, .content ul li, .content ol li {
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
+.content ol li p, .content ol li h3 {
+  font-size: 1em;
+  line-height: 1.1em;
+}
+
+.toc li p, .footnotes p {
+  margin-bottom: 0;
+}
+
+.footnotes p {
+  font-size: 1em;
+}
+
+.toc h2 {
+  margin-top: 1em;
+}
+
+.toc li {
+  margin-left: 0.75em;
+}
+
+.toc-item {
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+
+blockquote p {
+  font-size: 1em;
+  line-height: 1.25em;
+  font-style: italic;
+}
+
+h1 {
+  line-height: 1.1em;
+}
+
+h2 {
+  font-size: 1.5em;
+  line-height: 1.1em;
+}
+
+h3 {
+  font-size: 1.25em;
+  line-height: 1.25em;
+  margin: 0;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+li.nostyle {
+  list-style-type: none;
+}
+
+img.about {
+  float: left;
+  margin-top: 16px;
+  margin-right: 16px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+}
+
+figcaption {
+  margin-top: 0.75em;
+  font-size: 1.1em;
+  line-height: 1.3em;
+  font-family: $sansFontFamily;
+}
+
+/* tag_box */
+.tag_box, ul.footer {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; }
+
+ul.footer {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  margin-bottom: 1em;
+}
+
+ul.footer li {
+  font-family: $sansFontFamily;
+  font-size: 1em;
+  float: left;
+  margin-right: 2em;
+}
+
+.tag_box li {
+  font-family: $sansFontFamily;
+  font-size: 0.75em;
+  line-height: 28px; }
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float: left; }
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  color: #555;
+  border-radius: 3px;
+  text-decoration: none; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.6em; }
+
+.tag_box a:hover {
+  background-color: #e5e5e5; }
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4c964d;
+  color: #FFF; }
+
+table {
+  font-family: $sansFontFamily;
+  max-width: 100%;
+  background-color: $tableBackground;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  margin-bottom: $baseLineHeight;
+
+  caption {
+    text-align: left;
+    vertical-align: top;
+    font-size: 1.1em;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+  }
+
+  // Cells
+  th, td, thead th, tbody td {
+    font-size: 0.9em;
+    line-height: 1.1em;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid $tableBorder;
+  }
+  th {
+    font-weight: bold;
+  }
+  // Bottom align for column headings
+  thead th {
+    vertical-align: bottom;
+  }
+  // Remove top border from thead by default
+  caption + thead tr:first-child th,
+  caption + thead tr:first-child td,
+  colgroup + thead tr:first-child th,
+  colgroup + thead tr:first-child td,
+  thead:first-child tr:first-child th,
+  thead:first-child tr:first-child td {
+    border-top: 0;
+  }
+  // Account for multiple tbody instances
+  tbody + tbody {
+    border-top: 2px solid $tableBorder;
+  }
+
+  // Nesting
+  .table {
+    background-color: $bodyBackground;
+  }
+}
+
+/* d3.js */
+.chart div {
+  background-color: white;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+.chart a {
+  fill: $linkColor;
+}
+
+.chart .title { font-size: 24px; }
+.chart .subtitle { fill: grey; }
+
+.chart .line {
+  fill: none;
+  stroke: #999;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.signpost { padding-top: 0.8em; }
+.year-label, .tooltip { font-family: $sansFontFamily; }

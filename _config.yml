@@ -1,0 +1,74 @@
+permalink: /:categories/:title
+
+paginate: 50
+paginate_path: "page:num"
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+pygments: true
+
+destination: ../openingscience.github.io/
+
+title: Opening Science
+name: Opening Science
+description: TEST
+tagline:
+url: http://openingscience.github.io
+editors:
+ - name:  Sönke Bartling
+   orcid: 0000-0001-5434-9433
+ - name:  Sascha Friesike
+
+chapters:
+ - name: Preface
+   path: preface
+ - name: Basics/Background
+   path: basics_background
+ - name: Tools
+   path: tools
+ - name: Vision
+   path: vision
+ - name: Cases & Recipes & How Tos
+   path: cases_recipes_howtos
+
+# The production_url is only used when full-domain names are needed
+# such as sitemap.txt
+# Most places will/should use BASE_PATH to make the urls
+#
+# If you have set a CNAME (pages.github.com) set your custom domain here.
+# Else if you are pushing to username.github.io, replace with your username.
+# Finally if you are pushing to a GitHub project page, include the project name at the end.
+
+production_url:  http://openingscience.github.io
+source_url:      http://github.com/openingscience/book
+archive_path:    /archive.html
+categories_path: /chapters.html
+tags_path:       /tags.html
+rss_path:        /rss.xml
+atom_path:       /atom.xml
+
+## Markdown Parser (standard Jekyll argument, extended to special parser)
+markdown: pandoc
+pandoc:
+  skip: true
+  flags: '--smart --mathjax --bibliography=bibliography/references.bib --csl=_styles/harvard1.csl'
+  outputs:
+    epub:
+    pdf:
+
+comments:
+  provider: disqus
+  disqus:
+    short_name : openingscience
+
+# analytics :
+#     provider : google
+#     google :
+#         tracking_id :
+
+scholar:
+  style: ./_styles/harvard1.csl
+  source: ./bibliography
+  bibliography: references.bib
+  bibtex_filters:
+    - latex
+    - markdown

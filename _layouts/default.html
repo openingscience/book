@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <div class="container-narrow">
+      <div class="page-header">
+        <h1>{{ page.title }}</h1>{% if page.title == "Opening Science" %}
+        <p>Opening Science - the Book</p>{% else %}
+        {% if page.authors %}<p>{% for author in page.authors %}
+{% if author.orcid %}<a href="http://orcid.org/{{author.orcid}}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}</p>{% endif %}{% endif %}
+      </div>
+
+      <div class="content">
+        {{ content | to_scholmd }}
+
+        {% include coins.html %}
+        {% include navigation.html %}
+      </div>
+      <hr>
+      {% include comments.html %}
+      {% include analytics.html %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+<a href="http://creativecommons.org/licenses/by/3.0/deed.en" class="pull-right"><img src="http://i.creativecommons.org/l/by-nc/3.0/80x15.png">
+<div class="footer">
+  <ul class="footer">
+    {% if page.previous.url %}
+      <li><a href="{{ page.previous.url }}"><i class="icon-arrow-left"></i> Previous</a></li>
+    {% endif %}
+    <li><a href="/"><i class="icon-home"></i> Home</a></li>
+    <li class="hidden-phone"><a href="/tags.html"><i class="icon-tags"></i> Tags</a></li>
+    <li class="hidden-phone"><a href="{{ site.source_url }}/tree/master/{{ page.path }}"><i class="icon-github"></i> Source Code</a></li>
+    {% if page.next.url %}
+      <li><a href="{{ page.next.url }}"><i class="icon-arrow-right"></i> Next</a></li>
+    {% endif %}
+  </ul>
+</div>

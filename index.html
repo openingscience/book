@@ -1,0 +1,28 @@
+---
+layout: default
+title: Opening Science
+---
+<div class="content">
+<div class="toc">
+{% for category in site.categories %}
+  <h2>{{ category | first | titleize }}</h2>
+  {% assign number = category.last.last.date | date: "%d" %}
+  <ol start="{{ number }}">
+  {% for post in category.last reversed %}
+    {% if category.first == "preface" %}
+      <li class="nostyle">
+    {% else %}
+      <li>
+    {% endif %}
+        <div class="toc-item">
+          <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+          {% if post.authors %}<p>{% for author in post.authors %}
+            {% if author.orcid %}<a href="http://orcid.org/{{author.orcid}}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}</p>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+    </ol>
+  {% endfor %}
+  </div>
+</div>
