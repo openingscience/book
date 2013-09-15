@@ -120,7 +120,7 @@ open publication and open accessible research data (see Chapter 14,
 Pampel & Dallmeier-Tiessen: Open Research Data)*.* “Open inquiry is at
 the heart of scientific enterprise … We are now on the brink of an
 achievable aim: for all science literature to be online, for all of the
-data to be online and for the two to be interoperable” (Boulton 2012).
+data to be online and for the two to be interoperable” [@boulton_science_2012].
 
 In several countries, initiatives are afoot to build a legal foundation
 to help broadening the road to a world of openly accessible scientific
@@ -253,7 +253,7 @@ build a positive resonance in their research community. Today, Open
 Access journals are, of course, embedded within the high ranking
 journals in their fields. More and more get listed, e.g. in the Journal
 Citation Report of *Thomson-Reuters* (more than ten percent of all
-ranked titles).[^4] Laakso et al. (2011) give a comprehensive overview
+ranked titles).[^4] Laakso et al. [-@laakso_development_2011] give a comprehensive overview
 of the development using a distinction between “The pioneering years
 (1993–1999), the innovation years (2000–2004), and the consolidation
 years (2005–2009)”. For the future a more numerous migration from
@@ -391,7 +391,7 @@ distribution between green and gold in the different disciplines
 studied. In all the life sciences, gold is the dominating OA access
 channel. The picture is reversed in the other disciplines where green
 dominated. The lowest overall OA share is in chemistry with 13 % and the
-highest in earth sciences with 33 %.”* (Björk et al. 2010).
+highest in earth sciences with 33 %.”* [@bjork_open_2010].
 
 ## New Models
 
@@ -427,7 +427,7 @@ view this may be interesting, but usually the price level is high and
 only a few authors utilize this option. Seen from an institutional point
 of view, this is a problematic business model, as article fees and
 subscription fees are normally not yet combined. Therefore, institutions
-pay twice to a publisher (Björk 2012). Obviously such a hybrid is not a
+pay twice to a publisher [@bjork_hybrid_2012]. Obviously such a hybrid is not a
 transition path to Gold.
 
 Since traditional publishers have adopted the Open Access business model
@@ -443,7 +443,7 @@ For example, a lot of publishers are still locked up in thinking in
 print terms. In parallel, a common fear is that ACPs will go up and up
 when traditional publishers adopt the gold model and will become
 unaffordable. Charges differ within a broad range of some hundred Euros
-up to over 3000 Euros (Leptin 2012).
+up to over 3000 Euros [@leptin_open_2012].
 
 We now see a mixture of the roles mentioned. As an example, libraries
 can, in certain cases like grey literature, switch to a publisher’s
@@ -532,7 +532,7 @@ Publications, the largest Open Access publisher in geosciences, combined
 open access publishing with a concept of open interactive peer review
 (Pöschl 2004).
 
-The rise of [PLOS One](http://plosone.org), an Open Access mega journal promising quick
+The rise of [PLOS ONE](http://plosone.org), an Open Access mega journal promising quick
 peer review and publication and accepting articles from all fields, has
 changed the scene. PLOS, which is now the largest scientific journal
 worldwide with around 14.000 articles per year, has been followed by a
@@ -554,8 +554,8 @@ licenses.
 
 ## Benefits
 
-Open Access publications proved to have citation advantages (Gargouri et
-al. 2010) resulting from open accessibility of scholarly results
+Open Access publications proved to have citation advantages [@gargouri_self-selected_2010]
+resulting from open accessibility of scholarly results
 formerly only available in closed access. It guarantees faster
 communication and discussion of scientific results. Therefore, it
 perfectly assists in fulfilling the most basic scholarly need:
@@ -568,11 +568,11 @@ to openly accessible texts will certainly be available. This will make
 interdisciplinary work easier and productive. Reuse, due to open
 licenses, the “possibility to translate, combine, analyze, adapt, and
 preserve the scientific material” is easier and will lead to new
-outcomes (Carroll 2011).
+outcomes [@carroll_why_2011].
 
 The statement “In the online era, researchers’ own ‘mandate’ will no
 longer just be ‘publish-or-perish’ but ‘self-archive to flourish’”
-(Gargouri et al. 2010) can be extended to “researchers’ own
+[@gargouri_self-selected_2010] can be extended to “researchers’ own
 ‘mandate’ will no longer just be ‘publish-or-perish’ but give open
 access to flourish”.
 
@@ -584,19 +584,6 @@ repositories, national repository systems and institutional repositories
 in serving scholarly communication. *International Journal of Digital
 Library Systems*, 1(4), pp.61–73.
 
-Björk, B.-C. et al., 2010. Open Access to the Scientific Journal
-Literature: Situation 2009 E. Scalas, ed. *PLoS ONE*, 5(6), p.e11273.
-doi:10.1371/journal.pone.0011273.
-
-Björk, B.-C., 2012. The hybrid model for open access publication of
-scholarly articles: A failed experiment? *Journal of the American
-Society for Information Science and Technology*, 63(8), pp.1496–1504.
-doi:10.1002/asi.22709.
-
-Boulton, G., 2012. *Science as an Open Enterprise*, London, UK: The
-Royal Society. Available at:
-<http://royalsociety.org/policy/projects/science-public-enterprise/report/>.
-
 Brembs, B., 2011. A Proposal for the Library of the Future.
 *björn.brembs.blog*. Available at: <http://bjoern.brembs.net>.
 
@@ -606,13 +593,6 @@ Because... *björn.brembs.blog*. Available at:
 
 Callaway, E., 2012. Geneticists eye the potential of arXiv. *Nature*,
 488(7409), pp.19–19. doi:10.1038/488019a.
-
-Carroll, M.W., 2011. Why Full Open Access Matters. *PLoS Biology*,
-9(11), p.e1001210. doi:10.1371/journal.pbio.1001210.
-
-Gargouri, Y. et al., 2010. Self-Selected or Mandated, Open Access
-Increases Citation Impact for Higher Quality Research R. P. Futrelle,
-ed. *PLoS ONE*, 5(10), p.e13636. doi:10.1371/journal.pone.0013636.
 
 Harnad, S., 2012. Open access: A green light for archiving. *Nature*,
 487(7407), pp.302–302. doi:10.1038/487302b.
@@ -626,13 +606,6 @@ Digital Age. Available at:
 
 Jubb, M., 2012. Open access: Let’s go for gold. *Nature*, 487(7407),
 pp.302–302. doi:10.1038/487302a.
-
-Laakso, M. et al., 2011. The Development of Open Access Journal
-Publishing from 1993 to 2009 M. Hermes-Lima, ed. *PLoS ONE*, 6(6),
-p.e20961. doi:10.1371/journal.pone.0020961.
-
-Leptin, M., 2012. Open Access--Pass the Buck. *Science*, 335(6074),
-pp.1279–1279. doi:10.1126/science.1220395.
 
 Nature, 2012. Access all areas. *Nature*, 481(7382), pp.409–409.
 doi:10.1038/481409a.
