@@ -20,17 +20,20 @@ below), assuming that he/she is also a scientist (the potential audience
 of Science 2.0). So how would such a person behave?
 
 Let us first outline the classical understanding of the usual "offline"
-scientist. About 70 years ago Robert Merton (1942) summarized some of
+scientist. About 70 years ago Robert Merton [-@merton_1942] summarized some of
 the basic sociological principles that drive scientists, the Mertonian
 norms of science, often referred to by the acronym “CUDOS”. These
-include *communalism* – the common ownership of scientific discoveries,
+include:
+
+* **communalism** – the common ownership of scientific discoveries,
 according to which scientists give up intellectual property in exchange
-for recognition and esteem; *universalism* – according to which claims
+for recognition and esteem;
+* **universalism** – according to which claims
 to truth are evaluated in terms of universal or impersonal criteria, and
 not on the basis of race, class, gender, religion, or nationality;
-*disinterestedness* – according to which scientists are rewarded for
-acting in ways that outwardly appear to be selfless; *organized
-skepticism* – all ideas must be tested and are subject to rigorous,
+* **disinterestedness** – according to which scientists are rewarded for
+acting in ways that outwardly appear to be selfless;
+* **organized skepticism** – all ideas must be tested and are subject to rigorous,
 structured community scrutiny.
 
 In addition to the Mertonian principles, western scientists are also
@@ -55,16 +58,16 @@ choices and were asked to choose *only one* answer, most closely
 resembling their feelings. Below is a summary of received answers:
 
 ---------------------------------------------------------------------------- ------
-I am having here a nice time **and** it is useful for my work (\~50/50)      40 %
-I am having here a nice time, relaxing after work                            19 %
-I am polishing my scientific arguments in online discussions                 12 %
-I am addicted to Internet. I would like to leave this resource but can not   10 %
-I am getting here some useful information for my work                        5 %
-I am popularizing my scientific ideas/publications                           5 %
-I am advertising my products/services                                        5 %
-I am helping other members, and I like it                                    2 %
-I am maintaining contacts with my colleagues here                            2 %
-I am here mainly to exchange PDF articles free of charge                     0 %
+I am having here a nice time **and** it is useful for my work (\~50/50)        40 %
+I am having here a nice time, relaxing after work                              19 %
+I am polishing my scientific arguments in online discussions                   12 %
+I am addicted to Internet. I would like to leave this resource but can not     10 %
+I am getting here some useful information for my work                           5 %
+I am popularizing my scientific ideas/publications                              5 %
+I am advertising my products/services                                           5 %
+I am helping other members, and I like it                                       2 %
+I am maintaining contacts with my colleagues here                               2 %
+I am here mainly to exchange PDF articles free of charge                        0 %
 ---------------------------------------------------------------------------- ------
 
 This survey presents quite surprising results for the advocates of
@@ -89,19 +92,12 @@ systems offering services other than the top three lines of this survey
 is wrong. Nothing is wrong with scientists. Something is wrong with
 Science 2.0, which needs to be more flexible. Acknowledging the huge
 progress reached by Science 2.0, we have to admit that it still requires
-large changes, and the next wave of science, Science 3.0, is yet to come
-(Teif 2013, 2009).
+large changes, and the next wave of science, Science 3.0, is yet to come [@teif_2013] and Teif (2009).
 
 ## References
 
-Merton, R.K., 1942. *The sociology of science: theoretical and empirical
-investigations*, Chicago: University of Chicago Press.
-
 Polanyi, M., 1962. The republic of science: Its political and economic
 theory. *Minerva*, 1, pp.54–74.
-
-Teif, V.B., 2013. Science 3.0: Corrections to the Science 2.0 paradigm.
-Available at: ArXiv:1301.2522.
 
 Teif, V.B., 2009. Science 3.0: The future of science in the internet.
 Available at: <http://generegulation.info/index.php/science-30>
