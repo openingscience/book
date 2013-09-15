@@ -1,23 +1,21 @@
 ---
 layout: post
 title: "Excellence by Nonsense: The Competition for Publications in Modern Science"
+modified_date: 15 September 2013
 authors:
  - name: Mathias Binswanger
-categories: [basics_background]
+category: basics_background
+abstract: "In this chapter, Binswanger (a critic of the current scientific process)
+explains how artificial competitions affect science and how they result
+in nonsense. An economist himself, Binswanger provides examples from his
+fields and shows how impact factors and publication pressure detoriates
+the quality of scientific publications. Some might know his work and
+arguments from his book “Sinnlose Wettbewerbe”."
 ---
 
 > Most scientific publications are utterly redundant, mere qualitative
 ‘productivity’.
 <small>Gerhard Fröhlich</small>
-
-## Abstract
-
-In this chapter, Binswanger (a critic of the current scientific process)
-explains how artificial competitions affect science and how they result
-in nonsense. An economist himself, Binswanger provides examples from his
-fields and shows how impact factors and publication pressure detoriates
-the quality of scientific publications. Some might know his work and
-arguments from his book “Sinnlose Wettbewerbe”.
 
 ## In Search of Excellence
 

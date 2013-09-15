@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "On the Sociology of Science 2.0"
+modified_date: 15 September 2013
 authors:
  - name: Vladimir B. Teif
-categories: [cases_recipes_howtos]
+category: cases_recipes_howtos
 ---
 
 > The difference between technology and slavery is that slaves are fully aware that they are not free.

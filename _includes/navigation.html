@@ -1,3 +1,9 @@
+{% if page.categories %}
+  <i class="icon-folder-open"></i> {{ page.categories.first | titleize }}<br/>
+{% endif %}
+{% if page.modified_date %}
+  <i class="icon-calendar"></i> {{ page.modified_date }}<br/>
+{% endif %}
 <i class="icon-github"></i> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a><br/>
 {% if page.tags and page.tags != empty %}
   <ul>
@@ -9,7 +15,7 @@
 <ul>
   <li><i class="icon-home"></i> <a href="/">Home</a></li>
   <li><i class="icon-tags"></i> <a href="/tags.html">Tags</a></li>
-  <li><i class="icon-user"></i> <a href="/about.html">About</a></li>
+  <li><i class="icon-question"></i> <a href="/about.html">About</a></li>
 </ul>
 <ul>
   {% if page.previous.url %}

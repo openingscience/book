@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dynamic Publication Formats and Collaborative Authoring"
+modified_date: 15 September 2013
 authors:
  - name: Lambert Heller
    orcid: 0000-0003-0232-7085
@@ -9,19 +10,7 @@ authors:
    orcid: 0000-0001-5434-9433
 categories: [vision]
 tags: [blogging]
----
-
-> We are Wikipedians. This means that we should be: kind, thoughtful,
-passionate about getting it right, open, tolerant of different
-viewpoints, open to criticism, bold about changing our policies and also
-cautious about changing our policies. We are not vindictive, childish,
-and we don't stoop to the level of our worst critics, no matter how much
-we may find them to be annoying.
-<small>Jimmmy Wales ― one of the founders of Wikipedia</small>
-
-## Abstract
-
-While Online Publishing has replaced most traditional printed journals
+abstract: "While Online Publishing has replaced most traditional printed journals
 in less than twenty years, today’s Online Publication Formats are still
 closely bound to the medium of paper. Collaboration is mostly hidden
 from the readership, and ‘final’ versions of papers are stored in
@@ -38,7 +27,16 @@ described as a) a ‘parallel universe’ based on the commodification of
 (scholarly) media, and b) as a much needed complement, slowly recognized
 and incrementally integrated into more efficient and dynamic workflows
 of production, improvement, and dissemination of scholarly knowledge in
-general.
+general."
+---
+
+> We are Wikipedians. This means that we should be: kind, thoughtful,
+passionate about getting it right, open, tolerant of different
+viewpoints, open to criticism, bold about changing our policies and also
+cautious about changing our policies. We are not vindictive, childish,
+and we don't stoop to the level of our worst critics, no matter how much
+we may find them to be annoying.
+<small>Jimmmy Wales ― one of the founders of Wikipedia</small>
 
 ## Introduction
 

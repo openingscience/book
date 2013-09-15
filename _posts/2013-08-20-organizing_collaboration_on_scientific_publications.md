@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Organizing Collaboration on Scientific Publications: From Email Lists to Cloud Services"
+modified_date: 15 September 2013
 authors:
  - name: Sönke Bartling
    orcid: 0000-0001-5434-9433

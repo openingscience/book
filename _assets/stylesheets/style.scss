@@ -19,16 +19,6 @@ $FontAwesomePath:   "../../font";
 /* jekyll-scholar bibliography */
 ol.bibliography { padding-left: 1em; }
 
-/* Custom container */
-.container-narrow {
-  margin: 0 auto;
-  max-width: 740px;
-}
-
-.container-narrow > hr {
-  margin: 30px 0;
-}
-
 .page-header {
   border-bottom: 0;
   margin-bottom: 0.5em;
@@ -40,6 +30,12 @@ ol.bibliography { padding-left: 1em; }
   line-height: 1.3em;
   font-weight: 400;
   color: #999;
+}
+
+.abstract {
+  margin-top: 0.45em;
+  font-size: 0.9em;
+  line-height: 1.3em;
 }
 
 .nav, .brand, .pagination li, .pagination a {

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Unique Identifiers for Researchers"
+modified_date: 15 September 2013
 authors:
  - name:  Martin Fenner
    orcid: 0000-0003-1419-2405
  - name:  Laure Haak
    orcid: 0000-0001-5109-3700
-categories: [cases_recipes_howtos]
+category: cases_recipes_howtos
 tags: [persistent identifiers]
 ---
 

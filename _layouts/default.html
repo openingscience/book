@@ -7,7 +7,8 @@
     <div class="container">
       <div class="page-header">
         <h1>{{ page.title }}</h1>{% if page.title == "Opening Science" %}
-        <p>Opening Science - the Book</p>{% else %}
+        {% if site.editors %}<p>The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing. Edited by {% for editor in site.editors %}
+{% if editor.orcid %}<a href="http://orcid.org/{{editor.orcid}}">{{ editor.name }}</a>{% else %}{{ editor.name }}{% endif %}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}.</p>{% endif %}{% else %}
         {% if page.authors %}<p>{% for author in page.authors %}
 {% if author.orcid %}<a href="http://orcid.org/{{author.orcid}}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}</p>{% endif %}{% endif %}
       </div>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About"
+modified_date: 15 September 2013
 ---
 
 <p>**Opening Science - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing** is a book that will be [published by Springer](http://www.springer.com/engineering/book/978-3-319-00025-1) in September 2013 with Sönke Bartling and Sascha Friesike as editors. Opening Science will be available as Open Access book with a Creative Commons Attribution-NonCommercical ([CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/deed.en)) license.</p>

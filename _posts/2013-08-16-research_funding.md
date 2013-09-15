@@ -1,17 +1,14 @@
 ---
 layout: post
 title: Research Funding in Open Science
+modified_date: 15 September 2013
 authors:
  - name: Jörg Eisfeld-Reschke
  - name: Ulrich Herb
    orcid: 0000-0002-3500-3119
  - name: Karsten Wenzlaff
-categories: [vision]
----
-
-## Abstract
-
-The advent of the Open Science paradigm has led to new interdependencies
+category: vision
+abstract: "The advent of the Open Science paradigm has led to new interdependencies
 between the funding of research and the practice of Open Science. On the
 one hand, traditional revenue models in Science Publishing are
 questioned by Open Science Methods and new revenue models in and around
@@ -26,7 +23,8 @@ understanding of financing science shaped by transparency, interaction,
 participation, and stakeholder governance—in other words reach the next
 level as Research Funding 2.0? This article focuses on both of the
 aspects: Firstly, how Research Funding is promoting Open Science.
-Secondly, how an innovative and open Research Funding might look like.
+Secondly, how an innovative and open Research Funding might look like."
+---
 
 ## Research Funding Policies: Pushing forward Open Science
 

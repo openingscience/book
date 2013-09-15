@@ -1,15 +1,12 @@
 ---
 layout: post
 title: (Micro)blogging Science? Notes on Potentials and Constraints of New Forms of Scholarly Communication
+modified_date: 15 September 2013
 authors:
  - name:  Cornelius Puschmann
-categories: [tools]
+category: tools
 tags: [blogging]
----
-
-## Abstract
-
-Academic publishing, as a practice and as a business, is undergoing the
+abstract: "Academic publishing, as a practice and as a business, is undergoing the
 most significant changes in its 350-year history. Electronic journals
 and books, both open access and behind digital pay walls, are
 increasingly replacing printed publications. In addition to formal
@@ -25,7 +22,8 @@ exist, with some users regarding them as a forum to educate the public,
 while others see them as a possible replacement for traditional
 publishing. This chapter will provide examples of blogs and microblogs
 as tools for scientific communication for different stakeholders, as
-well as discussing their implications for digital scholarship.
+well as discussing their implications for digital scholarship."
+---
 
 ## Framing the Issue: New Forms of Scholarly Communication and Science 2.0
 

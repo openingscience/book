@@ -1,18 +1,11 @@
 ---
 layout: post
 title: "Science Caught Flat-footed: How Academia Struggles with Open Science Communication"
+modified_date: 15 September 2013
 authors:
  - name: Alexander Gerber
-categories: [basics_background]
----
-
-> Change happens by listening and then starting a dialogue with the
-people who are doing something you don't believe is right.
-<small>Jane Goodall, British ethologist and a devoted science communicator</small>
-
-## Abstract
-
-As high as the potential of Web 2.0 might be, the European academia,
+category: basics_background
+abstract: "As high as the potential of Web 2.0 might be, the European academia,
 compared to that of the US, mostly reacts hesitantly at best to these
 new opportunities. Interestingly enough this scepticism applies even
 more to science communication than to scientific practice itself. The
@@ -26,7 +19,12 @@ foremost the embedding frameworks are adapted. This will include new
 forms of impact measurement, recognition, and qualification, and not
 only obvious solutions from the archaic toolbox of enlightenment and
 dissemination. The author also illustrates the causes, effects, and
-solutions for this cultural change with empirical data.
+solutions for this cultural change with empirical data."
+---
+
+> Change happens by listening and then starting a dialogue with the
+people who are doing something you don't believe is right.
+<small>Jane Goodall, British ethologist and a devoted science communicator</small>
 
 The swan song of what was meant to be an era of “Public Understanding of
 Science and Humanities” (PUSH) rings rather dissonantly today, given the

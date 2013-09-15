@@ -1,21 +1,12 @@
 ---
 layout: post
 title: "Altmetrics and Other Novel Measures for Scientific Impact"
+modified_date: 15 September 2013
 authors:
  - name:  Martin Fenner
    orcid: 0000-0003-1419-2405
 categories: [vision]
----
-
-> Good science, original work, always went beyond the body of received
-opinion, always represented a dissent from orthodoxy. However, then,
-could the orthodox fairly assess it?
-<small>Richard Rhodes mod. from Michael Polanyi in "Making of the Atomic
-Bomb"</small>
-
-## Abstract
-
-Impact assessment is one of the major drivers in scholarly
+abstract: "Impact assessment is one of the major drivers in scholarly
 communication, in particular since the number of available faculty
 positions and grants has far exceeded the number of applications. Peer
 review still plays a critical role in evaluating science, but
@@ -25,7 +16,14 @@ complement both citation analysis and peer review. Altmetrics use
 indicators gathered in the real-time Social Web to provide immediate
 feedback about scholarly works. We describe the most important
 altmetrics and provide a critical assessment of their value and
-limitations.
+limitations."
+---
+
+> Good science, original work, always went beyond the body of received
+opinion, always represented a dissent from orthodoxy. However, then,
+could the orthodox fairly assess it?
+<small>Richard Rhodes mod. from Michael Polanyi in "Making of the Atomic
+Bomb"</small>
 
 ## Introduction
 

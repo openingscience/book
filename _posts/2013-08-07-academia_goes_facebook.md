@@ -1,22 +1,12 @@
 ---
 layout: post
-title: Academia Goes Facebook? The Potential of Social Network Sites in the Scholarly Realm
+title: "Academia Goes Facebook? The Potential of Social Network Sites in the Scholarly Realm"
+modified_date: 15 September 2013
 authors:
  - name:  Michael Nentwich
  - name:  René König
-categories: [tools]
----
-
-> This network is the seat of scientific opinion which is not held by
-any single human brain, but which is split into thousands of different
-fragments … each of whom endorses the other´s opinion at second hand, by
-relying on the consensual chains which link him to all the others
-through a sequence of overlapping neighborhoods.
-<small>Michael Polanyi (1962) in the Republic of Science</small>
-
-## Abstract
-
-Social network sites (SNS) have not only become a fundamental part of
+category: tools
+abstract: "Social network sites (SNS) have not only become a fundamental part of
 the Web, but also increasingly offer novel communicative and networking
 possibilities for academia. Following a short presentation of the
 typical functions of (science-specific) SNS, we firstly present the
@@ -29,7 +19,15 @@ the challenge of multiple channels, which presents itself as a major
 hurdle for an effective implementation of SNS in academia. Despite hese
 difficulties, we come to the conclusion that SNS are, in principle,
 functional for scholarly communication and that they have serious
-potential within academia.
+potential within academia."
+---
+
+> This network is the seat of scientific opinion which is not held by
+any single human brain, but which is split into thousands of different
+fragments … each of whom endorses the other´s opinion at second hand, by
+relying on the consensual chains which link him to all the others
+through a sequence of overlapping neighborhoods.
+<small>Michael Polanyi (1962) in the Republic of Science</small>
 
 ## Introduction
 

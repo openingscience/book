@@ -1,25 +1,23 @@
 ---
 layout: post
 title: "Novel Scholarly Journal Concepts"
+modified_date: 15 September 2013
 authors:
  - name: Peter Binfield
    orcid: 0000-0002-9341-7985
-categories: [tools]
+category: tools
 tags: [open access, publishing]
+abstract: "Recent years have seen a great deal of experimentation around the basic
+concept of the journal. This chapter overviews some of the more novel or
+interesting developments in this space, developments which include new
+business models; new editorial models, and new ways in which the
+traditional functions of the journal can be disaggregated into separate
+services."
 ---
 
 > It is not the strongest of the species that survives, nor the most
 intelligent, but the one most responsive to change. <br>
 <small>Charles Darwin</small>
-
-## Abstract
-
-Recent years have seen a great deal of experimentation around the basic
-concept of the journal. This chapter overviews some of the more novel or
-interesting developments in this space, developments which include new
-business models; new editorial models, and new ways in which the
-traditional functions of the journal can be disaggregated into separate
-services.
 
 ## Introduction
 

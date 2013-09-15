@@ -1,16 +1,13 @@
 ---
 layout: post
 title: Intellectual Property and Computational Science
+modified_date: 15 September 2013
 authors:
  - name: Victoria Stodden
    orcid: 0000-0003-2015-7825
-categories: [vision]
+category: vision
 tags: [licenses, open access]
----
-
-## Abstract
-
-This chapters outlines some of the principles ways United States
+abstract: "This chapters outlines some of the principles ways United States
 Intellectual Property Law affects the sharing of digital scholarly
 objects, particularly for those who wish to practice reproducible
 computational science or open science. The sharing of the research
@@ -22,7 +19,8 @@ three digital scholarly objects: the research article; the data; and the
 code. Recommendations are made to maximize the downstream reuse utility
 of each of these objects. Finally, this chapter proposes new structures
 to manage Intellectual Property rights related to scientific research
-going forward.
+going forward."
+---
 
 ## Introduction
 

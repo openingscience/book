@@ -1,15 +1,12 @@
 ---
 layout: post
 title: Open Innovation and Crowdsourcing in the Sciences
+modified_date: 15 September 2013
 authors:
  - name: Thomas Schildhauer
  - name: Hilger Voss
-categories: [vision]
----
-
-## Abstract
-
-The advent of open innovation has intensified communication and
+category: vision
+abstract: "The advent of open innovation has intensified communication and
 interaction between scientists and corporations. Crowdsourcing added to
 this trend. Nowadays research questions can be raised and answered from
 virtually anywhere on the globe. This chapter provides an overview of
@@ -23,7 +20,8 @@ asking for help to find a solution to a scientific question or
 contributing not only scientific knowledge but also other ideas towards
 the solution-finding process. Besides explaining forms and platforms for
 crowdsourcing in the sciences we also point out inherent risks and
-provide a future outlook for this aspect of (scientific) collaboration.
+provide a future outlook for this aspect of (scientific) collaboration."
+---
 
 ##What is Open Innovation and What is Crowdsourcing?
 

@@ -6,6 +6,7 @@ paginate_path: "page:num"
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
+relative_source: ../book/
 destination: ../openingscience.github.io/
 
 title: Opening Science

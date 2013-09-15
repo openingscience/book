@@ -1,14 +1,11 @@
 ---
 layout: post
 title: The Social Factor of Open Science
+modified_date: 15 September 2013
 authors:
  - name: Tobias Fries
-categories: [vision]
----
-
-## Abstract
-
-Increasing visibility in the internet is a key success factor for all
+category: vision
+abstract: "Increasing visibility in the internet is a key success factor for all
 stakeholders in the online world. Sky rocketing online marketing
 spending of companies as well as increasing personal resources in
 systematic “self-marketing” of private people are a consequence of this.
@@ -22,7 +19,8 @@ marketing world to the special situation of science marketing. The
 article gives hints towards most promising, practical approaches. The
 theorectical base is derived from considerations in the field of
 scale-free networks in which quality is not necessarily a predominant
-success factor, but the connectivity.
+success factor, but the connectivity."
+---
 
 ## Introduction
 

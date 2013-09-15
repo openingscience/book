@@ -1,14 +1,11 @@
 ---
 layout: post
 title: "Challenges of Open Data in Medical Research"
+modified_date: 15 September 2013
 authors:
  - name: Ralf Floca
-categories: [cases_recipes_howtos]
----
-
-## Abstract
-
-The success of modern, evidence based and personalized medical research
+category: cases_recipes_howtos
+abstract: "The success of modern, evidence based and personalized medical research
 is highly dependent on the availability of a sufficient data basis in
 terms of quantity and quality. This often also implies topics like
 exchange and consolidation of data. In the area of conflict between data
@@ -17,7 +14,8 @@ technical, organizational and legal challenges emerge. Coping with these
 challenges is one of the main tasks of information management in medical
 research. Using the example of cancer research, this case study points
 out the marginal conditions, requirements and peculiarities of handling
-research data in the context of medical research.
+research data in the context of medical research."
+---
 
 ## Introduction
 

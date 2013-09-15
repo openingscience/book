@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Towards Another Scientific Revolution"
+modified_date: 15 September 2013
 authors:
  - name: Sönke Bartling
    orcid: 0000-0001-5434-9433
  - name: Sascha Friesike
-categories: [basics_background]
+category: basics_background
+abstract: "In this introductory chapter we establish a common understanding of what are and what drives current changes in research and science. The concepts of Science 2.0 and Open Science will be introduced. As such we provide a short introduction to the history of science and knowledge dissemination. We explain the origins of our scientific culture which evolved around publication methods. Interdependencies of current concepts will be elucidated and it will be stated that the transition towards Open Science is a complex cultural change. Reasons as to why the change is slow are discussed and the main obstacles are identified. Next, we explain the recent changes in scientific workflows and how these cause changes in the system as a whole. Furthermore, we provide an overview on the entire book and explain what can be found in each chapter."
 ---
 
 > But even within those limits, the openness I am advocating would be
@@ -13,22 +15,6 @@ a giant cultural shift in how science is done, a second open science
 revolution extending and completing the first open science revolution,
 of the 17th and 18th centuries.
 <small>Michael Nielsen</small>
-
-## Abstract
-
-In this introductory chapter we establish a common understanding of what
-are and what drives current changes in research and science. The
-concepts of Science 2.0 and Open Science will be introduced. As such we
-provide a short introduction to the history of science and knowledge
-dissemination. We explain the origins of our scientific culture which
-evolved around publication methods. Interdependencies of current
-concepts will be elucidated and it will be stated that the transition
-towards Open Science is a complex cultural change. Reasons as to why the
-change is slow are discussed and the main obstacles are identified.
-Next, we explain the recent changes in scientific workflows and how
-these cause changes in the system as a whole. Furthermore, we provide an
-overview on the entire book and explain what can be found in each
-chapter.
 
 Nicole Forster’s goal as a researcher is to enhance cancer treatment.
 That is why she and her colleagues in the laboratory of Leif W. Ellisen

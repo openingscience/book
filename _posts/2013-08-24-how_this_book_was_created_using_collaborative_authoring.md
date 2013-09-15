@@ -1,22 +1,20 @@
 ---
 layout: post
 title: "How this book was created using collaborative authoring and cloud tools"
+modified_date: 15 September 2013
 authors:
  - name: Sönke Bartling
    orcid: 0000-0001-5434-9433
-categories: [cases_recipes_howtos]
----
-
-## Abstract
-
-This book about novel publishing and collaboration methods of scholarly
+category: cases_recipes_howtos
+abstract: "This book about novel publishing and collaboration methods of scholarly
 knowledge was itself created using novel and collaborative authoring
 tools. Google Docs as a collaborative authoring and text editing tool
 and Dropbox as a cloud storage solution were used. Our experience was a
 positive one and we think that it saved us a lot of organisational
 emails and hundreds of work hours. Here we describe the workflow process
 in detail so that the interested author might benefit from what we
-learnt.
+learnt."
+---
 
 ## How This Book was Created
 

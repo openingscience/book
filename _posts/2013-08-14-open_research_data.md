@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Open Research Data: From Vision to Practice"
+modified_date: 15 September 2013
 authors:
  - name: Heinz Pampel
    orcid: 0000-0003-3334-2771
@@ -8,14 +9,7 @@ authors:
    orcid: 0000-0002-6137-2348
 categories: [vision]
 tags: [research data]
----
-
-> To make progress in science, we need to be open and share.
-<small>Neelie Kroes (2012)</small>
-
-## Abstract
-
-“To make progress in science, we need to be open and share.” This quote
+abstract: "“To make progress in science, we need to be open and share.” This quote
 from Neelie Kroes (2012), vice president of the European Commission
 describes the growing public demand for an Open Science. Part of Open
 Science is, next to Open Access to peer-reviewed publications, the open
@@ -37,7 +31,11 @@ landscape of data repositories, enhanced publications and data papers.
 In this context the authors also shed light on incentive mechanisms,
 data citation practises and the interaction between data repositories
 and journals. In the conclusions the authors outline requirements of a
-future Data Sharing culture.
+future Data Sharing culture."
+---
+
+> To make progress in science, we need to be open and share.
+<small>Neelie Kroes (2012)</small>
 
 ##1. The Vision of Open Research Data
 

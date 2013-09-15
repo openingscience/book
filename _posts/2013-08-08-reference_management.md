@@ -1,22 +1,16 @@
 ---
 layout: post
 title: Reference Management
+modified_date: 15 September 2013
 authors:
  - name:  Martin Fenner
    orcid: 0000-0003-1419-2405
  - name:  Kaja Scheliga
  - name:  Sönke Bartling
    orcid: 0000-0001-5434-9433
-categories: [tools]
+category: tools
 tags: [persistent identifiers]
----
-
-> If I have seen further it is by standing on the shoulders of Giants.
-<small>Isaac Newton</small>
-
-## Abstract
-
-Citations of relevant works are an integral part of all scholarly
+abstract: "Citations of relevant works are an integral part of all scholarly
 papers. Collecting, reading, and integrating these references into a
 manuscript is a time-consuming process, and reference managers have
 facilitated this process for more than 25 years. In the past 5 years, we
@@ -31,7 +25,11 @@ managers increasingly have to handle other forms of scholarly content,
 from presentation slides to blog posts and web links. Open source
 software and open standards play a growing role in reference management.
 This chapter gives an overview of important trends in reference
-management and describes the most popular tools.
+management and describes the most popular tools."
+---
+
+> If I have seen further it is by standing on the shoulders of Giants.
+<small>Isaac Newton</small>
 
 ## Introduction
 

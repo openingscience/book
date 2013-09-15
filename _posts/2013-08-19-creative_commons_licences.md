@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Creative Commons Licences"
+modified_date: 15 September 2013
 authors:
  - name: Sascha Friesike
 categories: [cases_recipes_howtos]
