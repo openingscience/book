@@ -1277,9 +1277,6 @@ Wuchty, S., Jones, B.F. & Uzzi, B., 2007. The Increasing Dominance of
 Teams in Production of Knowledge. *Science*, 316(5827), pp.1036–1039.
 doi:10.1126/science.1136099.
 
-* * * * *
-
-<references/>
 
 [^1]: In the language of economics, this means that the information asymmetry between scientists and lay people is so large that "monitoring" by outsiders is no longer possible (Dasgupta and David, 1994, p 505)
 

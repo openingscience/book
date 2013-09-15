@@ -1,14 +1,21 @@
-<a href="http://creativecommons.org/licenses/by/3.0/deed.en" class="pull-right"><img src="http://i.creativecommons.org/l/by-nc/3.0/80x15.png">
-<div class="footer">
-  <ul class="footer">
-    {% if page.previous.url %}
-      <li><a href="{{ page.previous.url }}"><i class="icon-arrow-left"></i> Previous</a></li>
-    {% endif %}
-    <li><a href="/"><i class="icon-home"></i> Home</a></li>
-    <li class="hidden-phone"><a href="/tags.html"><i class="icon-tags"></i> Tags</a></li>
-    <li class="hidden-phone"><a href="{{ site.source_url }}/tree/master/{{ page.path }}"><i class="icon-github"></i> Source Code</a></li>
-    {% if page.next.url %}
-      <li><a href="{{ page.next.url }}"><i class="icon-arrow-right"></i> Next</a></li>
-    {% endif %}
+<i class="icon-github"></i> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a><br/>
+{% if page.tags and page.tags != empty %}
+  <ul>
+    {% assign tags_list = page.tags %}
+    {% include tags_list %}
   </ul>
-</div>
+{% endif %}
+<h3>Opening Science - The Book</h3>
+<ul>
+  <li><i class="icon-home"></i> <a href="/">Home</a></li>
+  <li><i class="icon-tags"></i> <a href="/tags.html">Tags</a></li>
+  <li><i class="icon-user"></i> <a href="/about.html">About</a></li>
+</ul>
+<ul>
+  {% if page.previous.url %}
+    <li><i class="icon-arrow-left"></i> <a href="{{ page.previous.url }}">Previous</a></li>
+  {% endif %}
+  {% if page.next.url %}
+    <li><i class="icon-arrow-right"></i> <a href="{{ page.next.url }}">Next</a></li>
+  {% endif %}
+</ul>

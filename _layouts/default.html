@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body>
-    <div class="container-narrow">
+    <div class="container">
       <div class="page-header">
         <h1>{{ page.title }}</h1>{% if page.title == "Opening Science" %}
         <p>Opening Science - the Book</p>{% else %}
@@ -13,14 +13,27 @@
       </div>
 
       <div class="content">
-        {{ content | to_scholmd }}
+        <div class="row-fluid">
+          <div class="span8">
+            {{ content | to_scholmd }}
 
-        {% include coins.html %}
-        {% include navigation.html %}
+            <div class="license">
+              <a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en" class="pull-right"><img src="http://i.creativecommons.org/l/by-nc/3.0/80x15.png"></a>
+            </div>
+
+            {% include coins.html %}
+          </div>
+
+          <div class="offset1 span3 aside visible-desktop">
+            <div class="sidebar-nav-fixed">
+              {% include navigation.html %}
+            </div>
+          </div>
+        </div>
+        <hr>
+        {% include comments.html %}
+        {% include analytics.html %}
       </div>
-      <hr>
-      {% include comments.html %}
-      {% include analytics.html %}
     </div>
   </body>
 </html>
