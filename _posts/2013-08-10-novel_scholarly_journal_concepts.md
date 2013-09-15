@@ -57,18 +57,18 @@ consider some of the other Open Access business models which are in the
 marketplace today:
 
 ### Free to Publish
-[e-Life](http://www.elifesciences.org/the-journal/) is
+[eLife](http://www.elifesciences.org/the-journal/) is
 a highly selective, open access journal which is entirely financed by
 research funders (Max Planck Society, the, Wellcome Trust and the HHMI).
 Because of this funding, the journal does not charge authors a
 publication fee (hence it is free to publish, as well as free to read).
-E-Life is perhaps the most recent, and visible, example of a ‘free-free’
+eLife is perhaps the most recent, and visible, example of a ‘free-free’
 journal but clearly many other journals are funded by entities such as
 Institutions, or Societies to the extent that their costs can also be
 entirely covered.
 
 ### Individual Membership Models
-[PeerJ](https://peerj.com/)[^1] (see Fig 1) is an open access journal which offers authors a Lifetime
+[PeerJ](https://peerj.com/)[^1] (see Fig. 1) is an open access journal which offers authors a Lifetime
 Membership, in return for which authors can publish freely for life.
 Membership fees start at $99 (allowing authors to publish once per
 year) and rise to $299 (which allows authors to freely publish as many
@@ -122,43 +122,46 @@ ran PLOS ONE)* - a journal which would peer review all content, but only
 ask the reviewers to comment on the scientific and methodological
 soundness, not on the level of interest (or ‘impact’, or ‘degree of
 advance’) of the article. PLOS ONE has proven to be wildly successful -
-it launched in December 2006, and in 2012 alone it published 23,464
-articles[^2] (approximately 2.5% of all the content indexed by PubMed in
+it launched in December 2006, and in 2012 alone it published [23,464
+articles](http://www.plosone.org/search/advanced?pageSize=12&sort=&queryField=publication\_date&startDateAsString=2012-01-01&endDateAsString=2012-12-31&unformattedQuery=publication\_date%3A[2012-01-01T00%3A00%3A00Z+TO+2012-12-31T23%3A59%3A59Z]+&journalOpt=some&filterJournals=PLoSONE&subjectCatOpt=all&filterArticleTypeOpt=all) (approximately 2.5% of all the content indexed by PubMed in
 that year, and making it the largest journal in the world by several
 multiples) and continues to grow year on year. This success did not go
 unnoticed - PLOS ONE coined a new category of journal, the “Open Access
 Megajournal” and, with it, gave rise to a number of similar journals
 (employing similar editorial criteria).
 
-The archetypal features of a MegaJournal seem to be: 1) editorial
-criteria which judges articles only on scientific soundness; 2) a very
-broad subject scope (for example the whole of Genetics, the whole of
-Social Sciences); 3) an open access model employing a payment model
-(typically APC) which is set up for each article to pay its own costs;
-4) a large editorial board of academic editors (as opposed to a staff of
+The archetypal features of a MegaJournal seem to be:
+
+1. editorial criteria which judges articles only on scientific soundness;
+2. a very broad subject scope (for example the whole of Genetics, the whole of
+Social Sciences);
+3. an open access model employing a payment model (typically APC) which is set up for each article to pay its own costs;
+4. a large editorial board of academic editors (as opposed to a staff of
 professional editors).
 
 Although some megajournals are not completely transparent about their
 editorial criteria (perhaps for fear of harming their brand), a
 non-exhaustive list of these ‘MegaJournals’ would currently include (in
 no particular order)
-[BMJ Open](http://bmjopen.bmj.com/)[](http://bmjopen.bmj.com/),
-[SAGE Open](http://sgo.sagepub.com/), [PeerJ](https://peerj.com/),
-[Springer](http://www.springerplus.com/)[](http://www.springerplus.com/)[Plus](http://www.springerplus.com/),
-[Scientific Reports (from Nature)](http://www.nature.com/srep/index.html),
-[Q Science Connect](http://www.qscience.com/loi/connect),
-[Elementa](http://elementascience.org/),
-[Optics Express](http://www.opticsinfobase.org/oe/home.cfm),
-[G3 (from the Genetics Society of America)](http://www.g3journal.org/),
-[Biology Open (from the Company of Biologists)](http://bio.biologists.org/)[](http://bio.biologists.org/),
-[IEEE Access](http://www.ieee.org/publications_standards/publications/ieee_access.html),
-[AIP](http://aipadvances.aip.org/about/journal)[](http://aipadvances.aip.org/about/journal)[Advances](http://aipadvances.aip.org/about/journal),
-[The](http://www.tswj.com/)[](http://www.tswj.com/)[Scientific](http://www.tswj.com/)[](http://www.tswj.com/)[World](http://www.tswj.com/)[](http://www.tswj.com/)[Journal](http://www.tswj.com/),
-[Cureus](http://www.cureus.com/),
-[F](http://f1000research.com/)[1000](http://f1000research.com/)[Research](http://f1000research.com/)
-and
-[FEBS Open Bio](http://www.journals.elsevier.com/febs-open-bio/)[](http://www.journals.elsevier.com/febs-open-bio/). In
-addition, it has been argued that the
+
+* [BMJ Open](http://bmjopen.bmj.com/)
+* [SAGE Open](http://sgo.sagepub.com/)
+* [PeerJ](https://peerj.com/)
+* [Springer Plus](http://www.springerplus.com/)
+* [Scientific Reports (from Nature)](http://www.nature.com/srep/index.html)
+* [Q Science Connect](http://www.qscience.com/loi/connect)
+* [Elementa](http://elementascience.org/)
+* [Optics Express](http://www.opticsinfobase.org/oe/home.cfm)
+* [G3 (from the Genetics Society of America)](http://www.g3journal.org/)
+* [Biology Open (from the Company of Biologists)](http://bio.biologists.org/)
+* [IEEE Access](http://www.ieee.org/publications_standards/publications/ieee_access.html)
+* [AIP Advances](http://aipadvances.aip.org/about/journal)
+* [The Scientific World Journal](http://www.tswj.com/)
+* [Cureus](http://www.cureus.com/)
+* [F1000 Research](http://f1000research.com/)
+* [FEBS Open Bio](http://www.journals.elsevier.com/febs-open-bio/)
+
+In addition, it has been argued that the
 [BMC Series](http://www.biomedcentral.com/authors/bmcseries), the
 [“Frontiers in…" Series](http://www.frontiersin.org/about/evaluationsystem), and the [ISRN
 Series from Hindawi](http://www.hindawi.com/isrn) (all of which apply similar
@@ -184,10 +187,10 @@ all the peer reviewers and they are invited to change their opinion.
 After this second round, the decision goes with the majority opinion
 (even if not unanimous). Once accepted, the authors are given the option
 of voluntarily revising their manuscript based on the feedback. This
-process is described, for example, at Hindawi’s Website[^3].
+process is described, for example, at [Hindawi’s Website](http://www.hindawi.com/isrn/obgyn/workflow/).
 
 By contrast,
-[F](http://f1000research.com/)[1000](http://f1000research.com/)[Research](http://f1000research.com/)
+[F1000 Research](http://f1000research.com/)
 receives submissions and places them publicly online before peer review.
 Reviews are then solicited (typically from the Editorial Board) and
 reviewers must sign their reports. The reports can be ‘approved’,
@@ -224,14 +227,12 @@ submit to. Because a preprint server is rarely thought of as a ‘journal’
 we shall not spend much time on them, other than to provide an
 illustrative list which includes the [arXiv](http://arxiv.org/) (in
 Physics and Mathematics),
-[PeerJ](https://peerj.com/preprints)[](https://peerj.com/preprints)[PrePrints](https://peerj.com/preprints)
-(in the Bio and Medical sciences),
-[Nature](http://precedings.nature.com/)[](http://precedings.nature.com/)[Precedings](http://precedings.nature.com/)[^4]
+[PeerJ Preprints](https://peerj.com/preprints) (in the Bio and Medical sciences),
+[Nature Preceedings](http://precedings.nature.com/)
 (now defunct), [FigShare](http://figshare.com/) (a product which is
 ‘preprint-like’, and covering all of academia); the
-[Social](http://www.ssrn.com/)[](http://www.ssrn.com/) [Sciences](http://www.ssrn.com/)[](http://www.ssrn.com/) [Research](http://www.ssrn.com/)[](http://www.ssrn.com/) [Network](http://www.ssrn.com/) [(](http://www.ssrn.com/)[SSRN](http://www.ssrn.com/)[)](http://www.ssrn.com/),
-and
-[Research](http://repec.org/)[](http://repec.org/) [Papers](http://repec.org/)[](http://repec.org/) [in](http://repec.org/)[](http://repec.org/) [Economics](http://repec.org/) [(](http://repec.org/)[RePEc](http://repec.org/)[)](http://repec.org/).
+[Social Sciences Research Network (SSRN)](http://www.ssrn.com/)
+and [Research Papers in Economics (RePEc)](http://repec.org/).
 
 ## The Disaggregation of the Journal Model
 
@@ -255,7 +256,7 @@ the future development of the journal model:
 solicit (and pay) appropriate peer reviewers to provide structures
 reports back to the author. Another example of this kind of thinking is
 with the
-[Peerage](http://www.peerageofscience.org/)[](http://www.peerageofscience.org/) [of](http://www.peerageofscience.org/)[](http://www.peerageofscience.org/) [Science](http://www.peerageofscience.org/). By using services like
+[Peerage of Science](http://www.peerageofscience.org/). By using services like
 this, authors can either improve their articles before then submitting
 to a journal; or they can attempt to provide their solicited peer
 reviews to the journal of their choice in the hope that this will
@@ -264,7 +265,7 @@ chapter is on the (unpaid) Advisory Panel of Rubriq)*
 
 ![**Figure 3**. The Peerage of Science homepage.](/images/novel_scholarly_journal_concepts_3.jpg)
 
-‘Alt-Metrics’[^5], or ‘Article Level Metrics’ (ALM) are tools which aim
+‘[Altmetrics](http://altmetrics.org/manifesto/)’, or ‘[Article-Level Metrics](http://article-level-metrics.plos.org/)’ (ALM) are tools which aim
 to provide 3rd party ‘crowdsourced’ evaluation of published articles (or
 other scholarly content). If we envision a future state of the
 publishing industry where most content is open access, and a large
@@ -274,9 +275,9 @@ readers to the most relevant, impactful, or valuable content for their
 specific needs. Pioneered by the likes of PLOS[^6] (who made their ALM
 program entirely open source), the field is being pushed forward by
 newly started companies. The major players in this space are
-[Impact](http://impactstory.org/)[](http://impactstory.org/)[Story](http://impactstory.org/)
+[ImpactStory](http://impactstory.org/)
 (previously Total Impact), [Altmetric](http://www.altmetric.com/) and
-[Plum](http://www.plumanalytics.com/)[](http://www.plumanalytics.com/) [Analytics](http://www.plumanalytics.com/)
+[Plum Analytics](http://www.plumanalytics.com/)
 and all of them attempt to collate a variety of alt-metrics from many
 different sources, and present them back again at the level of the
 article (Fig 4).
@@ -284,7 +285,7 @@ article (Fig 4).
 ![**Figure 4**. The Impact Story homepage, highlighting which sources they index and how they present metrics for a single article.](/images/novel_scholarly_journal_concepts_4.jpg)
 
 One particularly interesting provider of ‘alt metrics’ is
-[F](http://f1000.com/prime)[1000](http://f1000.com/prime) [Prime](http://f1000.com/prime) (from the “Faculty of 1000”). Previously
+[F1000Prime](http://f1000.com/prime) (from the “Faculty of 1000”). Previously
 known simply as ‘Faculty of 1000’, F1000Prime makes use of a very large
 board of expert academics who are asked to evaluate and rate published
 articles regardless of the publisher. In this way, they form an
@@ -305,13 +306,3 @@ around the concept of the journal than its entire 350 year history prior
 to this point. We live in interesting times.
 
 [^1]: Disclosure: The author of this chapter is a Co-Founder of PeerJ
-
-[^2]: [PLOS One Search](http://www.plosone.org/search/advanced?pageSize=12&sort=&queryField=publication\_date&startDateAsString=2012-01-01&endDateAsString=2012-12-31&unformattedQuery=publication\_date%3A[2012-01-01T00%3A00%3A00Z+TO+2012-12-31T23%3A59%3A59Z]+&journalOpt=some&filterJournals=PLoSONE&subjectCatOpt=all&filterArticleTypeOpt=all)
-
-[^3]: Hindawi ISRN Obstetrics and Gynecology Editorial Workflow: <http://www.hindawi.com/isrn/obgyn/workflow/>
-
-[^4]: Nature Precedings: <http://precedings.nature.com/>
-
-[^5]: Altmetrics Manifesto: [http](http://altmetrics.org/manifesto/)[://](http://altmetrics.org/manifesto/)[altmetrics](http://altmetrics.org/manifesto/)[.](http://altmetrics.org/manifesto/)[org](http://altmetrics.org/manifesto/)[/](http://altmetrics.org/manifesto/)[manifesto](http://altmetrics.org/manifesto/)[/](http://altmetrics.org/manifesto/)
-
-[^6]: PLOS Article-Level Metrics: [http](http://article-level-metrics.plos.org/)[://](http://article-level-metrics.plos.org/)[article](http://article-level-metrics.plos.org/)[-](http://article-level-metrics.plos.org/)[level](http://article-level-metrics.plos.org/)[-](http://article-level-metrics.plos.org/)[metrics](http://article-level-metrics.plos.org/)[.](http://article-level-metrics.plos.org/)[plos](http://article-level-metrics.plos.org/)[.](http://article-level-metrics.plos.org/)[org](http://article-level-metrics.plos.org/)[/](http://article-level-metrics.plos.org/)
