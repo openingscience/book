@@ -246,7 +246,7 @@ it can be nicely demonstrated how perverse incentives emerge and what
 consequences this entails for research but also generally for the
 economy and society.
 
-##The Competition for Publications in Academic Journals: The Peer-Review Process
+## The Competition for Publications in Academic Journals: The Peer-Review Process
 
 In almost every academic discipline publications are the most important
 and often the only measurable output. Indeed, in some natural sciences
@@ -405,9 +405,9 @@ traditional prostitution—does not bloom by a natural demand, but is
 induced by an artificially staged competition. In particular, the
 following perverse effects can be observed:
 
-*Modes of perverse behavior caused by the peer-review process:*
+## Modes of perverse behavior caused by the peer-review process:
 
--   *Strategic citing and praising*[^3]
+### Strategic citing and praising[^3]
 
 When submitting an article to a journal, the peer-review process induces
 authors to think about possible reviewers, who have already published
@@ -428,7 +428,7 @@ Instead, the replication of established knowledge gets promoted by
 elaborating on already existing approaches through further model
 variations or additional empirical investigations.
 
--   *No deviation from established theories*
+### No deviation from established theories
 
 In any scientific discipline there are some eminent authorities who
 dominate their field and who often at the same time are the editors of
@@ -455,7 +455,7 @@ theory is linked to low chances of publication and thus there is an
 incentive to only publish successful tests and to conceal negative
 results (Osterloh and Frey, 2008).
 
--   *Form is more important than content*
+### Form is more important than content
 
 Since presenting original content usually lowers the chances of
 publication, novelty has shifted to the form how content is presented.
@@ -484,7 +484,7 @@ is motivated by intrinsic motivation, is increasingly replaced by
 formally gifted, streamlined men and women[^4], who in spite of their
 formal brilliance have hardly anything important to say.
 
--   *Undermining of anonymity by expert networks*
+### Undermining of anonymity by expert networks
 
 In theory, the peer-review process should work in such a way that
 publication opportunities are the same for all authors. Both the
@@ -512,7 +512,7 @@ through an arduous competition for the few remaining publication slots.
 What George Orwell noted in his book “Animal Farm” applies also here:
 All authors are equal but some are more equal than others.
 
--   *Revenge of frustrated experts*
+### Revenge of frustrated experts
 
 Ultimately, the entire publication process is a tedious and humiliating
 experience for many researchers. Constantly, submitted papers are
@@ -549,7 +549,7 @@ publications and citations as indicators for the assessment of
 individual scientists and scientific institutions, and explains why we
 have more and more irrelevant publications.
 
-##The Competition for Top-Rankings by Maximising Publications and Citations
+## The Competition for Top-Rankings by Maximising Publications and Citations
 
 Despite the great difficulties to publish articles in professional
 journals, the number of publications is constantly growing because more
@@ -683,6 +683,7 @@ following formula:
 <Image:>
 
 </center>
+
 *Pki* stands for the number of pages in publication *k* of scientist
 *i*, *n* denotes the number of authors of the publication *k*, and *wk*
 is a quality factor for the article *k*, which is typically the impact
@@ -705,7 +706,7 @@ incentives due to the peer-review process has induced a great deal of
 perverse behavior among scientists. In particular, the following trends
 can be observed:
 
--   *Salami tactics*
+### Salami tactics
 
 Knowing that the ultimate goal is to maximize research output,
 researchers are trying to make as much out of very little and apply the
@@ -729,7 +730,7 @@ scientists from the year 2002 shows, at least 4.7 percent of the
 participating scientists admitted to have published the same result
 several times (Six, 2008).
 
--   *Increase of the number of authors per article*
+### Increase of the number of authors per article
 
 It can be observed that the number of authors publishing articles in
 scientific journals has largely increased over the recent decades. For
@@ -787,7 +788,7 @@ they are again involved as co-authors in another article. ''“I publish
 an article with five co-authors and we have six times as many friends
 who quote us.” ''(Fröhlich, 2008).
 
--   *Ever-increasing specialization*
+### Ever-increasing specialization
 
 To meet this enormous need for publication, new journals for ever more
 finely divided sub-areas of a research discipline are launched
@@ -811,7 +812,7 @@ wine economics, wine marketing or sales. Probably we will soon also have
 specialized journals for red-wine and white-wine economics and we also
 still wait for the “Journal of Wine Psychology”.
 
--   *Forgery and fraud*
+### Forgery and fraud
 
 Last but not least, the whole competition for as many publications and
 citations as possible leads to fraud and forgery. *“The higherr the
@@ -869,7 +870,7 @@ been replaced by the performance of nonsense. And that is worse because
 it makes it increasingly difficult, to find the truly interesting
 research in all the mass of insignificant publications.
 
-##Side Effects of the Production of Nonsense in Science: ‘Crowding-Out’ Effects and New Bureaucracy
+## Side Effects of the Production of Nonsense in Science: ‘Crowding-Out’ Effects and New Bureaucracy
 
 The artificially staged competitions in science for publications and
 citations, but also for third-party projects (financing) have caused the
@@ -885,14 +886,14 @@ effects cause a gradual degeneration of many scientific disciplines, But
 they are advertised under labels such as “more excellence” and “more
 efficiency”.
 
-*Crowding-Out Effects*
+### Crowding-Out Effects
 
 Some of the crowding out effects triggered by competitions for
 publications and projects were already addressed previously in this
 contribution. Here we will show how this crowding-out effects harm
 universities and the scientific world.
 
--   *Crowding out of intrinsic motivation by stick and carrot*
+### Crowding out of intrinsic motivation by stick and carrot
 
 Carrots and sticks replace the taste for science (Merton), which is
 indispensable for scientific progress. A scientist who does not truly
@@ -904,8 +905,7 @@ not feel like constantly being forced to work just for getting high
 scores. Therefore, a lot of potentially highly valuable research is
 crowded out by intrinsic motivation as well.
 
--   *Crowding out of unconventional people and approaches by the
-    mainstream*
+### Crowding out of unconventional people and approaches by the mainstream
 
 Both original themes and unconventional people have little in the way of
 chances in a system based on artificially staged competitions. The
@@ -921,7 +921,7 @@ publications in professional journals, citations, or projects acquired.
 Neither Albert Einstein nor Friedrich Nietzsche would be able to pursue
 a scientific career under the current system.
 
--   *Crowding out of quality by quantity*
+### Crowding out of quality by quantity
 
 In the current system scientific knowledge is replaced by measurable
 outputs. Not the content of an article or a project counts, but the
@@ -932,7 +932,7 @@ crowded out. The need to publish constantly leaves no time to worry too
 long about the progress of knowledge, although this would be the real
 purpose of scientific activity.
 
--   *Crowding out of content by form*
+### Crowding out of content by form
 
 Closely related to the crowding out of quality by quantity is the
 crowding out of content by form. Because content gets more trivial and
@@ -945,7 +945,7 @@ if comparing different data sets really brings benefit to the progress
 in knowledge. Important is the sophistication of the method, which was
 used for the comparison of the data sets.
 
--   *Crowding out of research by bureaucracy*
+### Crowding out of research by bureaucracy
 
 This crowding-out effect makes a significant contribution to the new
 bureaucracy described in the following section. The people employed in
@@ -965,7 +965,7 @@ publications in journals and on carrying out projects that do not
 contribute anything to scientific knowledge, but have the goal of
 improving the measurable output.
 
--   *Crowding out of individuals by centers, networks, and clusters*
+### Crowding out of individuals by centers, networks, and clusters
 
 Competitions for projects also cause individual researchers to disappear
 more and more behind competence centers, networks and clusters. Research
@@ -979,8 +979,7 @@ institutions (e.g. a cluster of excellence), where the individual
 researcher disappears and becomes a small wheel in a big research
 machine.
 
--   *Crowding out of “useless” basic research by application-oriented,
-    “useful” research*
+### Crowding out of “useless” basic research by application-oriented, “useful” research
 
 The competition for third-party funded projects is especially driven in
 this way because it is believed to initiate more and more “useful”
@@ -1004,7 +1003,7 @@ proven by measurable output. And young scientists are socialized by the
 established scientific system in a way that the perverse effects caused
 by this development already appear to be normal to them.
 
-##The Emergence of a New Research Bureaucracy
+## The Emergence of a New Research Bureaucracy
 
 One of the crowding out effects that was just described concerns the
 crowding out of research by bureaucracy. From the outside, it looks just
@@ -1133,7 +1132,7 @@ production in science is much more sophisticated than the nonsense of
 digging ditches and filling them up again.as the nonsense is disguised
 to the general public.
 
-**References**
+## References
 
 Adler, R., Ewing, J. & Taylor, P., 2008. *Citation statistics. A report
 from the joint committee on quantitative assessment of research (IMU,
