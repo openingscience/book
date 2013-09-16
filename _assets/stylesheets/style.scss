@@ -32,8 +32,16 @@ ol.bibliography { padding-left: 1em; }
   color: #999;
 }
 
-.abstract {
-  margin-top: 0.45em;
+.toc-item p {
+  font-family: $sansFontFamily;
+  font-size: 0.9em;
+  line-height: 1.6em;
+  color: #999;
+  font-weight: 400;
+}
+
+.toc-item .abstract p {
+  color: #000;
   font-size: 0.9em;
   line-height: 1.3em;
 }
@@ -57,12 +65,20 @@ ol.bibliography { padding-left: 1em; }
   line-height: 1.1em;
 }
 
+.toc h2 {
+  color: #999;
+  font-weight: normal;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #999;
+}
+
 .toc li p, .footnotes p {
   margin-bottom: 0;
 }
 
-.toc li {
-  margin-left: 0.75em;
+.toc ol, .toc li {
+  margin-left: 0;
+  list-style: none;
 }
 
 .footnotes p {
@@ -76,7 +92,7 @@ ol.bibliography { padding-left: 1em; }
 
 .toc-item {
   margin-left: 0;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 
 blockquote p {
@@ -86,6 +102,7 @@ blockquote p {
 }
 
 h1 {
+  color: #bbb349;
   line-height: 1.1em;
 }
 
