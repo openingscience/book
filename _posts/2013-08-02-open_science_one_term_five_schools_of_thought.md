@@ -152,7 +152,7 @@ Review article                                                                  
 
 Powell & Colin (2009)      *Participatory paradoxes: Facilitating citizen engagement in science and technology from the Top-Down?*   Citizen science projects are often short-lived
                                                                                                                                        
-Article                                                                                                                              “Most participatory exercises do not engage citizens beyond an event or a few weeks/months, and they do not build citizens’ participatory skills in ways that would help them engage with scientists or policy makers independently.” (p. 327)
+Article                                                                                                                              *“Most participatory exercises do not engage citizens beyond an event or a few weeks/months, and they do not build citizens’ participatory skills in ways that would help them engage with scientists or policy makers independently.” (p. 327)*
 -------------------------- --------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Accessibility to the Research Process — Can Anyone be a Scientist?
@@ -458,7 +458,7 @@ Journal Article                                                                 
 
 Harnad & Brody (2004)            *Comparing the Impact of Open Access (OA) vs. Non-OA Articles in the Same Journals*        Open access can increase the number of citations and helps skirting the high access tolls of journals.
                                                                                                                             
-                                                                                                                            ''“Access is not a sufficient condition for citation, but it is a necessary one. OA dramatically increases the number of potential users of any given article by adding those users who would otherwise have been unable to access it because their institution could not afford the access-tolls of the journal in which it appeared; therefore, it stands to reason that OA can only increase both usage and impact.” ''
+                                                                                                                            *“Access is not a sufficient condition for citation, but it is a necessary one. OA dramatically increases the number of potential users of any given article by adding those users who would otherwise have been unable to access it because their institution could not afford the access-tolls of the journal in which it appeared; therefore, it stands to reason that OA can only increase both usage and impact."*
 
 Harnad et al. (2004)             *The Access/Impact Problem*                                                                Only 5% of journals are gold, but over 90% are already green (i.e., they have given their authors the green light to self-archive); yet only about 10-20% of articles have been self-archived.
                                                                                                                             
@@ -466,7 +466,7 @@ Harnad et al. (2004)             *The Access/Impact Problem*                    
 
 Antelmann (2004)                 *Do Open-Access Articles Have a Greater Research Impact?*                                  Open access articles have a higher research impact than not freely available articles.
                                                                                                                               
-                                                                                                                            ''“This study indicates that, across a variety of disciplines, open-access articles have a greater research impact than articles that are not freely available.” ''(p. 379)
+                                                                                                                            *“This study indicates that, across a variety of disciplines, open-access articles have a greater research impact than articles that are not freely available.” (p. 379)*
 -------------------------------- ------------------------------------------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 When it comes the open access of research publications, the argument is
