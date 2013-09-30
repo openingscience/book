@@ -65,9 +65,11 @@ new directions in research regarding Open Science. In terms of a
 literature review, we furthermore hope that this chapter identifies some
 of the leading scholars and thinkers within the five schools.
 
-The following table comprises the five identified schools together with
+The following table (table 1) comprises the five identified schools together with
 their central assumptions, the involved stakeholder groups, their aims,
 and the tools and methods used to achieve and promote these aims.
+
+![](/images/open_science_.png)
 
 Table: **Table 1**: Five Open Science schools of thought.
 
@@ -95,7 +97,7 @@ In a nutshell, advocates of the public school argue that science needs
 to be accessible for a wider audience. The basic assumption herein is
 that the social web and Web 2.0 technologies allow scientists, on the
 one hand, to open up the research process and, on the other, to prepare
-the product of their research for interested non-experts.
+the product of their research for interested non-experts (see table 2).
 
 Accordingly, we recognize two different streams within the public
 school: The first is concerned with the accessibility of the research
@@ -329,11 +331,47 @@ data for assessing the validity of the science in the publication but I
 know of no cases where an editor has required the editing of (supporting
 information)*” (ibid., p. 53). The author endorses that text, data or
 meta-data can be re-used for whatever purpose without further explicit
-permission from a journal. He assumes that, other than validating
+permission from a journal (see table 3). He assumes that, other than validating
 research, journals have no use for claiming possession over supporting
 information—other researchers, however, do.
 
---- Insert Table Open Data about here ---
+Table: **Table 3**: Democratic School - Open data
+
+------------------------- ----------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Author (Year)**         **Title**                                                         **Content**
+                                                                                              
+**Type of Publication**                                                                     
+
+Murray-Rust (2008)        *Open data in science*                                            Open data depends on a change of the joournal practice regarding the witholding of supporting information.
+                                                                                              
+Preceedings                                                                                 *“The general realization of the value of reuse will create strong pressure for more and better data. If publishers do not gladly accept this challenge, then scientists will rapidly find other ways of publishing data, probably through institutional, departmental, national or international subject repositories. In any case the community will rapidly move to Open Data and publishers resisting this will be seen as a problem to be circumvented.” (p. 64)*
+
+Vision (2010)             *Open Data and the Social Contract of Scientific Publishing*      Data is a commodity. The sharing of data enables benefits other researchers.
+                                                                                              
+Journal Article                                                                             *“Data are a classic example of a public good, in that shared data do not diminish in value. To the contrary, shared data can serve as a benchmark that allows others to study and refine methods of analysis, and once collected, they can be creatively repurposed by many hands and in many ways, indefinitely.” (p. 330)*
+
+Boulton et al. (2011)     *Science as a public enterprise: the case for open data*          Data needs to be prepared in a usable format.
+                                                                                              
+Comment                                                                                     *“Conventional peer-reviewed publications generally provide summaries of the available data, but not effective access to data in a usable format.” (p. 1634)*
+
+Molloy (2011)             *The open knowledge foundation: Open data means better science*   Data should be free to reuse and redsitribute without restrictions.
+                                                                                              
+Open Access Article                                                                         *“The definition of “open”, crystellised in the OKD, means the freedom to use, reuse, and redistribute without restrictions beyond a requirement for attribution and share-alike. Any further restrictions make an item closed knowledge.” (p. 1)*
+
+Auer et al. (2007)        *DBpedia: A nucleus for a web of open data the semantic web*      Open Data is a major challenge for computer scientists in future.
+                                                                                              
+                                                                                            *“It is now almost universally acknowledged that stitching together the world's structured information and knowledge to answer semantically rich queries is one of the key challenges of computer science, and one that is likely to have tremendous impact on the world as a whole.” (p. 1)*
+
+Löh & Hinze (2006)        *Open Data types and open functions*                              The problem of supporting the modular extensibility of both data and functions in one programming language (known as expression problem)
+                                                                                              
+                                                                                            *“The intended semantics is as follows: the program should behave as if the data types and functions were closed, deﬁned in one place.” (p.1)*
+
+Miller et al. (2008)      *Open Data Commons, A Licence for Open Data*                      Practicing open data is a question of appropriate licencing of data.
+                                                                                              
+                                                                                            *“Instead, licenses are required that make explicit the terms under which data can be*
+                                                                                              
+                                                                                            *used. By explicitly granting permissions, the grantor reassures those who may wish to use their data, and takes a conscious step to increase the pool of Open Data available to the web.” (p. 1)*
+------------------------- ----------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 According to Murray-Rust’s understanding, data should not be ‘free’ (as
 in free beer), but open for re-use in studies foreseen or unforeseen by
@@ -395,11 +433,45 @@ Data also illustrates that research on this issue needs to be holistic.
 
 ### Open Access to Research Publication
 
---- Insert Table open access to Research Publications about here ---
+Table: **Table 4**: Democratic School - Open access to publications
+
+-------------------------------- ------------------------------------------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Author (Year)**                **Title**                                                                                  **Content**
+                                                                                                                              
+**Type of Publication**                                                                                                     
+
+Cribb & Sari (2010)              *Open Science - Sharing Knowledge in the Global Century*                                   Open access to knowledge is a tool for development.
+                                                                                                                              
+Monograph                                                                                                                   *“As humanity progresses the 21st century (...) many scholars point to the emergence of a disturbing trend: the world is dividing into those with ready access to knowledge and its fruit, and those without.” (p. 3)*
+
+Rufai et al. (2012)              *Open Access Journals in Library and Information Science: The Story so Far*.               Open access helps underdeveloped countries to bridge the gap between them and developed countries.
+                                                                                                                              
+Journal Article                                                                                                             *“The sustainability of open access journals in the field of LIS is evident from the study. Countries falling in the low-income economic zones have to come on open access canvas.” (p. 225)*
+
+Phelps, Fox & Marincola (2012)   *Supporting the advancement of science: Open access publishing and the role of mandates*   Open access increases the dissemination of a scholar’s work
+                                                                                                                              
+Journal Article                                                                                                             *“Maybe one of the reasons that open access is an increasingly popular choice for society journals is that it fits well with many society missions to encourage the advancement of knowledge by providing the widest possible dissemination with no barriers to access.” (p. 3)*
+
+Carrol (2011)                    *Why full open access matters*                                                             Open access helps overcoming the inefficiancy of traditional peer-review journals
+                                                                                                                              
+Journal Article                                                                                                             *“Pricing of traditional, subscription-financed scientific journals is highly inefficient. The growth in digital technologies and in digital networks should be driving down the price of access to the scholarly journal literature, but instead prices have increased at a rate greatly in excess of inflation” (p. 1)*
+
+Harnad & Brody (2004)            *Comparing the Impact of Open Access (OA) vs. Non-OA Articles in the Same Journals*        Open access can increase the number of citations and helps skirting the high access tolls of journals.
+                                                                                                                            
+                                                                                                                            ''“Access is not a sufficient condition for citation, but it is a necessary one. OA dramatically increases the number of potential users of any given article by adding those users who would otherwise have been unable to access it because their institution could not afford the access-tolls of the journal in which it appeared; therefore, it stands to reason that OA can only increase both usage and impact.” ''
+
+Harnad et al. (2004)             *The Access/Impact Problem*                                                                Only 5% of journals are gold, but over 90% are already green (i.e., they have given their authors the green light to self-archive); yet only about 10-20% of articles have been self-archived.
+                                                                                                                            
+                                 *and the Green and Gold Roads to Open Access*                                              *“Along with the substantial recent rise in OA consciousness worldwide, there has also been an unfortunate tendency to equate OA exclusively with OA journal publishing (i.e., the golden road to OA) and to overlook the faster, surer, and already more heavily traveled green road of OA self-archiving.” (p. 314)*
+
+Antelmann (2004)                 *Do Open-Access Articles Have a Greater Research Impact?*                                  Open access articles have a higher research impact than not freely available articles.
+                                                                                                                              
+                                                                                                                            ''“This study indicates that, across a variety of disciplines, open-access articles have a greater research impact than articles that are not freely available.” ''(p. 379)
+-------------------------------- ------------------------------------------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 When it comes the open access of research publications, the argument is
 often less researcher-centric. Cribb and Sari (2010) make the case for
-the open access to scientific knowledge as a human right. According to
+the open access to scientific knowledge as a human right (see table 4). According to
 them, there is a gap between the creation and the sharing of knowledge:
 While scientific knowledge doubles every 5 years, the access to this
 knowledge remains limited—leaving parts of the world in the dark: “*As
@@ -449,9 +521,43 @@ modularizing the process of knowledge creation, opening the scientific
 value chain, including external knowledge and allowing collaboration
 through online tools. The notion of ‘open’ follows in this regard very
 much the disclosed production process known from open innovation
-concepts.
+concepts (see table 5).
 
---- Insert Table Pragmatic School about here ---
+Table: **Table 5**: Pragmatic school
+
+------------------------- ------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Author (Year)**         **Title**                                                                                   **Content**
+                                                                                                                        
+**Type of Publication**                                                                                               
+
+Tacke (2008)              Open science 2.0: How research and education can benefit from open innovation and web 2.0   Complex situations can be better judged by the collective wisdom of the crowds.
+                                                                                                                        
+Proceedings                                                                                                           *“However, several critics emphasize that one person can never possess enough knowledge in order to judge complex situations expediently, and that it may more appropriate to use the collective wisdom of crowds.” (p. 37)*
+
+Haeussler (2011)          Information-sharing, social capital, open science                                           Scientists expect a benefit from sharing information.
+                                                                                                                        
+Journal Article                                                                                                       *“My study showed that factors related to social capital influence the impact of the competitive value of the requested information on a scientist’s decision to share or withhold information.” (p. 117)*
+
+Neylon & Wu (2009)        Open science: tools, approaches, and implications                                           Open science tools need to fit to the scientific practice of researchers.
+                                                                                                                        
+Symposium Workshop                                                                                                    *“Tools whether they be social networking sites, electronic laboratory notebooks, or controlled vocabularies, must be built to help scientists do what they are already doing, not what the tool designer feels they should be doing” (p. 543)*
+
+Nielsen (2012)            *Reinventing Discovery: The New Era of Networked Science*                                   *“We need to imagine a world where the construction of the scientific information commons has come to fruition. This is a world where all scientific knowledge has been made available online, and is expressed in a way that can be understood by computers” (ibid., p. 111)*
+                                                                                                                        
+Monograph                                                                                                             
+
+Weiss (2005)              *The Power of Collective Intelligence*                                                      Participation in collective knowledge-creation depends on the tools and services available.
+                                                                                                                        
+                                                                                                                      *“With ever more sophisticated APIs and Web services being shared, attracting a critical mass of developers to build tools on those services, and a critical mass of users contributing to the services’ value by aggregating shared knowledge and content, we have the makings of a truly collaborative, self-organizing platform.” (p. 4)*
+
+Arazy et al. (2006)       *Wisdom of the Crowds: Decentralized Knowledge Construction in Wikipedia*                   Participation in the co-creation of knowledge depends on the entry barriers
+                                                                                                                        
+                                                                                                                      ''“To entice participation, organizations using wikis should strive to eliminate barriers (e.g. allow users to post anonymously) and provide incentives for contributions.” ''
+
+Gowers & Nielsen (2009)   *Massively Collaborative Mathematics*                                                       Natural sciences can profit from collaboration of researchers.
+                                                                                                                        
+                                                                                                                      *“But open sharing of experimental data does at least allow open data analysis. The widespread adoption of such open-source techniques will require significant cultural changes in science, as well as the development of new online tools. We believe that this will lead to the widespread use of mass collaboration in many fields of science, and that mass collaboration will extend the limits of human problem-solving ability.” (p. 881)*
+------------------------- ------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tacke (2010) for instance builds upon the connection between open
 innovation and Open Science. Similar to open innovation, the author
@@ -570,12 +676,40 @@ The infrastructure school is concerned with the technical infrastructure
 that enables emerging research practices on the Internet, for the most
 part software tools and applications, as well as computing networks. In
 a nutshell, the infrastructure school regards Open Science as a
-technological challenge. Literature on this matter is therefore often
+technological challenge (see table 6). Literature on this matter is therefore often
 practice-oriented and case-specific; it focuses on the technological
 requirements that facilitate particular research practices (e.g. the
 Open Science Grid).
 
---- Insert Table Infrastructure School about here---
+Table: **Table 6**: Infrastructure school
+
+------------------------- ----------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Author (Year)**         **Title**                                                   **Content**
+                                                                                        
+**Type of Publication**                                                               
+
+Altunay et all. (2011)    *A Science Driven Production*                               Science grid can be used for high-throughput research projects.
+                                                                                        
+Article                   *Cyberinfrastructure—the Open Science Grid*                 *“This article describes the Open Science Grid, a large distributed computational infrastructure in the United States which supports many different high-troughput scientific applications (...) to form multi-domain integrated distributed systems for science.” ( p. 201)*
+
+De Roure et al. (2010)    *Towards open science: the*                                 *“myExperiment is the first repository of methods which majors on the social dimension, and we have demonstrated that an online community and workflow collection has been established and is now growing around it.” (p. 2350)*
+                                                                                        
+Conference Paper          *myExperiment approach*                                     
+
+Foster (2003)             *The grid: A new infrastructure for 21st century science*   Computation is a major challenge for scientific collaboration in future.
+                                                                                        
+Journal Article                                                                       *“Driven by increasingly complex problems and by advances in understanding and technique, and powered by the emergence of the Internet (...), today’s science is as much based on computation, data analysis, and collaboration as on the efforts of individual experimentalists and theorists.”*
+                                                                                        
+                                                                                      *(p. 52)*
+
+De Roure et al. (2003)    *The Semantic Grid: A Future e-Science Infrastructure*      Knowledge layer services are necessary for seamlessly automatiing a significant range of actions
+                                                                                        
+Book Chapter                                                                          *“While there are still many open problems concerned with managing massively distributed computations in an efficient manner and in accessing and sharing information from heterogenous sources (...), we believe the full potential of Grid computing can only be realised by fully exploiting the functionality and capabilities provided by knowledge layer services.” (p. 432)*
+
+Hey & Trefethen (2005)    *Cyberinfrastructure for e-Science*                         Service-oriented science has the potential to increase individual and collective scientific productivity by making powerful information tools available to all, and thus enabling the widespread automation of data analysis and computation
+                                                                                        
+Article                                                                               *“Although there is currently much focus in the Grid community on the lowlevel middleware, there are substantial research challenges for computer scientists to develop high-level intelligent middleware services that genuinely support the needs of scientists and allow them to routinely construct secure VOs and manage the veritable deluge of scientific data that will be generated in the next few years.” (p. 820)*
+------------------------- ----------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In 2003, Nentwich (2003, p. 1) coined the term cyberscience to describe
 the trend of applying information and communication technologies to
@@ -733,9 +867,41 @@ As the scholarly workflow is migrates increasingly to the web, formerly
 hidden uses like reading, bookmarking, sharing, discussing, and rating
 are leaving traces online and offer a new basis by which to measure
 scientific impact. The umbrella term for these new impact measurements
-is altmetrics.
+is altmetrics (see table 7).
 
---- Insert Table Altmetrics about here ---
+Table: **Table 7**: Measurement School
+
+------------------------------- -------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Author (Year)**               **Title**                                                                                          **Content**
+
+Priem & Light Costello (2010)   *How and why scholars cite on twitter*                                                             *﻿*Tweets can be used as an alternative basis to measure scientific impact.
+                                                                                                                                     
+Proceedings                                                                                                                        *”Twitter citations are much faster than traditional citations, with 40% occurring within one week of the cited resource’s publication. Finally, while Twitter citations are different from traditional citations, our participants suggest that they still represent and transmit scholarly impact.”*
+
+Weller & Puschmann (2011)       *Twitter for Scientific Communication: How Can Citations/References be Identified and Measured?*   Scientific tweets can be identified in numerous ways
+                                                                                                                                     
+Poster                                                                                                                             
+
+Priem et al. (2012)             *Uncovering impacts: CitedIn and total-impact, two new tools for gethering altmetrics*             CitedIn and total-impact are tools that can measure scientific impact.
+                                                                                                                                     
+Proceedings                                                                                                                        *“CitedIn and total-impact are two tools in early development that aim to gather altmetrics. A test of these tools using a real-life dataset shows that they work, and that there is a meaningful amount of altmetrics data available”*
+
+McVeigh (2012)                  *Twitter, peer review and altmetrics: the future of research impact assessment*                    *“So why is a revolution needed? Because long before the tools even existed to do anything about it, many in the research community have bemoaned the stranglehold the impact factor of a research paper has held over research funding, careers and reputations.”*
+                                                                                                                                     
+News paper article                                                                                                                 
+
+Priem & Hemminger (2012)        *Decoupling the scholarly journal*                                                                 *“This tight coupling [of the journal system] makes it difficult to change any one aspect of the system, choking out innovation.”*
+                                                                                                                                     
+Journal article                                                                                                                    
+
+Yeong & Abdullah (2012)         *Altmetrics: the right step forward*                                                               Altmetrics are an alternative metric for analysing and informing scholarship about impact.
+                                                                                                                                     
+Position paper                                                                                                                     *“Altmetrics rely on a wider set of measures [than webometrics] (...) are focused on the creation and study of new metrics based on the social web for analysing and informing scholarship.”*
+
+Björneborn & Ingwerson (2001)   *Perspectives of webometrics*                                                                      The lack of metadata attached to web documents and links  and the lack of search engines exploiting metadata  affects filtering options, and thus knowledge discovery options, whereas field codes in traditional databases support KDD (Knowledge Discovery in Databases).
+                                                                                                                                     
+Journal article                                                                                                                    *“As stated above, the feasibility of using bibliometric methods on the Web is highly affected by the distributed, diverse and dynamical nature of the Web and by the deficiencies of search engines. That is the reason that so far the Web Impact Factor investigations based on secondary data from search engines cannot be carried out.” (p. 78)*
+------------------------------- -------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Yeong and Abdullah (2012) state that altmetrics differ from webometrics
 which are, as the authors argue, relatively slow, unstructured, and
