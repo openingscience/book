@@ -105,7 +105,53 @@ between scientists and the public and define openness as a form of
 devotion to a wider audience. In the following section we will elaborate
 more on both streams in reference to relevant literature.
 
---- Insert Table Public School about here ---
+Table: **Table 2**: Public School
+
+-------------------------- --------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Author (Year)**          **Title**                                                                                                 **Content**
+                                                                                                                                       
+**Type of Publication**                                                                                                              
+
+Puschmann (2012)           *(Micro)blogging Science? Notes on Potentials and Constraints of New Forms of Scholarly Communication*    Scientists today need to make there reearch accessible to a wider audience by using (micro)blogs.
+                                                                                                                                       
+Book chapter                                                                                                                         *“Scientists must be able to explain what they do to a broader public to garner political support and funding for endeavors whose outcomes are unclear at best and dangerous at worst, a difficulty that is magnified by the complexity of scientific issues.” (P. XX)*
+
+Cribb & Sari (2010)        *Open Science - Sharing Knowledge in the digital age*                                                     The accessibility of scientific knowledge is a matter of its presentation.
+                                                                                                                                       
+Monograph                                                                                                                            *“Science is by nature complicated, making it all the more important that good science writing should be simple, clean and clear.” (p. 15)*
+
+Grand et al (2012)         *Open Science: A New “Trust Technology”?*                                                                 Scientists can raise public trust by using web 2.0 tools
+                                                                                                                                       
+Journal Article                                                                                                                      *“As mainstream science—and comment on science— follows the pioneers into the realm of Web 2.0, to be able to navigate the currents of the information flow in this relatively unmapped territory, scientists and members of the public will all need reliable and robust tools.” (p. 685)*
+
+Morris & Mietchen (2010)   *Collaborative Structuring of Knowledge by Experts and the Public*                                        Using web 2.0 tools to make knowledge production accessible for the public.
+                                                                                                                                       
+Proceedings                                                                                                                          *“(...) there is still plenty of opportunities for reinventing and experimenting with new ways to render and collaborate on knowledge production and to see if we can build a more stable, sustainable and collegial atmosphere (...) for experts and the public to work together.” (p. 32)*
+
+Tacke (2012)               *Raus aus dem Elfenbeinturm: Open Science.*                                                               The Web 2.0 gives scientists new opportunities to spread scientific knowledge to a wider public.
+                                                                                                                                       
+Blog entry                                                                                                                           *“Im einfachsten Fall können Wissenschaftler etwa in Blogs über Themen aus ihrem Fachgebiet berichten und Fragen von interessierten dazu beantworten.” (p. 2)*
+
+Irwin (2006)               *The politics of talk*                                                                                    Due to modern technology, citizens can participate in scientific knowledge creation.
+                                                                                                                                       
+Monograph                                                                                                                            *"(...) this book is committed both to an improved understanding of 'science, technology and citizenship' and to better social practice in this area (...)" (p. 8)*
+
+Hand (2010)                *Citizen science: People power*                                                                           Citizens possess valuable knowledge from which science can benefit.
+                                                                                                                                       
+Article                                                                                                                              *“By harnessing human brains for problem solving, Foldit takes BOINC’s distributed-computing concept to a whole new level.” (p. 2)*
+
+Ebner & Maurer (2009)      *Can microblogs and weblogs change traditional scientific writing?*                                       Blogs can contribute to make research more accessible to the public. Yet they cannot replace articles and essays in scholarly communication.
+                                                                                                                                       
+Article                                                                                                                              *“Weblogs and microblogs can enhance lectures by bringing the resources of the WorldWideWeb to the course and making them discussable. Both new technologies, however, cannot replace writing essays and articles, because of their different nature.”*
+
+Catlin-Groves (2012)       *The Citizen Science Landscape: From Volunteers to Citizen Sensors and Beyond*                            Citizens can help monitoring on a large scale.
+                                                                                                                                       
+Review article                                                                                                                       *“The areas in which it [citizen science] has, and most probably will continue to have, the greatest impact and potential are that of monitoring ecology or biodiversity at large geographic scales”*
+
+Powell & Colin (2009)      *Participatory paradoxes: Facilitating citizen engagement in science and technology from the Top-Down?*   Citizen science projects are often short-lived
+                                                                                                                                       
+Article                                                                                                                              “Most participatory exercises do not engage citizens beyond an event or a few weeks/months, and they do not build citizens’ participatory skills in ways that would help them engage with scientists or policy makers independently.” (p. 327)
+-------------------------- --------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Accessibility to the Research Process — Can Anyone be a Scientist?
 
