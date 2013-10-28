@@ -5,6 +5,7 @@
   <i class="icon-calendar"></i> {{ page.modified_date }}<br/>
 {% endif %}
 <i class="icon-github"></i> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a><br/>
+<i class="icon-edit"></i> <a href="http://prose.io/#openingscience/book/edit/master/{{page.path}}">Send Edit Request</a><br/>
 {% if page.tags and page.tags != empty %}
   <ul>
     {% assign tags_list = page.tags %}
