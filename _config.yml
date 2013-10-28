@@ -13,10 +13,9 @@ title: Opening Science
 name: Opening Science
 description: TEST
 tagline:
-url: http://openingscience.github.io
+url: http://book.openingscience.org
 editors:
  - name:  Sönke Bartling
-   orcid: 0000-0001-5434-9433
  - name:  Sascha Friesike
 
 chapters:
@@ -39,7 +38,7 @@ chapters:
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 
-production_url:  http://openingscience.github.io
+production_url:  http://book.openingscience.org
 source_url:      http://github.com/openingscience/book
 archive_path:    /archive.html
 categories_path: /chapters.html

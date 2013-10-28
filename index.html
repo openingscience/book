@@ -17,7 +17,7 @@ modified_date: 15 September 2013
           <div class="toc-item">
             <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
             {% if post.authors %}<p>{% for author in post.authors %}
-              {% if author.orcid %}<a href="http://orcid.org/{{author.orcid}}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}</p>
+              {{ author.name }}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}</p>
             {% endif %}
             {% if post.abstract %}
               <div class="abstract">
