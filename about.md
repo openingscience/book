@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "About"
+title: About
 modified_date: 15 September 2013
+published: true
 ---
 
 <p>**Opening Science - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing** is a book that will be [published by Springer](http://www.springer.com/engineering/book/978-3-319-00025-1) in September 2013 with Sönke Bartling and Sascha Friesike as editors. Opening Science will be available as Open Access book with a Creative Commons Attribution-NonCommercical ([CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/deed.en)) license.</p>
@@ -47,7 +48,7 @@ While studying business and economics and writing his doctoral dissertation at W
 Dr. Sascha Friesike works as a postdoctoral researcher at the Alexander von Humboldt Institute for Internet and Society in Berlin, Germany. There he is in charge of the research group “Open Science”. He holds an engineering degree from the Technical University in Berlin and a Ph.D. from the University of St.Gallen. Prior to his engagement in Berlin, he worked as a researcher at the Center for Design Research at Stanford University.
 
 ### Alexander Gerber
-Managing Director of the German Research Center for Science and Innovation Communication, Alexander Gerber teaches science marketing (TU University), science communication (Rhine-Waal University), and science policy (Rhine Sieg University). He is an elected member of the Governing Board of Euroscience, and the ESOF Supervisory Board. He chairs the Editorial Board of Euroscientist and the Stakeholders Assembly of the EU science communication network PLACES (FP7). Mr. Gerber is also Secretary General of the German Society for Science & Technical Publishing (TELI).
+Managing Director of the German Research Center for Science and Innovation Communication, Alexander Gerber teaches science marketing (Technical University Berlin), science communication (Rhine-Waal University), and science policy (Rhine Sieg University). He is an elected member of the Governing Board of Euroscience, and the ESOF Supervisory Board. He chairs the Editorial Board of Euroscientist and the Stakeholders Assembly of the EU science communication network PLACES (FP7). Mr. Gerber is also Secretary General of the German Society for Science & Technical Publishing (TELI).
 As an information scientist, he primarily focuses his research and consulting on interactive media, citizen involvement, communication impact measurements, and market insight in science and innovation. Before that, he was head of Marketing & Communications at Fraunhofer ICT Group for 7 years, and editor of InnoVisions Magazine for 5 years.
 
 ### [Laure Haak](http://orcid.org/0000-0001-5109-3700)
