@@ -6,9 +6,9 @@ authors:
  - name: Mathias Binswanger
 category: basics_background
 abstract: "In this chapter, Binswanger (a critic of the current scientific process)
-explains how artificial competitions affect science and how they result
+explains how artificial staged competitions affect science and how they result
 in nonsense. An economist himself, Binswanger provides examples from his
-fields and shows how impact factors and publication pressure detoriates
+field and shows how impact factors and publication pressure reduce
 the quality of scientific publications. Some might know his work and
 arguments from his book “Sinnlose Wettbewerbe”."
 ---
@@ -19,23 +19,23 @@ arguments from his book “Sinnlose Wettbewerbe”."
 
 ## In Search of Excellence
 
-Since the Age of Enlightenment, science has taken place mostly at
+Since the Age of Enlightenment, science has mostly taken place at
 universities and their respective institutes, where for a long time the
 ideal of uniting research and teaching was upheld. Since their
-re-establishment through Humboldt in 1810, German universities have
-been, also in terms of academic work, largely independent (academic
-freedom) and the principle of academic self-administration was applied.
+re-establishment by Humboldt in 1810, German universities have
+been, also in terms of academic work, largely independent and the principle
+of academic freedom was applied.
 
-The government just determined that amount of money that was paid to
+The government merely determined that amount of money that was paid to
 universities and set the legal framework for science and teaching. In
 terms of research*,* the government did not impose specific research
-policies -with the exception of some inglorious episodes (Nazi regime).
+policies -with the exception of some inglorious episodes (e.g. the Nazi regime).
 Universities were trusted to know best, what kind of research they were
 doing.
 
-Generally, it was imperative not to tell a country’s best academics what
+Generally, it was accepted not to tell a country’s best academics what
 they should be interested in and what research they should be doing
-(Schatz, 2001; Kohler, 2007). On this account, academic practice of
+(Schatz 2001; Kohler 2007). Therefore the academic practice of
 professors and other scientists was hardly documented and assessed
 systematically, as it was assumed that academics would strive for
 excellence without having to be forced to do so.
@@ -43,7 +43,7 @@ excellence without having to be forced to do so.
 Sometimes this was right and sometimes it was wrong. Huge differences in
 quality between individual scientists were the result. Scientific
 geniuses and lame ducks jointly populated universities, whereby even
-during the scientists’ life-times it was not always discernible who was
+during the scientists’ lifetimes it was not always discernible who was
 the lame duck and who the genius.
 
 *"The extraordinary is the rare result of average science and only
@@ -55,21 +55,20 @@ only one method to guarantee progress in science. One has to find
 geniuses, support them and let them carry out their work
 independently.”*
 
-Meanwhile, the government has given up its reservation towards
-universities and formerly proud bastions of independent thinking turned
-into implementation and executive organs of governmental programs and
-initiatives. Lenin’s doctrine applies once again: trust is good, control
-is better.
+Meanwhile, the government has given up its reservations towards
+universities and formerly proud bastions of independent thinking have
+turned into servants of governmental programs and initiatives. Lenin’s
+doctrine applies once again: trust is good, control is better. 
 
 To ensure the efficient use of scarce funds, the government forces
-universities and professors together with their academic staff, to
+universities and professors, together with their academic staff, to
 permanently take part in artificially staged competitions. This is
 happening on two fronts: universities have to prove themselves by
 competing, both in terms of education and scientific research, in order
-to stay ahead in the rankings. But how did this development occur? Why
+to stay ahead in the rankings. Yet how did this development occur? Why
 did successful and independent universities forget about their noble
 purpose of increasing knowledge and instead degenerated into
-“publication factories” and “project mills” who are only interested in
+“publication factories” and “project mills” which are only interested in
 their rankings?
 
 To understand this, we have to take a closer look at the development of
@@ -80,12 +79,12 @@ reach for the majority of working class kids. Since the 1960s however,
 increasing access to tertiary education occurred, for which the term
 “mass higher education” (Trow, 1997) was coined.
 
-From 1950, first-year student rates increased from an average of 5
-percent in the industrialized countries to up to 50 percent at the
-beginning of the 21st century (Switzerland is, with its 20 percent, is
-an exception). Universities and politics however, were not prepared to
+From 1950, first-year student rates increased from an average of 5 %
+in the industrialized countries to up to 50 % at the
+beginning of the 21st century (Switzerland, with its 20 %, is
+an exception). Universities and politics, however, were not prepared to
 deal with this enormous increase. It was believed to be possible to
-carry on with 1000 students in the same way as has been done with 50
+carry on with 1,000 students in the same way as has been done with 50
 students, by just increasing the number of universities and professors
 and by putting more money into administration.
 
@@ -93,54 +92,54 @@ The mass education at universities made a farce of Humboldt’s old idea
 of unity of research and education. This had consequences for both
 education and research. There were more and more students and also more
 and more researchers who were employed at universities (and later on at
-universities of applied sciences), but most of them had no time for
-research anymore. The number of students grew disproportionately quicker
+universities of applied sciences), but most of them no longer hand any time for
+research. In Germany, the number of students also grew disproportionately faster
 than the number of professors also due to the very generous government
 support of students through BAFÖG (Federal Education and Trainings
-Assistance Act) in Germany. Therefore, one professor had to supervise
+Assistance Act). Therefore, one professor had to supervise
 more and more students and postgraduates and there was no more time to
-seriously deal with it.
+seriously deal with them.
 
 Dissertations became mass products, the majority of which added little
 or nothing to scientific advancement. An environment emerged that was
-neither stimulating for professors nor for their assistants and doctoral
+neither stimulating for professors, nor for their assistants and doctoral
 students, which logically led to increasing mediocrity. Especially
-German universities were often criticized along the following lines:
+German universities in particular have often been criticized along the following lines:
 studies last too long, the dropout rates are too high, the curricula are
 obsolete, and research performance is only average and rarely of value
 and relevance for industrial innovations.
 
-A second phenomenon, which did a lot of harm to the European
-universities, is the lasting glorification of the American higher
+A second phenomenon which did a lot of harm to the European
+universities, was the lasting glorification of the American higher
 education system. Many politicians, but also scientists themselves, see
-this system as a permanent source of excellence and success, without—as
+this system as a permanent source of excellence and success without—as
 US scientist Martin Trow (1997) writes—getting the general picture of
 the American higher education system. Attention is directed exclusively
-at Harvard, Princeton, Yale, MIT and other Ivy-League universities,
+at Harvard, Princeton, Yale, MIT, and other Ivy-League universities,
 which make up only a small percentage of the university landscape in the
-US. In this euphoria, it is intentionally overlooked, that the majority
-of colleges and universities shows an intellectually modest level and
+US. In this euphoria, it is intentionally overlooked that the majority
+of colleges and universities displays an intellectually modest standard and
 hardly contributes to academic progress. Much of what we celebrate as
 “globalization” and “adjustment to international standards” is in
-reality the adjustment to US-American provincialism (Fröhlich,
+reality the adjustment to US-American provincialism (Fröhlich
 interview).
 
 In Europe, the idea became fashionable that imitating top US
 universities would magically create a new academic elite. Like small
-boys, all wanted to be the greatest, and politics started propagating
-sponsorship of Ivy-League universities, elite institutions and elite
+boys, all universities wanted to be the greatest, and politics started propagating
+sponsorship of Ivy-League universities, elite institutions, and elite
 scientists. Germany started an Excellence Initiative in order to boost
 its international competitiveness. Switzerland aimed to be one of the
-top 5 countries for innovation by supporting excellence. And the
-European Union, with the so-called Lisbon-strategy from 2000, had hoped
+top 5 countries for innovation by supporting excellence, and the
+European Union, with the so-called Lisbon-strategy of 2000, had hoped
 to turn the EU into the most dynamic knowledge-based economy by 2010.
 
-Cutting-edge universities, top-institutes and research clusters
-mushroomed everywhere, and everyone wanted to be even more excellent
-than the already excellent competitors. Amongst this childish race for
+Cutting-edge universities, top-institutes, and research clusters
+shot up everywhere, and everyone wanted to be even more excellent
+than their already-excellent competitors. Amongst this childish race for
 excellence, it was overlooked that not all can be more excellent than
 all the rest. This fallacy of composition applies here as well. Instead,
-the term excellence became a meaningless catchword. Philosopher Jürgen
+the term excellence became a meaningless catchword. Philosopher
 Mittelstrass (2007) writes:
 
 *“Until now, no one took offence at the labeling of excellent cuisine,
@@ -150,54 +149,54 @@ this term and talks about excellent research, excellent research
 establishments, clusters of excellence and Excellence Initiatives, in
 endless and almost unbearable repetitions.”*
 
-But how do we actually know what excellence is and where it is
-worthwhile to foster scientific elite? In reality, no one actually
-knows, least of all politicians who enthusiastically launch such
+Yet how do we actually know what excellence is and where it is
+worthwhile to foster a scientific elite? In reality, no one actually
+knows, least of all the politicians who enthusiastically launch such
 excellence initiatives. This is where the idea of artificially staged
-competitions comes in. It is assumed, that these competitions will
+competition comes in. It is assumed that these competitions will
 automatically make the best rise to the top—without the need to care
 about neither content nor purpose of research. We may call this “contest
-illusion”. For the first time, this contest illusion has been applied to
-science in England under the Thatcher government in the 1980s.
+illusion”. This contest illusion was applied to 
+science in England for the first time under the Thatcher government in the 1980s.
 Afterwards it was quickly copied in other countries. The Thatcher
 government, inspired by its belief in markets and competition, would
 have loved to privatize all institutions engaged in academic activities
-and to let markets decide, which kind of science was needed and which
+and to let markets decide which kind of science was needed, and which
 was not. However, this proved to be impossible. Basic research
 constitutes, for the most part, a common good which cannot be sold for
 profit at a market. Privatization would therefore completely wipe out
 basic research. Thus, artificially staged competitions were created,
-which were then termed markets (internal markets, pseudo markets), even
+which were then termed markets (internal markets, pseudo-markets), even
 though this was a false labeling.
 
-Connected to the euphoria about market and competition there was also a
-deep mistrust towards independent research taking place in “ivory
-towers”, of which politicians often do not know what it is good for.
+Connected to the euphoria about markets and competition, there was also a
+deep mistrust towards independent research taking place within “ivory
+towers”, the purpose of which politicians often do not understand.
 What does the search for knowledge bring apart from high costs? On these
 grounds, the former British minister of education Charles Clarke
 characterized “the medieval search for truth” as obsolete and
-unnecessary (quoted after Thorpe, 2003). Modern universities should
+unnecessary [^1]. Modern universities should
 produce applicable knowledge, which can be transformed into growth of
 the gross domestic product, and additionally make it more sustainable.
 Universities should think “entrepreneurial” and adjust to economic needs
 (see Maasen and Weingart, 2008). For this reason, governments in many
-countries and particularly in the EU started to organize gigantic
+countries, and particularly in the EU, started to organize gigantic
 research programs. Instead of making research funds directly available
 to universities, they are now in competition with each other, so that
 only the “best” get a chance. This should ensure that above all
 practice-oriented and applicable knowledge is created and government
-funds are not wasted (e.g. for “unnecessary” basic research). And
+funds are not wasted (e.g. for “unnecessary” basic research). Hence
 universities are forced to construct illusionary worlds of utility and
-to pretend that all research serves an immediate purpose (Körner, 2007).
+to pretend that all research serves an immediate purpose (Körner 2007).
 
 How can you impress the research commissions responsible for the
 distribution of funds? This is mainly achieved by increasing measurable
-output such as publications, projects funded by third-party funds and
+output such as publications, projects funded by third-party funds, and
 networks with other institutes and universities. In this way,
-“excellence” is demonstrated which in turn leads to easier access to
+“excellence” is demonstrated, in turn leading to easier access to
 further government research funds. Competitiveness has therefore become
-a priority for universities and their main goal is to perform as high as
-possible in measurable indicators, which play an important role in the
+a priority for universities and their main goal is to perform as highly as
+possible in measurable indicators which play an important role in the
 artificially staged competitions. The underlying belief is that our
 knowledge increases proportionally to the amount of scientific projects,
 publications and also to the intensity of networking between research
@@ -207,71 +206,71 @@ bureaucrats.
 
 The modern university is only marginally concerned with gaining
 knowledge, even though the public from time to time is assured that this
-is still the major goal .Today’s universities are on the one hand
+is still the major goal. Today’s universities are, on the one hand,
 fundraising institutions, determined to receive as many research funds
 as possible. On the other hand, they are publication factories, trying
 to maximize their publication output. Hence, the ideal professor is a
-mixture of fundraiser, project manager and mass publisher (either
-directly as author or as co-author in publications written by employees
+mixture of fundraiser, project manager, and mass publisher (either
+directly as author, or as co-author in publications written by employees
 of the institution), whose main concern is measurable contribution to
-scientific excellence rather than increasing our knowledge. And in order
+scientific excellence, rather than increasing our knowledge. Moreover, in order
 to make professors deliver their contribution to excellence, faculty
 managers have been recruited for each department in addition to
 traditional deans. Nowadays, the principal is sort of a CEO who is
 supposed to implement new strategies for achieving more and more
 excellence. Research becomes a means in the battle for “market shares”
-of universities and research institutions (Münch, 2009).
+of universities and research institutions (Münch 2009).
 
 Universities which on the surface expose themselves as great temples of
 scientific excellence, are forced to participate in project- and
 publication-olympics, where instead of medals, winners are rewarded with
-the elite or excellence status, exemption from teaching duties and
-sometimes also with higher salaries. And this is how it goes, even
+the elite or excellence status, exemption from teaching duties, and
+sometimes also with higher salaries. This is how it goes, even
 though many of the projects and publications do not have the slightest
 importance for the rest of the population outside the academic system.
 
-Particularly two artificially staged competitions incentivize the
+Two artificially staged competitions in particular incentivize the
 production of nonsense: the competition for the highest amount of
 publications and the competition for the highest amount of research
-funds. The resulting indicators for publications and third-party funds
+funding. The resulting indicators for publications and third-party funds
 play a central role in today’s research rankings, such as, for example
 the German CHE Research Ranking of German universities (see Berghoff et
-al., 2009).
+al. 2009).
 
 The competition for the highest amount of publications will be analyzed
-below in more detail. On the basis of the competition for publications
+below in more detail. On the basis of the competition for publications,
 it can be nicely demonstrated how perverse incentives emerge and what
-consequences this entails for research but also generally for the
-economy and society.
+consequences this entails not only for research but also generally for society and the
+economy.
 
 ## The Competition for Publications in Academic Journals: The Peer-Review Process
 
-In almost every academic discipline publications are the most important
+In almost every academic discipline, publications are the most important
 and often the only measurable output. Indeed, in some natural sciences
-and in engineering also inventions or patents play a certain role, yet
-this concerns more applied science. Basic research, however, always
-manifests itself in publications. What is more obvious than to measure a
-scientist’s or institute’s output or productivity on the basis of
+and in engineering inventions or patents also play a certain role, yet
+this more concerns applied science. Basic research, however, always
+manifests itself in publications. What is more obvious than measuring a
+scientist or institute’s output or productivity on the basis of
 publications? For is it not the case that many publications are the
 result of a lot of research, consequently increasing our relevant
-knowledge? And should not every scientist be driven into publishing as
+knowledge? Should not every scientist be driven to publish as
 much as possible in order to achieve maximum “scientific productivity”?
 Someone who has just a little knowledge of universities and academic
-life can immediately answers these questions with a clear “no”. Indeed,
+life can immediately answers these questions with an overwhelming “no”. Indeed,
 more publications increase the amount of printed sheets of paper, but
-this number does not say much more about the significance of a
-scientist’s or institute’s research activity than the number of played
+this number does not say any more about the significance of a
+scientist or institute’s research activity than the number of played
 notes says something about the quality of a piece of music.
 
 Of course, measurements of scientific output are not as primitive as
 counting every written page of scientific content as scientific
 activity. Relevant publications are in professional journals, where
 submitted work is subjected to a “rigorous” and “objective” selection
-method, the so-called “peer-review process”. This should ensure that
-only “qualitatively superior” work is published which then is regarded
+method: the so-called “peer-review process”. This should ensure that
+only “qualitatively superior” work is publisheded which then is regarded
 as a “real scientific publication”. Thus, strictly speaking, the aim of
 the artificially staged competitions amongst scientists is to publish as
-many articles as possible in peer reviewed scientific journals.
+many articles as possible in peer-reviewed scientific journals.
 
 However, also among scientific journals strict hierarchies exist, which
 are supposed to represent the average “quality” of the accepted papers.
