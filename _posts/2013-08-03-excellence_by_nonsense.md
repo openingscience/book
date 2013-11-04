@@ -6,7 +6,7 @@ authors:
  - name: Mathias Binswanger
 category: basics_background
 abstract: "In this chapter, Binswanger (a critic of the current scientific process)
-explains how artificial staged competitions affect science and how they result
+explains how artificially staged competitions affect science and how they result
 in nonsense. An economist himself, Binswanger provides examples from his
 field and shows how impact factors and publication pressure reduce
 the quality of scientific publications. Some might know his work and
@@ -35,7 +35,7 @@ doing.
 
 Generally, it was accepted not to tell a country’s best academics what
 they should be interested in and what research they should be doing
-(Schatz 2001; Kohler 2007). Therefore the academic practice of
+(Schatz 2001; Kohler 2007). Therefore, the academic practice of
 professors and other scientists was hardly documented and assessed
 systematically, as it was assumed that academics would strive for
 excellence without having to be forced to do so.
@@ -77,7 +77,7 @@ education made up a relatively small fraction of the population.
 Universities were relatively elitist institutions which remained out of
 reach for the majority of working class kids. Since the 1960s however,
 increasing access to tertiary education occurred, for which the term
-“mass higher education” (Trow, 1997) was coined.
+“mass higher education” (Trow 1997) was coined.
 
 From 1950, first-year student rates increased from an average of 5 %
 in the industrialized countries to up to 50 % at the
@@ -103,8 +103,8 @@ seriously deal with them.
 Dissertations became mass products, the majority of which added little
 or nothing to scientific advancement. An environment emerged that was
 neither stimulating for professors, nor for their assistants and doctoral
-students, which logically led to increasing mediocrity. Especially
-German universities in particular have often been criticized along the following lines:
+students, which logically led to increasing mediocrity.German universities
+in particular have often been criticized along the following lines:
 studies last too long, the dropout rates are too high, the curricula are
 obsolete, and research performance is only average and rarely of value
 and relevance for industrial innovations.
@@ -139,7 +139,7 @@ shot up everywhere, and everyone wanted to be even more excellent
 than their already-excellent competitors. Amongst this childish race for
 excellence, it was overlooked that not all can be more excellent than
 all the rest. This fallacy of composition applies here as well. Instead,
-the term excellence became a meaningless catchword. Philosopher
+the term ‘excellence’ became a meaningless catchword. Philosopher
 Mittelstrass (2007) writes:
 
 *“Until now, no one took offence at the labeling of excellent cuisine,
@@ -196,10 +196,10 @@ networks with other institutes and universities. In this way,
 “excellence” is demonstrated, in turn leading to easier access to
 further government research funds. Competitiveness has therefore become
 a priority for universities and their main goal is to perform as highly as
-possible in measurable indicators which play an important role in the
+possible in measurable indicators which play an important role in these
 artificially staged competitions. The underlying belief is that our
 knowledge increases proportionally to the amount of scientific projects,
-publications and also to the intensity of networking between research
+publications, and intensity of networking between research
 institutions, which in turn is supposed to lead to more progress and
 wealth. This naïve ton ideology is widespread among politicians and
 bureaucrats.
@@ -259,59 +259,59 @@ Someone who has just a little knowledge of universities and academic
 life can immediately answers these questions with an overwhelming “no”. Indeed,
 more publications increase the amount of printed sheets of paper, but
 this number does not say any more about the significance of a
-scientist or institute’s research activity than the number of played
-notes says something about the quality of a piece of music.
+scientist or institute’s research activity than the number of notes played
+says something about the quality of a piece of music.
 
 Of course, measurements of scientific output are not as primitive as
 counting every written page of scientific content as scientific
 activity. Relevant publications are in professional journals, where
 submitted work is subjected to a “rigorous” and “objective” selection
 method: the so-called “peer-review process”. This should ensure that
-only “qualitatively superior” work is publisheded which then is regarded
+only “qualitatively superior” work is published, which then is regarded
 as a “real scientific publication”. Thus, strictly speaking, the aim of
 the artificially staged competitions amongst scientists is to publish as
 many articles as possible in peer-reviewed scientific journals.
 
-However, also among scientific journals strict hierarchies exist, which
+However, among scientific journals strict hierarchies exist which
 are supposed to represent the average “quality” of the accepted papers.
-In almost each scientific discipline there are a few, awe-inspiring,
+In almost every scientific discipline there are a few awe-inspiring
 top-journals (A-journals), and then there are various groups of less
 highly respected journals (B- and C-journals), where it is easier to
 place an article, but where the publication does not have the same
 significance as an A-journal article. Publishing one’s work in an
 A-journal is therefore the most important and often also the only aim of
-a modern scientist, thus allowing him/her to ascend to the
-champions-league of his discipline. And belonging to this illustrious
+modern scientists, thus allowing them to ascend to the
+“Champions League” of their discipline. Belonging to this illustrious
 club makes it easier to publish further articles in A-journals, to
-secure more research funds, to conduct even more expensive experiments
+secure more research funds, to conduct even more expensive experiments,
 and, therefore, to become even more excellent. The “Taste for Science”,
-described by Robert Merton (1973), which is based on intrinsic
+described by Merton (1973), which is based on intrinsic
 motivation and supposed to guide scientists was replaced by the
 extrinsically motivated “Taste for Publications.”
 
 But what is actually meant by the peer-review process? When a scientist
 wants to publish a paper in an accepted scientific journal, the paper
 has to be submitted to the journal’s editors, who have established
-themselves as champions in their disciplines. These editors usually do
+themselves as champions within their disciplines. These editors usually do
 not have the time to deal with the day-to-day business of “their
 journal” and thus there is a less accomplished Managing Editor, who is
 responsible for administrative tasks and receives manuscripts from the
-publishing-hungry scientists and who then puts the peer-review process
+publishing-hungry scientists and then puts the peer-review process
 in motion. The Managing Editor gives the submitted manuscripts to one or
 several professors or other distinguished scientists (the so-called
 peers) who ideally work in the same field as the author and therefore
-should be able to assess its quality.
+should be able to assess the work's quality.
 
 To ensure the “objectivity” of the expert judgments, the assessment is
 usually performed as a double-blind procedure. This means that the
 reviewers do not know who are the authors of the article to be reviewed,
 and the authors are not told by whom their paper is assessed. At the end
 of the peer review process, the reviewers inform the editor in writing
-whether they plead for acceptance (very rare), revision or rejection
-(most common) of the article submitted to the respective journal. Quite
+whether they plead for acceptance (very rare), revision, or rejection
+(most common) of the article submitted to the journal in question. Quite
 a few top journals pride themselves on high rejection rates, supposedly
-reflecting the high quality of these journals (Fröhlich, 2007). For such
-journals the rejection rates amount to approximately 95 percent, which
+reflecting the high quality of these journals (Fröhlich 2007). For such
+journals the rejection rates amount to approximately 95 %, which
 encourages the reviewers to reject manuscripts in almost all cases in
 order to defend this important “quality measure”. Solely manuscripts
 that find favor with their reviewers get published, because although the
@@ -319,111 +319,108 @@ final decision concerning publication rests with the editors, they
 generally follow the expert recommendations.
 
 The peer-review process is thus a kind of insider procedure (also known
-as clan control, Ouchi, 1980), which is not transparent for scientists
-outside the established circle of champions. The already established
-scientists of a discipline evaluate each other and especially the
-newcomers and decide what is worth to be published. Although the claim
+as clan control, Ouchi 1980), which is not transparent for scientists
+outside the established circle of champions. The already-established
+scientists of a discipline evaluate each other, especially
+newcomers and decide what is worthy to be published. Although the claim
 is made that scientific publications ultimately serve the general
 public, and thereby also serve people who are not active in research,
-the general public, who actually is supposed to stand behind the demand
-for scientific achievement, has no influence on the publication process.
+the general public, who is actually is supposed to stand behind the demand
+for scientific achievement, has no influence upon the publication process.
 The peers decide on behalf of the rest of mankind, since the public can
-hardly assess the scientific quality of a work.[^1] Outside the academic
-system, most people neither know what modern research is about nor how
+hardly assess the scientific quality of a work.[^2] Outside of the academic
+system, most people neither know what modern research is about, nor how
 to interpret the results and their potential importance to mankind.
-Although scientists often also do not know the latter, they are —in
-contradiction to the layman—educated to conceal this lack of knowledge
+Although scientists often also do not know the latter, they are—in
+contrast to the layman—educated to conceal this lack of knowledge
 behind important sounding scientific jargon and formal models. In this
 way, even banalities and absurdities can be represented as A-journal
 worthy scientific excellence, a process laymen and politicians are not
 aware of. They are kept in the blissful belief that more competition in
-scientific publication leads to evermore top performance and excellence.
+scientific publication leads to ever-increasing top performance and excellence.
 
-Considering the development of the number of scientific publications it
-seems that scientists actually accomplish more and more. Worldwide, the
+Considering the development of the number of scientific publications, it
+seems that scientists are actually accomplishing more and more. Worldwide, the
 number of scientific articles, according to a count conducted by the
 Centre for Science and Technology Studies at the University of Leiden
-(SBF, 2007) has increased enormously. The number of scientific
+(SBF 2007) has increased enormously. The number of scientific
 publications in professional journals worldwide increased from
 approximately 686,000 in 1990 to about 1,260,000 in 2006, which
-corresponds to an increase of 84 percent. The annual growth rate
-calculated on this basis was more than 5 percent. The number of
+corresponds to an increase of 84 %. The annual growth rate
+calculated on this basis was more than 5 %. The number of
 scientific publications grows faster than the global economy and
 significantly faster than the production of goods and services in
 industrial countries, from where the largest number of publications
-originates (OECD, 2008a).
+originates (OECD 2008).
 
-By far the largest share of world production of scientific articles (all
-figures refer to the year 2006) comes from the U.S. (25 percent),
-followed by Britain with 6.9 percent. Germany has 6.3 percent,
-Switzerland 1.5 percent and Austria has 0.7 percent (SBF, 2007).
-However, calculating published articles per capita, Switzerland becomes
-the world’s leading country, because there are 2.5 published scientific
-articles per 1000 inhabitants, while in the U.S. there are 1.2 articles
-and only one article in Germany (SBF, 2007).[^2] The same picture
-emerges if one applies the number of publications to the number of
-researchers. In this case, in Switzerland for each 1000 researchers
-there are 725 publications while there are 295 in Germany and 240 in the
-United States. Thus, in no other country more research publications are
-squeezed out of an average researcher than in Switzerland.
+By far the largest share of world production of scientific articles comes 
+from the U.S. (25 %), followed by Britain with 6.9 %. Germany produces 6.3 %,
+Switzerland 1.5 %, and Austria 0.7 % (SBF 2007). However, calculating
+published articles per capita, Switzerland becomes the world’s leading
+country, because there are 2.5 published scientific articles per 1,000
+inhabitants, while in the U.S. there are 1.2 articles, and only one article
+in Germany (SBF 2007)[^3]. The same picture emerges if one applies the number
+of publications to the number of researchers. In this case, in Switzerland
+for each 1,000 researchers there are 725 publications while there are 295
+in Germany and 240 in the United States. Thus, in no other country in the
+world are more research publications squeezed out of the average researcher
+than in Switzerland.
 
 Once we begin to examine the background of this increasing flood of
 publications it quickly loses its appeal. This is to a large extent
 inherent in the peer-review process itself. This supposedly objective
 system for assessing the quality of articles in reality rather resembles
-a random process for many authors (Osterloh and Frey, 2008). A critical
+a random process for many authors (Osterloh and Frey 2008). A critical
 investigation reveals a number of facts that fundamentally question the
-peer-review process as a quality assurance instrument (cf. Atkinson,
-2001; Osterloh and Frey, 2008; Starbuck, 2006). It generally appears
+peer-review process as a quality assurance instrument (cf. Atkinson
+2001; Osterloh and Frey 2008; Starbuck 2006). It generally appears
 that expert judgments are highly subjective, since the consensus of
 several expert judgments is usually low. One reason is that by no means
 all peers, who are mostly preoccupied with their own publications,
-actually read and let alone understand the articles to be evaluated. For
-that, time is far too short and usually it is not even worth it because
-there are much more interesting things to do. On that account, time
-after time reviewers pass on the articles to their assistants who in the
-sense of their boss draft the actual review as ghostwriters (Frey et
-al., 2009, Kyklos). No wonder that under such conditions, at hindsight
+actually read, let alone understand, the articles to be evaluated. Time
+is far too short for this and usually it is not even worth it because
+there are much more interesting things to do. Hence, time
+after time reviewers pass on the articles to their assistants, who in the
+manner of their boss, draft the actual review as ghostwriters (Frey et
+al. 2009). No wonder that under such conditions, at hindsight
 important scientific contributions are frequently rejected. Top-journals
 repeatedly rejected articles that later on turned out to be scientific
 breakthroughs and even won the Nobel Prize. Conversely, however,
 plagiarism, fraud and deception are hardly ever discovered in the peer
-review process (Fröhlich, 2007). In addition, unsurprisingly, reviewers
-assess those articles more favorably that are in accordance with their
-own work, and vice versa, they reject articles that contradict them
+review process (Fröhlich 2007). In addition, unsurprisingly, reviewers
+assess those articles that are in accordance with their own work more
+favorably, and vice versa, they reject articles that contradict them
 (Lawrence 2003).
 
-Due to the just described peer-review process the competition for
+Due to the just-described peer-review process, the competition for
 publication in scientific journals results in a number of perverse
 incentives. To please the reviewers, a potential author undertakes
 everything conceivably possible. To describe this behavior Frey (2003)
 rightly coined the term “academic prostitution”, which—in contrast to
-traditional prostitution—does not bloom by a natural demand, but is
-induced by an artificially staged competition. In particular, the
+traditional prostitution—does not spring from natural demand, but is
+induced by artificially staged competition (cf. Giusta et al. 2007). In particular, the
 following perverse effects can be observed:
 
 ## Modes of perverse behavior caused by the peer-review process:
 
-### Strategic citing and praising[^3]
+### Strategic citing and praising[^4]
 
 When submitting an article to a journal, the peer-review process induces
-authors to think about possible reviewers, who have already published
+authors to think about possible reviewers who have already published
 articles dealing with the same or similar topics. To flatter the
-reviewers the author will preferably quote all of them or praise their
-work (a seminal contribution, ingenious idea etc.) for which scientist
-does not like to be cited or mentioned in the bibliography of an
-article? An additional citation is thus useful for the potential
-reviewer because in turn it is improving his own standing as a
-scientist. Furthermore, editors often consult the bibliography at the
-end of an article while looking for possible reviewers, which makes
-strategic citing even more attractive.
+reviewers, the author will preferably quote all of them or praise their
+work (as a seminal contribution, ingenious idea, etc.); An additional
+citation is useful for the potential reviewer because in turn it is
+improving his own standing as a scientist. Furthermore, editors often
+consult the bibliography at the end of an article while looking for
+possible reviewers, which makes strategic citing even more attractive. 
 
 Conversely, an author will avoid criticizing the work of possible
 reviewers, as this is a sure road to rejection. Accordingly, this
-attitude prevents criticizing and questioning existing approaches.
-Instead, the replication of established knowledge gets promoted by
-elaborating on already existing approaches through further model
-variations or additional empirical investigations.
+attitude prevents the criticism and questioning of existing approaches.
+Instead, the replication of established knowledge gets promoted through
+elaboration upon preexisting approaches through further model variations
+or additional empirical investigations. 
 
 ### No deviation from established theories
 
@@ -435,12 +432,12 @@ not difficult, since most authors try to adapt to the prevailing
 mainstream theories in their own interest. The majority of the authors
 simply wants to publish articles in top journals, and this makes them
 flexible in terms of content. They present traditional or fashionable
-approaches that evoke little protest (Osterloh and Frey, 2008). In this
-way, some disciplines (e.g. economics) degenerated to a kind of theology
+approaches that evoke little protest (Osterloh and Frey 2008). In this
+way, some disciplines (e.g. economics) have degenerated into a kind of theology
 where heresy is no longer tolerated in established journals. Heresy
 takes place in only a few marginal journals specializing in divergent
 theories, but these publications rarely contribute to the reputation of
-a scientist. Gerhard Fröhlich aptly writes: “In science as in the
+a scientist. As Gerhard Fröhlich aptly writes: “In science as in the
 Catholic Church similar conditions prevail: censorship, opportunism and
 adaptation to the mainstream of research. As a result, a highly stylized
 technocratic rating- and hierarchy-system develops, which hinders real
@@ -450,13 +447,13 @@ In empirical studies, the adherence to established theories can also be
 discovered by the results of statistical tests. To falsify an existing
 theory is linked to low chances of publication and thus there is an
 incentive to only publish successful tests and to conceal negative
-results (Osterloh and Frey, 2008).
+results (Osterloh and Frey 2008).
 
 ### Form is more important than content
 
 Since presenting original content usually lowers the chances of
 publication, novelty has shifted to the form how content is presented.
-Simple ideas are blown up to highly complex formal models, which
+Simple ideas are blown up into highly complex formal models which
 demonstrate the technical and mathematical expertise of the authors and
 signal importance to the reader. In many cases, the reviewers are not
 able to evaluate these models because they have neither the time nor the
@@ -470,16 +467,17 @@ experiment.
 
 With this formalization, sciences increasingly move away from reality as
 false precision is more important than actual relevance. The biologist
-Christian Koerner writes (2007, p 171): *“The more precise the statement
+Körner writes (2007, p. 171): *“The more precise the statement
 [of a model], the less it usually reflects the scale of the real
 conditions which are of interest to or available for the general public
 and which leads to scientific progress.”*
 
-The crowding out of content by form does also attract other people to
-science.. The old type of an often highly unconventional scientist who
-is motivated by intrinsic motivation, is increasingly replaced by
-formally gifted, streamlined men and women[^4], who in spite of their
-formal brilliance have hardly anything important to say.
+The predominance of form over content (let us call this ‘crowding-out’
+of form by content) does also attract other people to science. The old
+type of an often highly unconventional scientist who is motivated by
+intrinsic motivation is increasingly being replaced by formally gifted,
+streamlined men and women[^5], who in spite of their formal brilliance have
+hardly anything important to say.
 
 ### Undermining of anonymity by expert networks
 
@@ -487,26 +485,26 @@ In theory, the peer-review process should work in such a way that
 publication opportunities are the same for all authors. Both the
 anonymity of the authors and the reviewers are guaranteed thanks to the
 double-blind principle. For many established scientists at top
-universities “real” competition under these conditions would be a
+universities, “real” competition under these conditions would be a
 nuisance. After all, why did one work hard for a lifetime only to be
 subject to the same conditions as any newcomer? The critical debate on
 the peer-reviewed process discussed in the journal Nature in 2007,
 however, clearly showed that in practice the anonymity of the process
 for established scientists is rare. They know each other and know in
 advance which papers by colleagues or by scientists associated with them
-will be submitted. In expert networks, maintained in research seminars,
+will be submitted. In expert networks maintained in research seminars,
 new papers are presented to each other, which successfully undermines
 the anonymity of the peer-review process.
 
 This fact can clearly be seen when looking at the origin of scientists
 who publish in top journals. For example, a study of the top five
-journals in economics (Frey et al., 2009, p 153) shows that of the 275
-articles published in 2007, 43 percent originated from scientists
+journals in economics (Frey et al. 2009, p. 153) shows that of the 275
+articles published in 2007, 43 % originated from scientists
 working at only a few top American universities (Harvard, Yale,
 Princeton, MIT, Chicago, Berkeley, Stanford). The professors of these
 universities are basically set as authors and the rest must then go
 through an arduous competition for the few remaining publication slots.
-What George Orwell noted in his book “Animal Farm” applies also here:
+What George Orwell noted in his book “Animal Farm” can be paraphrased:
 All authors are equal but some are more equal than others.
 
 ### Revenge of frustrated experts
@@ -516,30 +514,30 @@ experience for many researchers. Constantly, submitted papers are
 rejected, and often for reasons that are not comprehensible. One has to
 be pleased if the reviewers have the grace to make recommendations for a
 revision of the article. In this case, in order to finally get it
-published, one needs (in fact “must”) change the article according to
+published, one needs to (or in fact “must”) change the article according to
 the wishes of the reviewers. This is hardly a pleasant task as it is not
 uncommon that a revision is done “contre coeur.” Therefore it is no
 wonder that many reviewers are at the same time frustrated authors, who
 can now pay back to innocent third authors the humiliation they had gone
-through themselves (Frey et al., 2009, p 153). ''“They should not have
+through themselves (Frey et al. 2009, p. 153). *“They should not have
 it easier than us, and they should not think that getting a publication
-is so easy.” ''is the tenor. For this reason articles are often rejected
-out of personal grudge, and the supposedly objective competition for
+is so easy.”* is the tenor. For this reason, articles are often rejected
+out of personal grudges, and the supposedly objective competition for
 publication becomes a subjective statement. This is particularly the
 case when it comes to approaches that are hated by the reviewers (in
-reality it is often the professor behind the publication, who is hated)
-and they will not forgo the chance to make the life of this author a bit
-more miserable.
+reality it is often the professor behind the publication who is hated)
+and they will not forgo the chance to make the life of this author a little
+bit more miserable.
 
 The perverse incentives created by the peer-review process ensure that
 the steadily increasing number of published articles in scientific
 journals often does not lead to new or original insights and, therefore,
-many new ideas do not show up in established magazines. They can rather
-be found in books and working papers, where there is no pseudo quality
+many new ideas do not show up in established journals. They can rather
+be found in books and working papers, where there is no pseudo-quality
 control which hinders innovative ideas. Although the peer-review process
 prevents the publication of obvious platitudes and nonsense on the one
 hand, on the other hand it promotes the publication of formally and
-verbally dressed up nonsense. The increasing irrelevance of content is
+verbally dressed-up nonsense. The increasing irrelevance of content is
 the result of artificially staged competition for publication in
 professional journals. The next section deals with the use of
 publications and citations as indicators for the assessment of
@@ -548,29 +546,28 @@ have more and more irrelevant publications.
 
 ## The Competition for Top-Rankings by Maximising Publications and Citations
 
-Despite the great difficulties to publish articles in professional
+Despite the great difficulties involved in publishing articles in professional
 journals, the number of publications is constantly growing because more
 and more journals exist simultaneously. These publications are important
 for the rankings of individual scientists as well as institutions and
-universities. And if young scientists apply for the post of a professor,
+universities. Furthermore, if young scientists apply for the post of a professorship,
 the list of publications is usually the most important criterion in the
 decision process of who will get the post. No wonder that scientists do
 everything to publish as much as possible despite the painstaking
-peer-review process. The question to publish what, where and with whom,
+peer-review process. The question to as what to publish, where and with whom
 has become essential to the modern scientist. Publication problems cause
 sleepless nights and the acceptance of an article in a top journal is
 the greatest thing that can happen in the life of a modern scientist.
-And this is the case, although most of these publications do not have
-the slightest importance for anybody outside the academic system. In
-most articles also the opposite of what has been “proved” could be
-“proved” and it would not change the course of the world the slightest
-bit.
+This is the case, although most of these publications are not of
+the slightest importance for anybody outside of the academic system. In
+most articles also the opposite of what has been “proved” could also be
+“proved” and it would not change the course of the world at all.
 
 How does the number of publications actually get into the evaluation and
 ranking process of scientists and their institutions? At first glance,
 this seems quite simple: one simply counts all the articles published by
-a scientist in scientific journals (or counts the page numbers) and then
-gets to the relevant number of the scientist’s publication output. But
+a scientist in scientific journals (or counts number of pages) and then
+gets to the relevant number of the scientist’s publication output. However,
 there is a problem. As we have already seen, the journals differ
 dramatically in terms of their scientific reputation, and an article in
 an A journal is worth much more than an article in a B or C journal. So
@@ -586,19 +583,19 @@ justifies even more bibliometric research.
 The most important tool of bibliometric research is citation analysis,
 which has the purpose of determining the quantity of citations of the
 specific journal article to be analyzed. Based on this, the effect of
-scientific articles shall be captured. The rationale behind this is
-simple: who is much quoted, is read often and what is often read, must
-be of high quality. So the quantity of citations can be used as a
+scientific articles can be ascertained. The rationale behind this is
+simple: whoever is much quoted is read often, and what is often read must
+be of high quality. Hence, the quantity of citations can be used as a
 “quality indicator” of an article. This quality indicator can then be
-used to weight the articles published in various magazines. So, we
+used to weigh up the articles published in various magazines. Thus, we
 obtain an “objective” number for a scientist’s publication output which
-then can be easily compared and used for rankings. This is also done at
+then can be easily compared and used for rankings. This is also done on
 a large scale and partly university administrators seem to put more
 energy and effort into these comparisons than into actual research.
 
-The international Joint Committee on Quantitative Assessment of
+The International Joint Committee on Quantitative Assessment of
 Research, consisting of mathematicians and statisticians, talks in a
-report dated 2008 (Adler et al., 2008, p.3) about a *Culture of Numbers*
+report dated 2008 (Adler et al. 2008, p. 3) about a *Culture of Numbers*
 and sums up the assessment of the situation as follows:
 
 *“The drive towards more transparency and accountability in the academic
@@ -610,27 +607,27 @@ measure. (...) But this faith in the accuracy, independence, and
 efficacy of metrics is misplaced.”*
 
 This is a warning coming from experts, which we should take seriously.
-Also The German Research Foundation (DFG, 2002) warned a few years ago
-from believing too much in quantitative measures (translated by the
+Also, the German Research Foundation (DFG 2002) warned a few years ago
+about believing too much in quantitative measures (translated by the
 author):
 
 *“Quantitative indicators are comfortable, they seem objective and are
 (...) surrounded by an aura of hardly disputable authority.
 Nevertheless, the naive trust in numbers is a fatal misbelief which each
-faculty ..(..) should counteract.”*
+faculty (...) should counteract.”*
 
-However, the similarities between various publication-rankings are low
+However, the similarities between various publication rankings are low
 because different quality measurements lead to very different results
-(see e.g., Frey and Rust 2008; Maassen and Weingart 2008). But “clever”
+(see e.g., Frey and Rust 2010; Maassen and Weingart 2008). However, “clever”
 researchers have found a solution even to that problem (see Franke and
-Schreier, 2008). If rankings do not lead to clear results, we should
+Schreier 2008). If rankings do not lead to clear results, we should
 simply calculate a weighted average from the different rankings. In
 other words, we construct a meta-ranking out of all existing rankings
 and again we have a clear result. And if in future several meta-rankings
 should exist, then one can also construct a meta-meta-ranking! Academic
 excellence at its best!
 
-A measure which got particularly popular among number-fetishists is the
+A measure which has become particularly popular among number-fetishists is the
 so-called “Impact Factor”. This factor is widely used nowadays in order
 to calculate the “quality” of journals. The Impact Factor of a
 particular journal is a quotient where the numerator is the number of
@@ -642,26 +639,26 @@ For example, if a journal has an Impact Factor of 1.5 in 2010, this
 tells us that papers published in this journal in 2008 and 2009 were
 cited 1.5 times on average in the selected journals in 2010.
 
-The impact factors used in science today are calculated annually by the
-American company Thomson Scientific, which then get published in the
+The Impact Factors used in science today are calculated annually by the
+American company Thomson Scientific; these then get published in the
 Journal Citation Reports. Thomson Scientific has a de facto monopoly for
 the calculation of impact factors, although the exact calculation is not
-revealed, which has been questioned repeatedly (see, eg, Rossner et al,
+revealed, which has been questioned repeatedly (see, e.g. Rossner et al.
 2007). *“The sciences have allowed Thomson Scientific to dominate
-them.”* (Winiwarter and Luhmann, 2009, p.1). This is even more absurd,
-if on the one hand, the blessing of competition keeps being praised, but
+them.”* (Winiwarter and Luhmann 2009, p. 1). This is even more absurd if,
+on the one hand, the blessing of competition keeps being praised, but
 on the other hand, a monopoly for Thomson Scientific is allowed, which
 enables Thomson Scientific to sell its secretly fabricated Impact
-Factors to academic institutions at a high price although in many
-sciences less than 50 percent of today’s existing scientific journals
+Factors to academic institutions at a high price, although in many
+sciences less than 50 % of today’s existing scientific journals
 are included in the calculation.
 
 A concrete example will show how numbers are fabricated mindlessly. The
 following proposal is from a 2005 research paper published by the
 Thurgau Institute of Economics at the University of Konstanz. The
-author, Miriam Hein (she studied economics) propagates naively a method
-for measuring quality, without being aware of the perverse incentives
-this would create. In the introduction we read (Hein, 2005, p.3):
+author, Miriam Hein (who studied economics) naively propagates a method
+for measuring quality without being aware of the perverse incentives
+this would create. In the introduction we read (Hein 2005, p. 3):
 
 *“An intended increase in research performance can probably be induced
 only by the use of incentive-compatible management tools. Research units
@@ -693,27 +690,27 @@ Nevertheless, the just described “quality measure” is seriously praised
 as progress in quality measurement. The scientist is treated like a
 screw salesman: The more screws he has sold, the better he is. This
 attitude is already obvious from the term “research productivity”, which
-according to Hein (p. 24) “is an absolutely central unit of measure in
+according to Hein (2005, p. 24) “is an absolutely central unit of measure in
 research management”. Thus, pages published in scientific journals
 become ends in themselves.
 
-The competition for top rankings established by the need for as many
+The competition for top rankings established by the requirement for as many
 publications and citations as possible and the already perverse
-incentives due to the peer-review process has induced a great deal of
+incentives due to the peer-review process have induced a great deal of
 perverse behavior among scientists. In particular, the following trends
 can be observed:
 
 ### Salami tactics
 
 Knowing that the ultimate goal is to maximize research output,
-researchers are trying to make as much out of very little and apply the
+researchers are trying to make as much out of very little and apply
 so-called “salami tactics”. New ideas or records are cut as thin as
-salami slices in order to maximize the number of publications (Weingart,
+salami slices in order to maximize the number of publications (Weingart
 2005). Minor ideas are presented in complex models or approaches in
 order to fill up an entire article. As a consequence, further
 publications can be written by varying these models and approaches. No
 wonder that in average the content of these papers gets increasingly
-irrelevant, meaningless and redundant. So it is getting increasingly
+irrelevant, meaningless, and redundant. Hence, it is becoming increasingly
 difficult to find new and really interesting ideas in the mass of
 irrelevant publications.
 
@@ -721,64 +718,63 @@ The most extreme form of a Salami tactic is to publish the same result
 twice or even more often than that. Such duplication of one’s own
 research output is of course not allowed, but in reality proves to be an
 entirely effective way to increase one's research productivity. As we
-have seen above, the peer-review process often fails discovering such
+have seen above, the peer-review process often fails to discover such
 double publications. Therefore, an anonymous survey on 3,000 American
-scientists from the year 2002 shows, at least 4.7 percent of the
+scientists from the year 2002 shows, at least 4.7 % of the
 participating scientists admitted to have published the same result
-several times (Six, 2008).
+several times (Six 2008).
 
 ### Increase of the number of authors per article
 
 It can be observed that the number of authors publishing articles in
 scientific journals has largely increased over the recent decades. For
-example, in the Deutsche Ärzteblatt: the average number of authors per
+example, in the Deutsche Ärzteblatt the average number of authors per
 article has risen from 1 author per article in 1957 to 3.5 in 2008 (see
-Baethge, 2008). This is on the one hand due to the fact that especially
-experiments become increasingly complex and that experiments are no
-longer carried out by a single scientist but by a team. An evaluation of
+Baethge 2008). This is, on the one hand, due to the fact that experiments
+in particlar have become increasingly complex and that experiments are no
+longer carried out by a single scientist, but rather by a team. An evaluation of
 international journals showed that today’s average number of authors per
-article in modern medicine is 4.4 which is the highest number followed
+article in modern medicine is 4.4, which is the highest number; this is followed
 by physics with 4.1 authors per article. In psychology, the average is
 2.6 authors per article, while in philosophy, still free of experiments,
-the average number of authors of an article is 1.1 (Wuchty et al.,
+the average number of authors of an article is 1.1 (Wuchty et al.
 2007).
 
-But the increase in team research is not the only reason for the
+However, the increase in team research is not the only reason for the
 constant increase of authors per article. On the other hand, there is
 the incentive to publish as much as possible and to be cited as often as
 possible. So, especially those who have some power in the academic
 hierarchy (professors or project leaders) try to use their power by
 forcing all team members to include them as authors in all publications
-of their research team. And the larger the team the more publications,
+of their research team. And the larger the team, the more publications
 with this kind of “honorary authorship” are possible. Conversely, it may
 also be attractive to young scientists to include a well-known professor
-as a co-author, because—thanks to the dubious nature of anonymity within
-the peer-review process—this improves the chances for a publication (see
-above)
+as a co-author because—thanks to the dubious nature of anonymity within
+the peer-review process—this improves the chances of publication (see
+above).
 
 Instead of “honorary authorship” it would be also appropriate to speak
 of “forced co-authorship,” as Timo Rager wrote in a letter to editor of
-the Neue Zürcher Zeitung at the end of 2008 (Rager, 2008, 27-28.
-December, 2008). There we read: *“[Forced co-authorship] …exists even at
+the Neue Zürcher Zeitung at the end of 2008. There we read: *“[Forced co-authorship] …exists even at
 prestigious institutions at the ETH and at Max-Planck institutes. If you
 protest against it, you are risking your scientific career.”* So in
 addition to the real authors of scientific articles there are more and
-more phantom authors, who actually did not contribute to an article, but
+more phantom authors, who did not actually contribute to an article, but
 want to increase the number of their publications. In medicine, this
 trend appears to be particularly prevalent, which also explains why the
 average number of authors per article in modern medicine is so high.
 Based on the articles published in 2002, every tenth name in the author
 list of the “British Medical Journal” and one in five in the “Annals of
-Internal Medicine”, were phantom authors (see Baettge, 2008). And 60
-percent of all articles published in the “Annals of Internal Medicine”
-cited at least one phantom author. No wonder are there clinical
-directors with over 50 publications per year (see Six, 2008), which, if
-they had really contributed to all these publications, would be beyond
-the capacity of a normal human being.
+Internal Medicine”, were phantom authors (see Baettge 2008). Furthermore, 60
+% of all articles published in the “Annals of Internal Medicine”
+cited at least one phantom author. No wonder are there clinical directors
+with over 50 publications per year (see Six 2008), which, if they had really
+contributed to all these publications, would be beyond the capacity of a
+normal human being. 
 
 With the number of co-authors, however, not only the publication list of
-participating authors per article is growing but also the number of
-direct and indirect “self-citations” (Fröhlich, 2008), which triggers a
+participating authors per article is growing, but also the number of
+direct and indirect “self-citations” (Fröhlich 2006), which triggers a
 snowball effect. The more authors an article has, the more all
 participating authors will be quoting this article again, especially if
 they are again involved as co-authors in another article. ''“I publish
@@ -790,12 +786,12 @@ who quote us.” ''(Fröhlich, 2008).
 To meet this enormous need for publication, new journals for ever more
 finely divided sub-areas of a research discipline are launched
 constantly. Thus, the total number of worldwide existing scientific
-journals is estimated between 100,000 to 130,000 (Mocikat, 2009), and
-each year there are more. By getting increasingly specialized and narrow
-minded, chances for publication are improved (Frey et al., 2009). It is
+journals is estimated between 100,000 to 130,000 (Mocikat 2009), and
+each year there are more. By getting increasingly specialized and narrow-minded,
+chances for publication are improved (Frey et al. 2009). It is
 advisable to be specialized in a very exotic but important-sounding
 topic which is understood only by very few insiders, and establish a
-scientific journal for this topic. Consequently the few specialists
+scientific journal for this topic. Consequently, the few specialists
 within this field can promote their chances of publication by writing
 positive reviews in the peer-review process, so that they will all get
 published.
@@ -812,37 +808,36 @@ still wait for the “Journal of Wine Psychology”.
 ### Forgery and fraud
 
 Last but not least, the whole competition for as many publications and
-citations as possible leads to fraud and forgery. *“The higherr the
+citations as possible leads to fraud and forgery. *“The higher the
 pressure to increase productivity, the more likely it is to resort to
-doubtful means.”* (Fröhlich, 2008). The assumption that universities are
-committed to the search for truth (Wehrli, Neue Zürcher Zeitung, 2009)
+doubtful means.”* (Fröhlich 2006). The assumption that universities are
+committed to the search for truth (Wehrli 2009)
 becomes more and more a fiction. Modern universities are exclusively
 committed to excellence and the search for truth does not help very much
-in this respect. No wonder that quite a few cases of fraud became
-publicly know more recently.
+in this respect. No wonder that quite a few cases of fraud have become
+publicly known more recently.
 
 A good example is the former German physicist Jan-Hendrik Schoen, born
 1970, who was celebrated as the German Excellence prodigy until his case
-of fraud got discovered. For some time it was believed that he had
+of fraud was discovered. For some time it was believed that he had
 discovered the first organic laser and the first light-emitting
-transistor, and accordingly he was highly praised and got a number of
+transistor, and accordingly he was highly praised and received a number of
 scientific awards. At the peak of his career, as a 31-year-old rising
 star at Bell Laboratories in the United States, he published an article
-in a scientific journal every eight days, on average, of which 17 got
+in a scientific journal on average every eight days, of which 17 were
 published in highly respected journals such as “Nature” or “Science”. No
-one seemed to notice that this is merely impossible if you do proper
+one seemed to notice that this is simply impossible if you do proper
 research. Instead the German scientific community was proud that they
 were able to come up with such a top performer. It took some time until
 co-researchers doubted his results and soon the data turned out to be
 forged in large parts. A lot of the results were simply simulated on the
-computer. The interesting thing is, like Eugenie Samuel Reich (2009)
-writes in her book “Plastic Fantastic” that these forgeries would
-probably never have even been discovered, if Schoen had not exaggerated
-so much with his publications. Otherwise, he would probably be a
-respected professor at a top university by now and part of a cluster of
-excellence.
+computer. The interesting thing is, as Reich (2009) writes in her book
+“Plastic Fantastic” that these forgeries would probably never have even
+been discovered if Schoen had not exaggerated so much with his publications.
+Otherwise, he would probably be a respected professor at a top university
+by now and part of an excellence cluster.
 
-Cases of fraud such as the example of Jan Hendrik Schoen affect mainly
+Cases of fraud such as the example of Jan Hendrik Schoen mainly affect
 the natural sciences, where the results of experiments are corrected or
 simply get invented. Social sciences often have gone already one step
 further. There, research is often of such a high degree of irrelevance
@@ -851,58 +846,58 @@ does not matter one way or the other.
 
 The overall effect of all these perverse incentives is that scientists
 produce more and more nonsense, which adds nothing to real scientific
-progress. And because the articles become also increasingly out of touch
-with reality, they are read less and less. Also the increase in
-citations is not a sign of increased dispersion of scientific knowledge,
+progress. In turn, because the articles also become increasingly out of touch
+with reality, they are read less and less. Moreover, the increase in
+citations is not a sign of increased dispersion of scientific knowledge
 because, presumably, most articles get quoted unread. This has been
 shown by research that documents how mistakes from the cited papers are
-also included in the articles, which cite them. (Simkin and
-Rowchowdhury, 2005). Therefore, more and more articles are published but
+also included in the articles which cite them. (Simkin and
+Rowchowdhury 2005). Therefore, more and more articles are published but
 they are read less and less. The whole process represents a vicious
-circle that leads to a rapid increase in publication of nonsense. In the
+circle that leads to a rapid increase in the publication of nonsense. In the
 past, researchers who had nothing to say at least did not publish.
 However, today, artificially staged competitions force even uninspired
 and mediocre scientists to publish all the time. Non-performance has
-been replaced by the performance of nonsense. And that is worse because
+been replaced by the performance of nonsense. This is worse because
 it makes it increasingly difficult, to find the truly interesting
 research in all the mass of insignificant publications.
 
 ## Side Effects of the Production of Nonsense in Science: ‘Crowding-Out’ Effects and New Bureaucracy
 
 The artificially staged competitions in science for publications and
-citations, but also for third-party projects (financing) have caused the
+citations, but also for third-party projects (financing), have caused the
 emergence of more and more nonsense in the form of publications and
 projects. This is associated with a variety of side effects, some of
 which have serious consequences. The intrinsic motivation of those
 scientists involved in research is increasingly replaced by “stick and
-carrot”. And this is not the only crowding-out effect, that we can
-observe. In addition, a new bureaucracy has evolved, which ensures that
+carrot”. Indeed, this is not the only crowding-out effect that we can
+observe. In addition, a new bureaucracy has evolved which ensures that
 more and more people employed in the research system do spend more and
 more time on things that have nothing to do with true research. Both
-effects cause a gradual degeneration of many scientific disciplines, But
+effects cause a gradual deterioration within many scientific disciplines, but
 they are advertised under labels such as “more excellence” and “more
 efficiency”.
 
 ### Crowding-Out Effects
 
 Some of the crowding out effects triggered by competitions for
-publications and projects were already addressed previously in this
+publications and projects were already previously addressed in this
 contribution. Here we will show how this crowding-out effects harm
 universities and the scientific world.
 
-### Crowding out of intrinsic motivation by stick and carrot
+### Crowding-out of intrinsic motivation by stick and carrot
 
-Carrots and sticks replace the taste for science (Merton), which is
+Carrots and sticks replace the taste for science (Merton 1973) which is
 indispensable for scientific progress. A scientist who does not truly
-love his work will never be a great scientist. But exactly those
+love his work will never be a great scientist. Yet exactly those
 scientists who are intrinsically motivated are the ones whose motivation
 is usually crowded out the most. They are often rather unconventional
-people, who do not perform well in standardized competitions and they do
-not feel like constantly being forced to work just for getting high
+people who do not perform well in standardized competitions, and they do
+not feel like constantly being forced to work just to attain high
 scores. Therefore, a lot of potentially highly valuable research is
-crowded out by intrinsic motivation as well.
+crowded out along with intrinsic motivation as well.
 
-### Crowding out of unconventional people and approaches by the mainstream
+### Crowding-out of unconventional people and approaches by the mainstream
 
 Both original themes and unconventional people have little in the way of
 chances in a system based on artificially staged competitions. The
@@ -920,110 +915,110 @@ a scientific career under the current system.
 
 ### Crowding out of quality by quantity
 
-In the current system scientific knowledge is replaced by measurable
+In the current system, scientific knowledge is replaced by measurable
 outputs. Not the content of an article or a project counts, but the
 number of published and cited articles or the number and the amount of
 money of the acquired projects. Since the measurable output is
-considered the indicator of quality, the true quality is more and more
+considered to be the indicator of quality, the true quality is more and more
 crowded out. The need to publish constantly leaves no time to worry too
-long about the progress of knowledge, although this would be the real
+long about the progress of knowledge, although this should be the real
 purpose of scientific activity.
 
-### Crowding out of content by form
+### Crowding-out of content by form
 
-Closely related to the crowding out of quality by quantity is the
-crowding out of content by form. Because content gets more trivial and
-inconsequential, one tries to shine with form: with complicated formulas
+Closely related to the crowding-out of quality by quantity is the
+crowding-out of content by form. As content gets more trivial and
+inconsequential, one tries to shine with form: With complicated formulas
 or models, with sophisticated empirical research designs, with extensive
-computer simulations and with gigantic machinery for laboratories. The
+computer simulations, and with gigantic machinery for laboratories. The
 actual content of research drifts into the background and the spotlight
-is turned on formal artistry. For example, it does not matter anymore,
+is turned on formal artistry. For example, it does not matter anymore
 if comparing different data sets really brings benefit to the progress
-in knowledge. Important is the sophistication of the method, which was
+in knowledge. Important is the sophistication of the method which was
 used for the comparison of the data sets.
 
-### Crowding out of research by bureaucracy
+### Crowding-out of research by bureaucracy
 
 This crowding-out effect makes a significant contribution to the new
 bureaucracy described in the following section. The people employed in
-research such as professors, heads of institutes, research assistants or
-graduate students actually spend an ever larger portion of their time
+research such as professors, heads of institutes, research assistants, or
+graduate students actually spend an ever-larger portion of their time
 coping with the research bureaucracy. This obviously includes the time
 it takes to write (often not successful) research proposals, and later
-on interim and final reports: this time a researcher must spend as a
+on interim and final reports: This is time a researcher must spend as a
 price for actually participating in the project competition. In this
-way, the actual research is paradoxically repressed by its advancement,
-because the administrative requirements no longer permit research. And
-also each journal article submitted for publication requires an enormous
+way, the actual research is paradoxically repressed by its advancement
+because the administrative requirements no longer permit research. Furthermore,
+each journal article submitted for publication requires an enormous
 effort (strategic citing, unnecessary formalization, etc.), which has
-nothing to do with content. Bureaucracy and not research ultimately
+nothing to do with its content. Bureaucracy, and not research, ultimately
 consumes most of the time that is spent on writing scientific
 publications in journals and on carrying out projects that do not
 contribute anything to scientific knowledge, but have the goal of
 improving the measurable output.
 
-### Crowding out of individuals by centers, networks, and clusters
+### Crowding-out of individuals by centers, networks, and clusters
 
 Competitions for projects also cause individual researchers to disappear
-more and more behind competence centers, networks and clusters. Research
-institutions prefer to pump research money into large research networks,
+more and more behind competence centers, networks, and clusters. Research
+institutions prefer to pump research money into large research networks
 which are supposed to provide excellence. Scientists see themselves
 under pressure to reinvent preferably large cooperative and long-range
-projects with as many research partners (network!) as possible, which
-brings third-party funds to their institution. Large anonymous
+projects with as many research partners (network!) as possible,
+bringing third-party funds to their institution. Large anonymous
 institutions such as the EU give money to other large anonymous
-institutions (e.g. a cluster of excellence), where the individual
-researcher disappears and becomes a small wheel in a big research
+institutions (e.g. an excellence cluster), where the individual
+researcher disappears, becoming a small wheel in a big research
 machine.
 
-### Crowding out of “useless” basic research by application-oriented, “useful” research
+### Crowding-out of “useless” basic research by application-oriented, “useful” research
 
 The competition for third-party funded projects is especially driven in
 this way because it is believed to initiate more and more “useful”
 research; this will rapidly lead to marketable innovations and further
 on to more economic growth. In this way, both humanities and basic
 research is gradually crowded out because in these disciplines immediate
-usability can hardly be shown or postulated. For example. “useful” brain
+usability can hardly be shown or postulated. For example, “useful” brain
 research displaces “useless” epistemology. However, anyone who is
 familiar with the history of scientific progress knows that often
-discoveries which were considered “useless” at the beginning led to most
-successful commercial applications. The, at first sight, “useless” field
+discoveries which were considered “useless” at their inception led to some
+of the most successful commercial applications. The at first sight “useless” field
 of philosophical logic has proven to be absolutely central to the
 development of hardware and software for computers.
 
 The crowding-out effects described above vary from one scientific
-discipline to another but nowadays they can found in almost every
+discipline to another, but nowadays they can found in almost every
 discipline. They become obvious to such an extent that they cannot be
-ignored. But politicians and managers in charge of science do not
-actually care about it, because they want quick success that can be
-proven by measurable output. And young scientists are socialized by the
+ignored. However, politicians and managers in charge of science do not
+actually care about this because they want quick success that can be
+proven by measurable output. In turn, young scientists are socialized by the
 established scientific system in a way that the perverse effects caused
 by this development already appear to be normal to them.
 
 ## The Emergence of a New Research Bureaucracy
 
-One of the crowding out effects that was just described concerns the
-crowding out of research by bureaucracy. From the outside, it looks just
+One of the crowding-out effects that was just described concerns the
+crowding-out of research by bureaucracy. From the outside, it looks just
 as if research activities grow at a fast pace. There are more and more
-people employed at universities and research institutions[^5], the
+people employed at universities and research institutions[^6], the
 number of scientific publications increases steadily, and more and more
 money is spent on research. However, the crowding-out effect gives rise
 to people who seem to do scientific work, but mostly are not engaged in
 research at all. Most scientists know about this phenomenon. What
 scientists at universities and other research institutions are mostly
 doing are things such as writing applications for funding of research
-projects, looking for possible partners for a network and for a
+projects, looking for possible partners for a network and
 coordination of tasks, writing interim and final reports for existing
 projects, evaluating project proposals and articles written by other
-researchers, revising and resubmitting a rejected article, conversing a
+researchers, revising and resubmitting a rejected article, converting a
 previously published article into a research proposal so that it can be
-funded retrospectively and so on.
+funded retrospectively, and so on.
 
-It is clear, that there is hardly time to do research under such
+It is clear that there is hardly time to do research under such
 conditions. Project proposals of more than 100 pages are not uncommon
 today, and the application process at some institutions has become like
-a maze, where only a few specialists can guide you through. An expert in
-this field, the sociologist Reinhard Münch (2009, p.8) writes:
+a maze which only a few specialists can guide you through. An expert in
+this field, the sociologist Münch (2009 p. 8) writes:
 
 *“Staged competitions devour extensive stuff and resources for
 coordination, for application processes, for evaluation and
@@ -1036,17 +1031,17 @@ and graduate students whose low hourly compensations still allow them to
 improve scientific knowledge. In contrast, opportunity costs of doing
 research are often too high for professors and research leaders, because
 they can contribute more to the measurable output of their institution
-by focusing on organization and management of project acquisitions and
-publications. And because the postgraduates are in fact often also
+by focusing on the organization and management of project acquisitions and
+publications. In turn, because the postgraduates are in fact often also
 forced to name their professors or institute directors as co-authors of
 their publications, the list of publications of professors and research
-leaders still grows despite of not doing research any more.
+leaders still grows despite their lack of continued research.
 
-But the above-described increase in the proportion of time that is lost
+However, the above-described increase in the proportion of time that is lost
 due to the bureaucracy associated with the artificial competitions is
 only the first step of the new bureaucracy. The second step becomes
-evident by the ever-increasing number of people, working in governmental
-committees, who are in charge of the organization and the course of the
+evident by the ever-increasing number of people working in governmental
+committees who are in charge of the organization and the course of these
 artificially staged competitions. This is essential to both the
 traditional research institutions such as universities or research
 institutes as well as to the committees dealing with the organization
@@ -1058,16 +1053,16 @@ anymore. Instead, they have to write proposals for government-initiated
 research programs, which have to get evaluated and administered. This is
 a complex and time-consuming process in which each process is associated
 with complicated procedures and endless forms to be filled out. What is
-proudly called research-competition, becomes, at a closer look, a
+proudly called research-competition becomes, at a closer look, a
 labor-intensive and inefficient reallocation of funds from some public
 institutions (Ministry of Research or the appropriate Federal Agency) to
 other public institutions (universities, research institutes).
 
 The second step of the increase in bureaucracy is also due to the fact
-that universities, institutes and even professors need to be evaluated
+that universities, institutes, and even professors need to be evaluated
 and ranked. Numbers are needed to decide which institutions or
 professors are really excellent, and where it is worthwhile to promote
-excellence cluster or competence networks and what institutions can be
+excellence clusters or competence networks and what institutions can be
 awarded the status of a “lighthouse in research”. There are already
 several public agencies (e.g. Centre d’Etudes de la science et de la
 Technology in Switzerland) and university institutions (e.g. Centre for
@@ -1075,58 +1070,58 @@ Science and Technology Studies at the University of Leiden in the
 Netherlands), which deal exclusively with the measurement of research
 inputs and outputs on the basis of bibliometric and scientometric
 research. There the metrics are fabricated which are necessary for the
-artificial competitions and which form the basis for the rankings and in
-turn stimulate the publication and project competitions.
+artificial competitions and which form the basis for the rankings and, in
+turn, stimulate the publication and project competitions.
 
 Research funding has reached its far highest level of bureaucracy by the
-EU research programs,[^6]which appear to be especially sophisticated
+EU research programs,[^7] which appear to be especially sophisticated
 Keynesian employment programs. None of the “Research Staff” working for
-the EU actually does research, because inventing increasingly complex
-application processes and new funding instruments creates already a
-sufficiently large work load for them. Therefore, a large portion of the
-research is just used to maintain this bureaucracy. Already in 1997 the
+the EU actually does research because inventing increasingly complex
+application processes and new funding instruments already creates a
+sufficiently large workload for them. Therefore, a large portion of the
+research is just used to maintain this bureaucracy. Already in 1997, the
 European Court of Auditors criticized the EU in relation with the 4th
-Research Program for “enormous bureaucracy and a useless waste of
-money”. According to experts only about 60 percent of the 13 billion
+Research Program as an “enormous bureaucracy and a useless waste of
+money”. According to experts, only about 60 % of the 13 billion
 euros, which were provided to the 4th Research Program, were actually
 received by research institutions. Not much has been changed in the
 following programs. The responsible coordinator of the Budgetary Control
 Committee of the European Parliament, Inge Gräßle (CDU), after the end
 of the 6th Research Program (€ 16.7 billion in 4 years), came in 2007 to
 the conclusion that “the effort to simplify funding allocation within
-the EU research framework program has not yet been sufficient.” And that
+the EU research framework program has not yet been sufficient.” That
 is an understatement. The 6th Program has invented a whole new,
 previously unknown form of networking bureaucracy, which led to much
-more and not less bureaucracy.
+more, and not less, bureaucracy.
 
 The increase in bureaucracy outside of the actual research institutions
-fosters also an increase in bureaucracy within the research
+also fosters an increase in bureaucracy within the research
 institutions. The large number of EU-research officers has managed to
-complicate the application process tremendously. Only in Germany
+complicate the application process tremendously. In Germany
 hundreds of advisor posts have been created just to help scientists to
-make a successful project application. And even if you have completed
-the tedious work of an application, the chance of success is low. Since
-the 6th Research Program, which began in 2002, the success rate of
-applications lies between 15 and 20 percent, while before the success
-rate of applications was about one-quarter (figures from European
+make a successful project application. Even if you have completed
+the tedious work involved in making an application, the chance of success is low. Since
+the 6th Research Program which began in 2002, the success rate of
+applications lies between 15 and 20 %, while before the success
+rate of applications was at about one quarter (figures from European
 Commision, 2008). In other words, between 80 and 85 percent of
 applications, involving about 12 researchers on average today, are not
 successful. You can imagine what enormous amounts of time and money are
-wasted here, just to get funding from an EU project.
+here wasted just to get funding from an EU project.
 
 Of course, the new research bureaucracy has its positive impact on the
 economy. It creates new jobs and contributes to full employment. Keynes
 would probably be amazed at what creative level his ideas of a national
-employment policy, have been developed in science. Back in the 1930s,
+employment policy have been developed within science. Back in the 1930s,
 the time of the Great Depression, he mentioned that, in such situations,
 even totally unproductive and useless activities would stimulate the
 economy and would therefore eliminate unemployment. The example he gave
-referred to a governmental construction project, where workers were
-digging ditches and then filling them up again. Even if useless, such a
-program paid by government funds will cause an increase the demand for
+referred to a governmental construction project in which workers were
+employed digging ditches and then filling them up again. Even if useless, such a
+program paid by government funds will cause an increase in the demand for
 construction activities and thus stimulate the economy. Today’s nonsense
 production in science is much more sophisticated than the nonsense of
-digging ditches and filling them up again.as the nonsense is disguised
+digging ditches and filling them up again as the nonsense is disguised
 to the general public.
 
 ## References
@@ -1273,15 +1268,16 @@ Wuchty, S., Jones, B.F. & Uzzi, B., 2007. The Increasing Dominance of
 Teams in Production of Knowledge. *Science*, 316(5827), pp.1036–1039.
 doi:10.1126/science.1136099.
 
+[^1]: BBC News. Clarke questions study as ‘adornment’: <http://news.bbc.co.uk/2/hi/uk_news/ education/3014423.stm>
 
-[^1]: In the language of economics, this means that the information asymmetry between scientists and lay people is so large that "monitoring" by outsiders is no longer possible (Dasgupta and David, 1994, p 505)
+[^2]: In the language of economics, this means that the information asymmetry between scientists and lay people is so large that "monitoring" by outsiders is no longer possible (Dasgupta and David, 1994, p 505)
 
-[^2]: Nevertheless, the Neue Zürcher Zeitung already worried in an article from the year 2004 that the growth of publications in Switzerland compared to the average of OECD countries was below average. This thinking reveals once again a naive ton ideology, in which more scientific output is equated with more well-being.
+[^3]: Nevertheless, the Neue Zürcher Zeitung already worried in an article from the year 2004 that the growth of publications in Switzerland compared to the average of OECD countries was below average. This thinking reveals once again a naive ton ideology, in which more scientific output is equated with more well-being.
 
-[^3]: In the meantime, there are now so-called guides along the lines of “How to publish successfully?”, which provide strategic advice to young scientists in the manner described herein.
+[^4]: In the meantime, there are now so-called guides along the lines of “How to publish successfully?”, which provide strategic advice to young scientists in the manner described herein.
 
-[^4]: Just look at today's photos of highly praised young talents in sciences. In this case, images often say more than thousand words.
+[^5]: Just look at today's photos of highly praised young talents in sciences. In this case, images often say more than thousand words.
 
-[^5]: In Switzerland, the total number of employees at universities in Switzerland shows an increase of 24402 in 1995 to 32751 in 2008, which is about one-third. Of the 32751 employees in 2008 were 2900 professors, 2851 were lecturers, 15868 were assistants and research assistants, and 11 132 people were outside of research and teaching in the administration or engineering work (BFS, university staff, 2008).
+[^6]: In Switzerland, the total number of employees at universities in Switzerland shows an increase of 24402 in 1995 to 32751 in 2008, which is about one-third. Of the 32751 employees in 2008 were 2900 professors, 2851 were lecturers, 15868 were assistants and research assistants, and 11 132 people were outside of research and teaching in the administration or engineering work (BFS, university staff, 2008).
 
-[^6]: See also Binswanger (2003).
+[^7]: See also Binswanger (2003).
