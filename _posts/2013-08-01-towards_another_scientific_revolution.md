@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Towards Another Scientific Revolution"
+title: Towards Another Scientific Revolution
 modified_date: 15 September 2013
-authors:
- - name: Sönke Bartling
-   orcid: 0000-0001-5434-9433
- - name: Sascha Friesike
+authors: 
+  - name: Sönke Bartling
+    orcid: "0000-0001-5434-9433"
+  - name: Sascha Friesike
 category: basics_background
 abstract: "In this introductory chapter we establish a common understanding of what are and what drives current changes in research and science. The concepts of Science 2.0 and Open Science will be introduced. As such we provide a short introduction to the history of science and knowledge dissemination. We explain the origins of our scientific culture which evolved around publication methods. Interdependencies of current concepts will be elucidated and it will be stated that the transition towards Open Science is a complex cultural change. Reasons as to why the change is slow are discussed and the main obstacles are identified. Next, we explain the recent changes in scientific workflows and how these cause changes in the system as a whole. Furthermore, we provide an overview on the entire book and explain what can be found in each chapter."
+published: true
 ---
 
 > But even within those limits, the openness I am advocating would be
@@ -34,11 +35,11 @@ Forster. She was stuck. Then Forster thought of turning to the community
 of ResearchGate. ResearchGate is a social network (Boyd & Ellison 2007)
 for scientists to exchange ideas, publications, and to discuss research.
 Forster had first signed up to ResearchGate in 2009. She had heard about
-the network at a conference in Boston and was intrigued: ''“I thought
+the network at a conference in Boston and was intrigued: *“I thought
 that sharing research experience and discussing topics that you always
 wanted to discuss with someone would be a great opportunity. I like that
 it is a professional network where you can help other people and be
-helped.” Since then she had answered multiple questions from fellow
+helped.”* Since then she had answered multiple questions from fellow
 ResearchGate members and now it was her turn to ask the community for
 help. Within 24 hours Forster had a solution. Two researchers replied to
 her post and suggested different methods. She tried one and it worked.
@@ -491,4 +492,3 @@ Turner, E.H., Matthews, A.M., Linardatos, E., Tell, R.A., 2008.
 Selective Publication of Antidepressant Trials and Its Influence on
 Apparent Efficacy. *New England Journal of Medicine*, 358(3),
 pp.252–260. doi:10.1056/NEJMsa065779.
-
