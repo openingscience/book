@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Towards Another Scientific Revolution"
+title: Towards Another Scientific Revolution
 modified_date: 15 September 2013
-authors:
- - name: Sönke Bartling
-   orcid: 0000-0001-5434-9433
- - name: Sascha Friesike
+authors: 
+  - name: Sönke Bartling
+    orcid: "0000-0001-5434-9433"
+  - name: Sascha Friesike
 category: basics_background
 abstract: "In this introductory chapter we establish a common understanding of what are and what drives current changes in research and science. The concepts of Science 2.0 and Open Science will be introduced. As such we provide a short introduction to the history of science and knowledge dissemination. We explain the origins of our scientific culture which evolved around publication methods. Interdependencies of current concepts will be elucidated and it will be stated that the transition towards Open Science is a complex cultural change. Reasons as to why the change is slow are discussed and the main obstacles are identified. Next, we explain the recent changes in scientific workflows and how these cause changes in the system as a whole. Furthermore, we provide an overview on the entire book and explain what can be found in each chapter."
+published: true
 ---
 
 > But even within those limits, the openness I am advocating would be
@@ -195,10 +196,7 @@ that could be built with seventeenth-century media” ''(Nielsen 2011).
 Based on this core concept of publishing, myriads of partially
 institutionalized, partially commercialized structures grew. These
 structures developed constitute the cultural, political, and fundamental
-background in which academic knowledge creation works till Soenke
-Bartling:
-
-Biohackers ciation ?today. The entire system is inherently based upon
+background in which academic knowledge creation works till today. The entire system is inherently based upon
 journals printed on paper. Almost every scientific publication we see
 today is created as if it is meant to be printed. Articles come in very
 predefined forms and are usually downloaded as printout-like PDFs. There
@@ -491,4 +489,3 @@ Turner, E.H., Matthews, A.M., Linardatos, E., Tell, R.A., 2008.
 Selective Publication of Antidepressant Trials and Its Influence on
 Apparent Efficacy. *New England Journal of Medicine*, 358(3),
 pp.252–260. doi:10.1056/NEJMsa065779.
-
