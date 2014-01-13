@@ -35,11 +35,11 @@ Forster. She was stuck. Then Forster thought of turning to the community
 of ResearchGate. ResearchGate is a social network (Boyd & Ellison 2007)
 for scientists to exchange ideas, publications, and to discuss research.
 Forster had first signed up to ResearchGate in 2009. She had heard about
-the network at a conference in Boston and was intrigued: ''“I thought
+the network at a conference in Boston and was intrigued: *“I thought
 that sharing research experience and discussing topics that you always
 wanted to discuss with someone would be a great opportunity. I like that
 it is a professional network where you can help other people and be
-helped.” Since then she had answered multiple questions from fellow
+helped.”* Since then she had answered multiple questions from fellow
 ResearchGate members and now it was her turn to ask the community for
 help. Within 24 hours Forster had a solution. Two researchers replied to
 her post and suggested different methods. She tried one and it worked.
