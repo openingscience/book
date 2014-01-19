@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Open Science and the Three Cultures: Expanding Open Science to All Domains of Knowledge Creation"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_5
 authors:
  - name: Michelle Sidler
 category: basics_background

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Dynamic Publication Formats and Collaborative Authoring"
-modified_date: 30 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_13
 authors:
  - name: Lambert Heller
    orcid: 0000-0003-0232-7085

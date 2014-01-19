@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Unique Identifiers for Researchers"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_21
 authors:
  - name:  Martin Fenner
    orcid: 0000-0003-1419-2405

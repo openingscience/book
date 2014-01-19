@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "On the Sociology of Science 2.0"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_23
 authors:
  - name: Vladimir B. Teif
 category: cases_recipes_howtos

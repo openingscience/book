@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Reference Management
-modified_date: 15 September 2013
-authors: 
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_8
+authors:
   - name: Martin Fenner
     orcid: "0000-0003-1419-2405"
   - name: Kaja Scheliga
   - name: Sönke Bartling
     orcid: "0000-0001-5434-9433"
 category: tools
-tags: 
+tags:
   - persistent identifiers
 abstract: "Citations of relevant works are an integral part of all scholarly papers. Collecting, reading, and integrating these references into a manuscript is a time-consuming process, and reference managers have facilitated this process for more than 25 years. In the past 5 years, we have seen the arrival of a large number of new tools with greatly expanded functionality. Most of the newer reference managers focus on the collaborative aspects of collecting references and writing manuscripts. A number of these newer tools are web-based in order to facilitate this collaboration, and some of them are also available for mobile devices. Many reference managers now have integrated PDF viewers (sometimes with annotation tools) for scholarly papers. Reference managers increasingly have to handle other forms of scholarly content, from presentation slides to blog posts and web links. Open source software and open standards play a growing role in reference management. This chapter gives an overview of important trends in reference management and describes the most popular tools."
 published: true

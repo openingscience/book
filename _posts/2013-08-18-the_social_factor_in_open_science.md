@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Social Factor of Open Science
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_18
 authors:
  - name: Tobias Fries
 category: vision

@@ -4,6 +4,9 @@
 {% if page.modified_date %}
   <i class="icon-calendar"></i> {{ page.modified_date }}<br/>
 {% endif %}
+{% if page.doi %}
+<i class="icon-external-link"></i> doi: <a href="http://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a><br/>
+{% endif %}
 <i class="icon-github"></i> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a><br/>
 <i class="icon-edit"></i> <a href="http://prose.io/#openingscience/book/edit/master/{{page.path}}">Send Edit Request</a><br/>
 {% if page.tags and page.tags != empty %}

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Academia Goes Facebook? The Potential of Social Network Sites in the Scholarly Realm"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_7
 authors:
  - name:  Michael Nentwich
  - name:  René König

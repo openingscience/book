@@ -1,4 +1,4 @@
-permalink: /:categories/:title
+permalink: none
 
 paginate: 50
 paginate_path: "page:num"
@@ -11,8 +11,6 @@ destination: ../openingscience.github.io/
 
 title: Opening Science
 name: Opening Science
-description: TEST
-tagline:
 url: http://book.openingscience.org
 editors:
  - name:  Sönke Bartling
@@ -50,7 +48,7 @@ atom_path:       /atom.xml
 markdown: pandoc
 pandoc:
   skip: true
-  flags: '--smart --mathjax --bibliography=bibliography/references.bib --csl=_styles/harvard1.csl'
+  flags: '--smart --mathjax --filter pandoc-citeproc --bibliography=bibliography/references.bib --csl=_styles/harvard1.csl'
   outputs:
     epub:
     pdf:

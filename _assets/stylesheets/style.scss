@@ -43,7 +43,7 @@ ol.bibliography { padding-left: 1em; }
 .toc-item .abstract p {
   color: #000;
   font-size: 0.9em;
-  line-height: 1.3em;
+  line-height: 1.35em;
 }
 
 .nav, .brand, .pagination li, .pagination a {
@@ -146,7 +146,7 @@ figcaption {
 /* sidebar */
 .sidebar-nav-fixed {
   position:fixed;
-  top:200px;
+  top:100px;
 }
 
 .aside h3 {

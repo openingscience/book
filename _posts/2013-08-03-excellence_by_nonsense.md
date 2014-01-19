@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Excellence by Nonsense: The Competition for Publications in Modern Science"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_3
 authors:
  - name: Mathias Binswanger
 category: basics_background
@@ -58,7 +59,7 @@ independently.”*
 Meanwhile, the government has given up its reservations towards
 universities and formerly proud bastions of independent thinking have
 turned into servants of governmental programs and initiatives. Lenin’s
-doctrine applies once again: trust is good, control is better. 
+doctrine applies once again: trust is good, control is better.
 
 To ensure the efficient use of scarce funds, the government forces
 universities and professors, together with their academic staff, to
@@ -156,7 +157,7 @@ excellence initiatives. This is where the idea of artificially staged
 competition comes in. It is assumed that these competitions will
 automatically make the best rise to the top—without the need to care
 about neither content nor purpose of research. We may call this “contest
-illusion”. This contest illusion was applied to 
+illusion”. This contest illusion was applied to
 science in England for the first time under the Thatcher government in the 1980s.
 Afterwards it was quickly copied in other countries. The Thatcher
 government, inspired by its belief in markets and competition, would
@@ -353,7 +354,7 @@ significantly faster than the production of goods and services in
 industrial countries, from where the largest number of publications
 originates (OECD 2008).
 
-By far the largest share of world production of scientific articles comes 
+By far the largest share of world production of scientific articles comes
 from the U.S. (25 %), followed by Britain with 6.9 %. Germany produces 6.3 %,
 Switzerland 1.5 %, and Austria 0.7 % (SBF 2007). However, calculating
 published articles per capita, Switzerland becomes the world’s leading
@@ -413,14 +414,14 @@ work (as a seminal contribution, ingenious idea, etc.); An additional
 citation is useful for the potential reviewer because in turn it is
 improving his own standing as a scientist. Furthermore, editors often
 consult the bibliography at the end of an article while looking for
-possible reviewers, which makes strategic citing even more attractive. 
+possible reviewers, which makes strategic citing even more attractive.
 
 Conversely, an author will avoid criticizing the work of possible
 reviewers, as this is a sure road to rejection. Accordingly, this
 attitude prevents the criticism and questioning of existing approaches.
 Instead, the replication of established knowledge gets promoted through
 elaboration upon preexisting approaches through further model variations
-or additional empirical investigations. 
+or additional empirical investigations.
 
 ### No deviation from established theories
 
@@ -770,7 +771,7 @@ Internal Medicine”, were phantom authors (see Baettge 2008). Furthermore, 60
 cited at least one phantom author. No wonder are there clinical directors
 with over 50 publications per year (see Six 2008), which, if they had really
 contributed to all these publications, would be beyond the capacity of a
-normal human being. 
+normal human being.
 
 With the number of co-authors, however, not only the publication list of
 participating authors per article is growing, but also the number of

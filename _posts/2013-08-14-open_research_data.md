@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Open Research Data: From Vision to Practice"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_14
 authors:
  - name: Heinz Pampel
    orcid: 0000-0003-3334-2771
@@ -86,7 +87,7 @@ digital technologies and networks, but provides greater returns from the
 public investment in research.”
 
 The vision of the High Level Expert Group on Scientific Data for the year
-2030 is that, scientists in their role as data user, “are able to find, 
+2030 is that, scientists in their role as data user, “are able to find,
 access and process the data they need”, and in their role as data producer
 “prefer to deposit their data with confidence in reliable repositories”
 (High Level Expert Group on Scientific Data 2010).
@@ -302,17 +303,17 @@ facilitate data citation. Thanks to this procedure that was developed
 within the Publication and Citation of Scientific Primary Data (STD-DOI)
 project (Klump et al. 2006) and expanded by DataCite (Brase & Farquhar
 2011), it is possible to link publications and the underlying data.
-This procedure also supports the visibility of the data. Some publishing 
+This procedure also supports the visibility of the data. Some publishing
 houses, for example, have therefore already integrated freely accessible
-research data in their platforms (Reilly et al. 2011). A number of data 
+research data in their platforms (Reilly et al. 2011). A number of data
 journals have been brought into being in the meantime.[^15] It must be
 noted here that the establishment of data journals is only feasible when
-data, metadata and the corresponding text publication are freely accessible, 
+data, metadata and the corresponding text publication are freely accessible,
 as only then can a barrier free re-use of the data be possible.
 
 The linking of articles and data is also addressed in the third named
 enriched publication strategy (Woutersen-Windhouwer et al. 2009). The
-aim is build and sustain a technical environment to to relate all relevant 
+aim is build and sustain a technical environment to to relate all relevant
 information objects around an article so that a knowledge space is
 created, in which the research data that are the basis of the article
 can be made freely accessible.[^16]

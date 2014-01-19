@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "How this book was created using collaborative authoring and cloud tools"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_24
 authors:
  - name: Sönke Bartling
    orcid: 0000-0001-5434-9433

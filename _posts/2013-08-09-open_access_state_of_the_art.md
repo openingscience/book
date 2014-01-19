@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Open Access: A State of the Art"
-modified_date: 15 September 2013
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_9
 authors:
  - name: Dagmar Sitek
  - name: Roland Bertelmann
