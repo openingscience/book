@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Towards Another Scientific Revolution
-modified_date: 15 September 2013
-authors: 
+modified_date: 19 January 2014
+doi: 10.1007/978-3-319-00026-8_1
+authors:
   - name: Sönke Bartling
     orcid: "0000-0001-5434-9433"
   - name: Sascha Friesike
@@ -32,7 +33,7 @@ never done that specific isolation before and hence did not know how to
 do it. Her colleagues did not know, either. *“No one in my lab or even
 on my floor of the Cancer Center was doing such experiments”*, said
 Forster. She was stuck. Then Forster thought of turning to the community
-of ResearchGate. ResearchGate is a social network (Boyd & Ellison 2007)
+of ResearchGate. ResearchGate is a social network [@boyd_2007]
 for scientists to exchange ideas, publications, and to discuss research.
 Forster had first signed up to ResearchGate in 2009. She had heard about
 the network at a conference in Boston and was intrigued: *“I thought
@@ -89,7 +90,7 @@ which brings us to certain dissent.
 As such we labeled the section ‘Knowledge Creation and Dissemination’.
 Knowledge creation and its dissemination are two sides of the same
 coin—knowledge does not impact on society if it is unable to disseminate
-(Merton 1993). Throughout history we can see that breakthroughs in
+[@merton_1993]. Throughout history we can see that breakthroughs in
 knowledge creation went hand in hand with breakthroughs in its
 dissemination. In turn, dissemination is not only bound to technological
 changes but also societal changes such as freedom of speech or the
@@ -185,14 +186,14 @@ It was the development of a journal publication system that drastically
 changed publishing in research and gave appropriate credits to
 researchers. The first journal purely dedicated to science was
 *Philosophical Transactions* which has been published ever since (e.g.
-one of the first scientific articles (Hook 1665)). Publishing scientific
+one of the first scientific articles [@hook_1665]. Publishing scientific
 journal articles became a pivotal building block of modern science.
 Researchers developed a common understanding that it is in the common
 interest for research results to be openly available to all other
-researchers (David 2004). This understanding of the necessity for
+researchers [@david_2004]. This understanding of the necessity for
 openness in science ''“... led to the modern journal system, a system
 that is perhaps the most open system for the transmission of knowledge
-that could be built with seventeenth-century media” ''(Nielsen 2011).
+that could be built with seventeenth-century media” '' [@nielsen_2012].
 Based on this core concept of publishing, myriads of partially
 institutionalized, partially commercialized structures grew. These
 structures developed constitute the cultural, political, and fundamental
@@ -353,12 +354,12 @@ are flexible and honest enough to be able to leave dead-end streets.
 Some voices discuss the current transition of research as a
 revolutionizing process that might overcome current shortcomings in
 scientific conduct. Shortcomings are among many others: questionable
-proof generating means (such as wrongly applied statistics (Ioannidis
-2005; Sterne 2001), intolerance against uncommon theses and approaches,
+proof generating means (such as wrongly applied statistics [@ioannidis_2005; @sterne_2001],
+intolerance against uncommon theses and approaches,
 citation-based ‘truth generation’, and inflexible cultures of scientific
 approaches within disciplines. Furthermore, publication-bias through
 rejection of negative results or rejection of non-confirming studies
-(Turner et al. 2008; Begley & Ellis 2012) and questionable incentives
+[@turner_2008; @begley_2012] and questionable incentives
 that are set by the current methods to assess scientific quality (see
 chapter 03, Binswanger: Excellence by Nonsense: The Competition for
 Publications in Modern Science) are also factors. The transition towards
@@ -451,41 +452,6 @@ into three parts in order to make its content easily accessible.
 -   The book closes with a collection of cases which highlight in a
     rather brief manner some aspects of the Open Science movement. Here
     the authors focus on specific aspects and projects, give advice, or
-    present their experience
+    present their experience.
 
 ## References
-
-Begley, C.G. & Ellis, L.M., 2012. Drug development: Raise standards for
-preclinical cancer research. *Nature*, 483(7391), pp.531–533.
-<doi:10.1038/483531a>.
-
-Boyd, D.M. & Ellison, N.B., 2007. Social Network Sites: Definition,
-History, and Scholarship. *Journal of Computer-Mediated Communication*,
-13(1), pp.210–230. doi:10.1111/j.1083-6101.2007.00393.x.
-
-David, P.A., 2004. Understanding the emergence of “open science”
-institutions: functionalist economics in historical context. *Industrial
-and Corporate Change*, 13(4), pp.571–589. doi:10.1093/icc/dth023.
-
-Hook, M., 1665. Some Observations Lately Made at London Concerning the
-Planet Jupiter. *Philosophical Transactions of the Royal Society of
-London*, 1(1-22), pp.245–247. doi:10.1098/rstl.1665.0103.
-
-Ioannidis, J.P.A., 2005. Why Most Published Research Findings Are False.
-*PLoS Medicine*, 2(8), p.e124. doi:10.1371/journal.pmed.0020124.
-
-Merton, R.K., 1993. *On the shoulders of giants: a Shandean postscript*
-Post-Italianate ed., University of Chicago Press ed., Chicago:
-University of Chicago Press.
-
-Nielsen, M., 2011. *Reinventing Discovery: The New Era of Networked
-Science*, Princeton University Press.
-
-Sterne, J.A.C., 2001. Sifting the evidence---what’s wrong with
-significance tests? Another comment on the role of statistical methods.
-*BMJ*, 322(7280), pp.226–231. doi:10.1136/bmj.322.7280.226.
-
-Turner, E.H., Matthews, A.M., Linardatos, E., Tell, R.A., 2008.
-Selective Publication of Antidepressant Trials and Its Influence on
-Apparent Efficacy. *New England Journal of Medicine*, 358(3),
-pp.252–260. doi:10.1056/NEJMsa065779.
