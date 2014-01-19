@@ -18,7 +18,7 @@ little section we would like to present the different creative commons
 licences one is oftentimes confronted with. This book for instance is
 published under a creative commons license. They are widely used and
 especially popular online and it is helpful to any researcher to
-understand what they mean. test.
+understand what they mean.
 
 ![**CC BY**. Attribution](/images/creative_commons.png)
 
