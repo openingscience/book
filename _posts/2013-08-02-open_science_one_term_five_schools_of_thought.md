@@ -2,21 +2,13 @@
 layout: post
 title: "Open Science: One Term, Five Schools of Thought"
 modified_date: 19 January 2014
-doi: 10.1007/978-3-319-00026-8_2
-authors:
- - name: Benedikt Fecher
- - name: Sascha Friesike
+doi: "10.1007/978-3-319-00026-8_2"
+authors: 
+  - name: Benedikt Fecher
+  - name: Sascha Friesike
 category: basics_background
-abstract: 'Open Science is an umbrella term encompassing a multitude of assumptions
-about the future of knowledge creation and dissemination. Based on a
-literature review, this chapter aims at structuring the overall
-discourse by proposing five Open Science schools of thought: The
-*infrastructure school* (which is concerned with the technological
-architecture), the *public school* (which is concerned with the
-accessibility of knowledge creation), the "measurement school"(which
-is concerned with alternative impact measurement), the "democratic
-school"(which is concerned with access to knowledge) and the
-"pragmatic school" (which is concerned with collaborative research).'
+abstract: "Open Science is an umbrella term encompassing a multitude of assumptions about the future of knowledge creation and dissemination. Based on a literature review, this chapter aims at structuring the overall discourse by proposing five Open Science schools of thought: The *infrastructure school* (which is concerned with the technological architecture), the *public school* (which is concerned with the accessibility of knowledge creation), the \"measurement school\"(which is concerned with alternative impact measurement), the \"democratic school\"(which is concerned with access to knowledge) and the \"pragmatic school\" (which is concerned with collaborative research)."
+published: true
 ---
 
 There is scarcely a scientist who has not stumbled upon the term ‘Open
@@ -114,7 +106,7 @@ Table: **Table 2**: Public School
 **Author (Year)**          **Title**                                                                                                 **Content**
 **Type of Publication**
 
-Puschmann (2012)           *(Micro)blogging Science? Notes on Potentials and Constraints of New Forms of Scholarly Communication*    Scientists today need to make there reearch accessible to a wider audience by using (micro)blogs.
+Puschmann (2012)           *(Micro)blogging Science? Notes on Potentials and Constraints of New Forms of Scholarly Communication*    Scientists today need to make their research accessible to a wider audience by using (micro)blogs.
 Book chapter                                                                                                                         *“Scientists must be able to explain what they do to a broader public to garner political support and funding for endeavors whose outcomes are unclear at best and dangerous at worst, a difficulty that is magnified by the complexity of scientific issues.” (P. XX)*
 
 Cribb & Sari (2010)        *Open Science - Sharing Knowledge in the digital age*                                                     The accessibility of scientific knowledge is a matter of its presentation.
