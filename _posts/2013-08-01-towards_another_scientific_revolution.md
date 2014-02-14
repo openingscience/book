@@ -191,9 +191,9 @@ journal articles became a pivotal building block of modern science.
 Researchers developed a common understanding that it is in the common
 interest for research results to be openly available to all other
 researchers [@david_2004]. This understanding of the necessity for
-openness in science ''... led to the modern journal system, a system
+openness in science '... led to the modern journal system, a system
 that is perhaps the most open system for the transmission of knowledge
-that could be built with seventeenth-century media'' [@nielsen_2012].
+that could be built with seventeenth-century media' [@nielsen_2012].
 Based on this core concept of publishing, myriads of partially
 institutionalized, partially commercialized structures grew. These
 structures developed constitute the cultural, political, and fundamental
