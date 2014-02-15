@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unique Identifiers for Researchers"
-modified_date: 19 January 2014
+modified_date: 15 February 2014
 doi: 10.1007/978-3-319-00026-8_21
 authors:
  - name:  Martin Fenner
@@ -67,7 +67,7 @@ researchers:
 
 Furthermore, ORCID recognizes that existing researcher and identifier
 schemes serve specific communities, and is working to link with, rather
-than replace, existing infrastructures.
+than replace, existing infrastructures. One example is [ISNI](http://www.isni.org/), the International Standard Name Identifier. ORCID is [working closely](http://orcid.org/blog/2013/04/22/orcid-and-isni-issue-joint-statement-interoperation-april-2013) with ISNI and has for example [launched a web service](http://isni2orcid.labs.orcid-eu.org/) in early 2014 that allows researchers to link their ISNI and ORCID identifiers.
 
 ## ORCID Registry
 
