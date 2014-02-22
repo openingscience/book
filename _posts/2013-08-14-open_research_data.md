@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Research Data: From Vision to Practice"
-modified_date: 19 January 2014
+modified_date: 22 February 2014
 doi: 10.1007/978-3-319-00026-8_14
 authors:
  - name: Heinz Pampel
