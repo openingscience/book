@@ -72,7 +72,11 @@ ol.bibliography { padding-left: 1em; }
   border-bottom: 1px solid #999;
 }
 
-.toc li p, .footnotes p {
+.content .references p, .content .footnotes ol li p {
+  margin-bottom: 0.75em;
+}
+
+.toc li p {
   margin-bottom: 0;
 }
 
@@ -81,9 +85,9 @@ ol.bibliography { padding-left: 1em; }
   list-style: none;
 }
 
-.footnotes p {
-  font-size: 0.75em;
-  line-height: 1.25em;
+.footnotes ol li p {
+  font-size: 1em;
+  line-height: 1.5em;
 }
 
 .toc {
