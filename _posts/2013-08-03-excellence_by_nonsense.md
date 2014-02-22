@@ -373,7 +373,7 @@ inherent in the peer-review process itself. This supposedly objective
 system for assessing the quality of articles in reality rather resembles
 a random process for many authors (Osterloh and Frey 2008). A critical
 investigation reveals a number of facts that fundamentally question the
-peer-review process as a quality assurance instrument (cf. Atkinson
+peer-review process as a quality assurance instrument (cf. [@atkinson_2001]
 2001; Osterloh and Frey 2008; Starbuck 2006). It generally appears
 that expert judgments are highly subjective, since the consensus of
 several expert judgments is usually low. One reason is that by no means
@@ -1131,9 +1131,6 @@ Adler, R., Ewing, J. & Taylor, P., 2008. *Citation statistics. A report
 from the joint committee on quantitative assessment of research (IMU,
 ICIAM, IMS)*, Available at:
 <http://www.mathunion.org/fileadmin/IMU/Report/CitationStatistics.pdf>.
-
-Atkinson, M., 2001. “Peer review” culture. *Science and Engineering
-Ethics*, 7(2), pp.193–204. <doi:10.1007/s11948-001-0040-8>.
 
 Baethge, C., 2008. Gemeinsam veröffentlichen oder untergehen. *Deutsches
 Ärzteblatt*, 105, pp.380–383.
