@@ -397,9 +397,6 @@ made widely and readily available to society.”
 
 ##References
 
-International Association of STM Publishers, 2007. *Brussels
-Declaration*, Available at: <http://www.stm-assoc.org/brussels-declaration/>.
-
 [^1]: Compare Budapest Open Access Initiative [@budapest_open_access_2002] & Bethesda Statement on Open Access Publishing [@bethesda_statement_on_open_access_publishing_2003]
 
 [^2]: Panton Principles: <http://pantonprinciples.org>
