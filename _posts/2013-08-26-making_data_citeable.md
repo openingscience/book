@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making data citeable: DataCite"
-modified_date: 19 January 2014
+modified_date: 1 March 2014
 doi: 10.1007/978-3-319-00026-8_26
 authors:
  - name: Jan Brase
@@ -52,16 +52,20 @@ underlying data. For example:
 
 The dataset:
 
-    G.Yancheva, N. R. Nowaczyk et al (2007)
-    Rock magnetism and X-ray flourescence spectrometry analyses on sediment
-    cores of the Lake Huguang Maar, Southeast China, PANGAEA
-    doi:10.1594/PANGAEA.587840 (http://dx.doi.org/10.1594/PANGAEA.587840)
+```
+G.Yancheva, N. R. Nowaczyk et al (2007)
+Rock magnetism and X-ray flourescence spectrometry analyses on sediment
+cores of the Lake Huguang Maar, Southeast China, PANGAEA
+doi:10.1594/PANGAEA.587840 (http://dx.doi.org/10.1594/PANGAEA.587840)
+```
 
 Is a supplement to the article:
 
-    G. Ycheva, N. R. Nowaczyk et al (2007)
-    Influence of the intertropical convergence zone on the East Asian monsoon
-    Nature 445, 74-77 doi:10.1038/nature05431 (http://dx.doi.org/10.1038/nature05431)
+```
+G. Ycheva, N. R. Nowaczyk et al (2007)
+Influence of the intertropical convergence zone on the East Asian monsoon
+Nature 445, 74-77 doi:10.1038/nature05431 (http://dx.doi.org/10.1038/nature05431)
+```
 
 Since 2005, TIB has been an official DOI Registration Agency with a
 focus on the registration of research data. The role of TIB is that of
@@ -86,9 +90,9 @@ When facing the challenge of increasing access to research data, a
 possible approach should be global cooperation for data access via
 national representatives.
 
-- a global cooperation, because scientist work globally, scientific data
+* a global cooperation, because scientist work globally, scientific data
 are created and accessed globally.
-- with national representatives, because most scientists are embedded in
+* with national representatives, because most scientists are embedded in
 their national funding structures and research organisations .
 
 The key point of this approach is the establishment of a Global DOI
@@ -102,15 +106,19 @@ Currently DataCite has 17 members from 12 countries:
 The German National Library of Science and Technology (TIB), the German
 National Library of Medicine (ZB MED), the German National Library of
 Economics (ZBW) and the German GESIS – Leibniz Institute for the Social
-Sciences. Additional European members are: The Library of the ETH Zürich
+Sciences.
+
+Additional European members are: The Library of the ETH Zürich
 in Switzerland, the Library of TU Delft, from the Netherlands, the
 L’Institut de l’Information Scientifique et Technique (INIST) from
 France, The technical Information Center of Denmark, The British
 Library, the Sedish National Data Service (SND), the Conferenza dei
-Rettori delle Università Italiane (CRUI) from Italy. North America is
-represented through: the California Digital Library, the Office of
+Rettori delle Università Italiane (CRUI) from Italy.
+
+North America is represented through: the California Digital Library, the Office of
 Scientific and Technical Information (OSTI), the Purdue University and
 the Canada Institute for Scientific and Technical Information (CISTI).
+
 Furthermore the Australian National Data Service (ANDS) and the National
 Research Council of Thailand (NRCT) are members.
 
@@ -120,16 +128,13 @@ and are available through [a central search portal at
 DataCite](http://search.datacite.org/ui).
 
 Based on the DOI registration DataCite offers a variety of services such
-as a detailed statistic portal of the number of DOI names registered and
-resolved[^1]. In cooperation with CrossRef, the major DOI registration
-agency for scholarly articles a content negotiation service has been
+as a detailed [statistic portal](http://stats.datacite.org) of the number
+of DOI names registered and resolved. In cooperation with CrossRef, the
+major DOI registration agency for scholarly articles a
+[content negotiation service](http://www.crosscite.org/cn) has been
 established that allows persistent resolution of all DOI names directly
-to their metadata in XML or RDF format[^2].
+to their metadata in XML or RDF format.
 
-In June 2012 DataCite and the [STM association](http://stm-assoc.org) signed a joint
-statement to encourage publishers and data centers to link articles and
-underlying data[^3].
-
-[^1]: DataCite Statistics: <http://stats.datacite.org>
-[^2]: DOI Content Negotiation: <http://www.crosscite.org/cn>
-[^3]: Joint statement from STM and DataCite: <http://www.datacite.org/node/65>
+In June 2012 DataCite and the [STM association](http://stm-assoc.org) signed
+a [joint statement](http://www.datacite.org/node/65) to encourage publishers
+and data centers to link articles and underlying data.
