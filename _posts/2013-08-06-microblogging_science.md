@@ -53,10 +53,8 @@ and reproducible on a previously unimaginable level, providing novel
 insights into a wide array of areas, from climatology to social science
 (Lazer et al. 2009).
 
-<Image:>
-
-*Figure 1: myExperiment is one of a number of new virtual research
-environments (VREs).*
+![**Figure 1**. myExperiment is one of a number of new virtual research
+environments (VREs).]()
 
 Beyond innovation of research methods, other aspects of how science is
 undertaken are also changing visibly, both as a result of technological
@@ -101,9 +99,7 @@ networking sites) should be regarded as supporting a general long-term
 shift towards a more egalitarian relationship between experts and the
 lay public, rather than driving it.
 
-<Image:>
-
-*Figure 2: CERN’s Twitter page.*
+![**Figure 2**. CERN’s Twitter page.]()
 
 Intra-scientific discourse is changing as well, as a result of the move
 from paper to digital, which seems almost completed in much of the hard
@@ -279,10 +275,7 @@ vocabulary of a scientific paper. She also includes numerous figures,
 illustrations, and references, making the post comparable to a review in
 a scientific journal.
 
-<Image:>
-insert figure 4 here
-
-*Figure 4: The first post published on RRResearch in August 2006.*
+![**Figure 4**. The first post published on RRResearch in August 2006.]()
 
 The post received over 250 comments and a polished version was later
 published by *Science*, though the original article was not retracted.
@@ -360,13 +353,9 @@ impact that may well be less relevant to a blogger like Redfield, who
 might be primarily concerned with her blog’s reception among her
 students and peers.
 
-<Image:> <br>
-insert figure 5 here
-<br> <br>
-*Figure 5: A Blog Around the Clock, Bora Zivkovic's blog at the
-Scientific American Blog Network.*
+![**Figure 5**. A Blog Around the Clock, Bora Zivkovic's blog at the
+Scientific American Blog Network.]()
 
-</center>
 ## The Uses of Microblogs for Science: Two Scenarios
 
 Compared to blogging, which has a history that reaches back to the
@@ -451,11 +440,9 @@ little communicatively to the overall conference, although their precise
 placement (e.g. in the lobby, rather the main conference hall) seems a
 key issue to be aware of.
 
-<Image:>
-INSERT FIGURE 6 HERE <br>
-*Figure 6: Network visualization of retweets among users at the World
+![**Figure 6**. Network visualization of retweets among users at the World
 Wide Web 2010 Conference (\#www2010), held in April 2010 in Raleigh,
-North Carolina.*
+North Carolina.]()
 
 Examining the usage of *Twitter* during conferences, it is notable how
 specific the usage of scientists is compared to users of different
@@ -588,7 +575,7 @@ communication into account is essential in understanding the perceived
 advantages and disadvantages of social media in the minds of many
 scientists.
 
-*Table 3: Advantages and disadvantages of blogging and microblogging.*
+**Table 3**. Advantages and disadvantages of blogging and microblogging.
 
   -------------------------------- ---------------------------------------------- ---------------------------------- ------------------------------
   **Blogs**                                                                       **Twitter**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reference Management
-modified_date: 19 January 2014
+modified_date: 1 March 2014
 doi: 10.1007/978-3-319-00026-8_8
 authors:
   - name: Martin Fenner
@@ -160,12 +160,10 @@ information will be transferred into the Zotero database. Many
 scientific databases, scientific social networks, and journals support
 COinS.
 
-<Image:>
-
-*Figure 1: Showing COinS in action. At the click of a button, a
+![**Figure 1**. Showing COinS in action. At the click of a button, a
 reference is included into the reference manager software (Zotero) from
 information that is contained in the COinS information in the displayed
-web page: No need to manually copy references.*
+web page: No need to manually copy references.]()
 
 ### Digital Object Identifiers (DOIs) and other Unique Identifiers
 
@@ -194,22 +192,22 @@ independently of the reference management software, to switch from one
 reference manager to another, or to use multiple reference managers in
 parallel.
 
--  **BibTeX** has existed since the mid ‘80s and was designed to be
-   used in combination with the typesetting system LaTeX. The format is
-   now widely supported by reference managers that work with Microsoft
-   Word and other authoring tools, and by online bibliographic
-   databases such as Google Scholar.
--   **RIS** (Research Information Systems) is standardized tag format
-    originally invented by Research Information Systems (now part of
-    Thomson Reuters). The format is widely supported and has been
-    adapted over time, e.g. to include a field for digital object
-    identifiers (DOIs).
--   **Endnote XML and Citeproc JSON** are newer formats which are not
-    yet as widely supported. BibTeX and RIS are plain text formats. XML
-    and, more recently, JSON have evolved into the standard data
-    exchange formats of the Web, and are easier to process
-    automatically. They may therefore over time become the predominant
-    formats for exchanging bibliographic information.
+* **BibTeX** has existed since the mid ‘80s and was designed to be
+  used in combination with the typesetting system LaTeX. The format is
+  now widely supported by reference managers that work with Microsoft
+  Word and other authoring tools, and by online bibliographic
+  databases such as Google Scholar.
+* **RIS** (Research Information Systems) is standardized tag format
+  originally invented by Research Information Systems (now part of
+  Thomson Reuters). The format is widely supported and has been
+  adapted over time, e.g. to include a field for digital object
+  identifiers (DOIs).
+* **Endnote XML and Citeproc JSON** are newer formats which are not
+  yet as widely supported. BibTeX and RIS are plain text formats. XML
+  and, more recently, JSON have evolved into the standard data
+  exchange formats of the Web, and are easier to process
+  automatically. They may therefore over time become the predominant
+  formats for exchanging bibliographic information.
 
 ## Citation styles and CSL (Citation Style Language)
 
@@ -292,109 +290,125 @@ Wolfe-Simon, F. et al. A Bacterium That Can Grow by Using Arsenic Instead of Pho
 
 #### BibTeX
 
-    @article{\_Webb\_Weber\_Davies\_et\_al\_\_2011, title={A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus}, volume={332}, url={<http://dx.doi.org/10.1126/science.1197258>}, DOI={10.1126/science.1197258}, number={6034}, journal={Science}, publisher={American Association for the Advancement of Science}, author={Wolfe-Simon, F. and Blum, J. S. and Kulp, T. R. and Gordon, G. W. and Hoeft, S. E. and Pett-Ridge, J. and Stolz, J. F. and Webb, S. M. and Weber, P. K. and Davies, P. C. W. and et al.}, year={2011}, month={Jun}, pages={1163-1166}}
+```
+@article{wolfe_simon_2011,
+  title={A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus},
+  volume={332}, url={<http://dx.doi.org/10.1126/science.1197258>},
+  DOI={10.1126/science.1197258},
+  number={6034},
+  journal={Science},
+  publisher={American Association for the Advancement of Science},
+  author={Wolfe-Simon, F. and Blum, J. S. and Kulp, T. R. and Gordon, G. W. and Hoeft, S. E. and Pett-Ridge, J. and Stolz, J. F. and Webb, S. M. and Weber, P. K. and Davies, P. C. W. and et al.},
+  year={2011},
+  month={Jun},
+  pages={1163-1166}}
+```
 
 #### RIS
 
-    TY - JOUR
-    T2 - Science
-    AU - Wolfe-Simon, F.
-    AU - Blum, J. S.
-    AU - Kulp, T. R.
-    AU - Gordon, G. W.
-    AU - Hoeft, S. E.
-    AU - Pett-Ridge, J.
-    AU - Stolz, J. F.
-    AU - Webb, S. M.
-    AU - Weber, P. K.
-    AU - Davies, P. C. W.
-    AU - Anbar, A. D.
-    AU - Oremland, R. S.
-    SN - 0036-8075
-    TI - A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus
-    SP - 1163
-    EP - 1166
-    VL - 332
-    PB - American Association for the Advancement of Science
-    DO - 10.1126/science.1197258
-    PY - 2011
-    UR - <http://dx.doi.org/10.1126/science.1197258>
-    ER -
+```
+TY - JOUR
+T2 - Science
+AU - Wolfe-Simon, F.
+AU - Blum, J. S.
+AU - Kulp, T. R.
+AU - Gordon, G. W.
+AU - Hoeft, S. E.
+AU - Pett-Ridge, J.
+AU - Stolz, J. F.
+AU - Webb, S. M.
+AU - Weber, P. K.
+AU - Davies, P. C. W.
+AU - Anbar, A. D.
+AU - Oremland, R. S.
+SN - 0036-8075
+TI - A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus
+SP - 1163
+EP - 1166
+VL - 332
+PB - American Association for the Advancement of Science
+DO - 10.1126/science.1197258
+PY - 2011
+UR - <http://dx.doi.org/10.1126/science.1197258>
+ER -
+```
 
 #### Citeproc JSON
 
+```json
+{
+  "volume": "332",
+  "issue": "6034",
+  "DOI": "10.1126/science.1197258",
+  "URL": "<http://dx.doi.org/10.1126/science.1197258>",
+  "title": "A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus",
+  "container-title": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        6,
+        2
+      ]
+    ]
+  },
+  "author": [
     {
-      "volume": "332",
-      "issue": "6034",
-      "DOI": "10.1126/science.1197258",
-      "URL": "<http://dx.doi.org/10.1126/science.1197258>",
-      "title": "A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus",
-      "container-title": "Science",
-      "publisher": "American Association for the Advancement of Science",
-      "issued": {
-        "date-parts": [
-          [
-            2011,
-            6,
-            2
-          ]
-        ]
-      },
-      "author": [
-        {
-          "family": "Wolfe-Simon",
-          "given": "F."
-        },
-        {
-          "family": "Blum",
-          "given": "J. S."
-        },
-        {
-          "family": "Kulp",
-          "given": "T. R."
-        },
-        {
-          "family": "Gordon",
-          "given": "G. W."
-        },
-        {
-          "family": "Hoeft",
-          "given": "S. E."
-        },
-        {
-          "family": "Pett-Ridge",
-          "given": "J."
-        },
-        {
-          "family": "Stolz",
-          "given": "J. F."
-        },
-        {
-          "family": "Webb",
-          "given": "S. M."
-        },
-        {
-          "family": "Weber",
-          "given": "P. K."
-        },
-        {
-          "family": "Davies",
-          "given": "P. C. W."
-        },
-        {
-          "family": "Anbar",
-          "given": "A. D."
-        },
-        {
-          "family": "Oremland",
-          "given": "R. S."
-        }
-      ],
-      "editor": [
-      ],
-      "page": "1163-1166",
-      "type": "article-journal"
+      "family": "Wolfe-Simon",
+      "given": "F."
+    },
+    {
+      "family": "Blum",
+      "given": "J. S."
+    },
+    {
+      "family": "Kulp",
+      "given": "T. R."
+    },
+    {
+      "family": "Gordon",
+      "given": "G. W."
+    },
+    {
+      "family": "Hoeft",
+      "given": "S. E."
+    },
+    {
+      "family": "Pett-Ridge",
+      "given": "J."
+    },
+    {
+      "family": "Stolz",
+      "given": "J. F."
+    },
+    {
+      "family": "Webb",
+      "given": "S. M."
+    },
+    {
+      "family": "Weber",
+      "given": "P. K."
+    },
+    {
+      "family": "Davies",
+      "given": "P. C. W."
+    },
+    {
+      "family": "Anbar",
+      "given": "A. D."
+    },
+    {
+      "family": "Oremland",
+      "given": "R. S."
     }
+  ],
+  "editor": [
+  ],
+  "page": "1163-1166",
+  "type": "article-journal"
+}
+```
 
 ## Managing full-text Content
 
@@ -535,11 +549,7 @@ and ReadCube which has a very nice user interface and a good PDF viewer.
 An extensive list and comparison of available reference management
 software [can be found on Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_reference_management_software).
 
-<center>
-<Image:>
-
-</center>
-*Figure 2: Feature comparison of popular reference managers*
+![**Figure 2**. Feature comparison of popular reference managers]()
 
 ## Outlook
 
