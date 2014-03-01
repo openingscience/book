@@ -1,4 +1,3 @@
-<li class="first"><i class="icon-tags"></i></li>
 {% if tags_list.first[0] == null %}
   {% for tag in tags_list %}
   	<li><a href="{{ BASE_PATH }}{{ site.tags_path }}#{{ tag }}-ref">{{ tag }}</a></li>

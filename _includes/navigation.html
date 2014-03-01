@@ -1,31 +1,27 @@
-{% if page.categories %}
-  <i class="icon-folder-open"></i> {{ page.categories.first | titleize }}<br/>
-{% endif %}
-{% if page.modified_date %}
-  <i class="icon-calendar"></i> {{ page.modified_date }}<br/>
-{% endif %}
-{% if page.doi %}
-<i class="icon-external-link"></i> doi: <a href="http://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a><br/>
-{% endif %}
-<i class="icon-github"></i> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a><br/>
-<i class="icon-edit"></i> <a href="http://prose.io/#openingscience/book/edit/master/{{page.path}}">Send Edit Request</a><br/>
-{% if page.tags and page.tags != empty %}
-  <ul>
-    {% assign tags_list = page.tags %}
-    {% include tags_list %}
+<nav id="navmenu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
+  <a class="navmenu-brand" href="#">Opening Science - The Book</a>
+  <ul class="nav navmenu-nav">
+  {% if page.categories %}
+    <li><span class="glyphicon glyphicon-folder-open"></span> {{ page.categories.first | titleize }}</li>
+  {% endif %}
+  {% if page.modified_date %}
+    <li><span class="glyphicon glyphicon-calendar"></span> {{ page.modified_date }}</li>
+  {% endif %}
+  {% if page.doi %}
+    <li><span class="glyphicon glyphicon-link"></span> <a href="http://dx.doi.org/{{ page.doi }}">doi: {{ page.doi }}</a></li>
+  {% endif %}
+    <li><span class="glyphicon glyphicon-time"></span> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a></li>
+    <li><span class="glyphicon glyphicon-edit"></span> <a href="http://prose.io/#openingscience/book/edit/master/{{page.path}}">Send Edit Request</a></li>
+    <li><span class="glyphicon glyphicon-home"></span> <a href="/">Home</a></li>
+    <li><span class="glyphicon glyphicon-info-sign"></span> <a href="/about.html">About</a></li>
+    <li><span class="glyphicon glyphicon-tags"></span> <a href="/tags.html">Tags</a></li>
+    {% if page.tags and page.tags != empty %}
+    <li>
+      <ul class="tag-list">
+        {% assign tags_list = page.tags %}
+        {% include tags_list %}
+      </ul>
+    </li>
+    {% endif %}
   </ul>
-{% endif %}
-<h3>Opening Science - The Book</h3>
-<ul>
-  <li><i class="icon-home"></i> <a href="/">Home</a></li>
-  <li><i class="icon-tags"></i> <a href="/tags.html">Tags</a></li>
-  <li><i class="icon-question"></i> <a href="/about.html">About</a></li>
-</ul>
-<ul>
-  {% if page.previous.url %}
-    <li><i class="icon-arrow-left"></i> <a href="{{ page.previous.url }}">Previous</a></li>
-  {% endif %}
-  {% if page.next.url %}
-    <li><i class="icon-arrow-right"></i> <a href="{{ page.next.url }}">Next</a></li>
-  {% endif %}
-</ul>
+</nav>

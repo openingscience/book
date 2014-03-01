@@ -27,7 +27,7 @@
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/atom.xml" />
 
     <!-- Enable responsive viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -35,23 +35,13 @@
     <![endif]-->
 
     <!-- CSS -->
-    {% css_asset_tag global %}
-    - /_assets/stylesheets/style.scss
-    {% endcss_asset_tag %}
+    {% stylesheet app %}
+    {% stylesheet jasny-bootstrap.min.css %}
+    {% stylesheet navmenu-push.css %}
 
-    <!-- Javascript -->
-    {% javascript_asset_tag global %}
-    - /_assets/javascripts/jquery-1.10.1.min.js
-    - /_assets/javascripts/jquery-migrate-1.2.1.min.js
-    - /_assets/javascripts/bootstrap.min.js
-    - /_assets/javascripts/d3.v3.min.js
-    - /_assets/javascripts/js-yaml.min.js
-    {% endjavascript_asset_tag %}
+    <!-- d3.js -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.2/d3.min.js"></script>
 
     <!-- Adobe Web Fonts -->
     <script src="//use.edgefonts.net/rosario.js"></script>
-
-    <!-- MathJax -->
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
   </head>

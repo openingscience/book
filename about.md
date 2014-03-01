@@ -5,9 +5,15 @@ modified_date: 19 January 2014
 published: true
 ---
 
-<p>**Opening Science - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing** is a book [published by Springer](http://www.springer.com/engineering/book/978-3-319-00025-1) in January 2014 with Sönke Bartling and Sascha Friesike as editors. The content is Open Access with a Creative Commons Attribution-NonCommercical ([CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/deed.en)) license.</p>
+**Opening Science - The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing**
+is a book [published by Springer](http://www.springer.com/engineering/book/978-3-319-00025-1) in January 2014 with
+Sönke Bartling and Sascha Friesike as editors. The content is Open Access with a Creative Commons Attribution-NonCommercical
+([CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/deed.en)) license.
 
-<p>The content for Opening Science will change over time, and this website is used to collect comments and provide revisions of the book chapters as the text evolves. The text is formatted in Markdown, and is converted into HTML (and possibly other formats) by the Pandoc document converter. All files are stored in git version control and hosted on Github.</p>
+The content for Opening Science will change over time, and this website is used to collect comments and provide
+revisions of the book chapters as the text evolves. The text is formatted in Markdown, and is converted into
+HTML (and possibly other formats) by the Pandoc document converter and the Jekyll static site generator. All files
+are stored in git version control and hosted on Github. Technical implementation of this website coordinated by Martin Fenner.
 
 ## About the Authors
 

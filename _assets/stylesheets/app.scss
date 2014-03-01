@@ -1,17 +1,33 @@
-/* Bootstrap */
-$sansFontFamily: "rosario", Arial, sans-serif;
-$serifFontFamily: Georgia, serif;
-$baseFontFamily: $sansFontFamily;
-$baseFontSize: 16px;
-$baseLineHeight: 20px;
-$headingsFontFamily: $sansFontFamily;
+/* Bootstrap 3 */
+$font-family-sans-serif: "rosario", Arial, sans-serif;
+$font-family-serif:     Georgia, serif;
+$font-family-base:      $font-family-sans-serif;
+$icon-font-path:        "/fonts/";
+
+$headings-font-family:  $font-family-sans-serif;
+$headings-font-weight:  600;
+$headings-line-height:  1.1;
+
+$font-size-base:        16px;
+$font-size-large:       ceil(($font-size-base * 1.25));
+$font-size-small:       ceil(($font-size-base * 0.85));
+
+$font-size-h1:          floor($font-size-base * 2.4);
+$font-size-h2:          floor($font-size-base * 2);
+$font-size-h3:          floor($font-size-base * 1.7);
+$font-size-h4:          floor($font-size-base * 1.4);
+$font-size-h5:          $font-size-base;
+$font-size-h6:          $font-size-base;
+
+$body-bg:               white;
+
+$link-color:            #3498db;
+
+$line-height-base:      1.4375;
+$line-height-large:     1.33;
+$line-height-small:     $line-height-base;
 
 @import "bootstrap";
-@import "bootstrap-responsive";
-
-/* Font Awesome */
-$FontAwesomePath:   "../../font";
-@import "font-awesome/scss/font-awesome.scss";
 
 /* Pandoc syntax highlighting */
 @import "syntax";
@@ -21,11 +37,12 @@ ol.bibliography { padding-left: 1em; }
 
 .page-header {
   border-bottom: 0;
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .page-header .date, .page-header p {
-  font-family: $sansFontFamily;
+  font-family: $font-family-sans-serif;
   font-size: 1.1em;
   line-height: 1.3em;
   font-weight: 400;
@@ -33,9 +50,7 @@ ol.bibliography { padding-left: 1em; }
 }
 
 .toc-item p {
-  font-family: $sansFontFamily;
-  font-size: 0.9em;
-  line-height: 1.6em;
+  font-family: $font-family-sans-serif;
   color: #999;
   font-weight: 400;
 }
@@ -43,11 +58,10 @@ ol.bibliography { padding-left: 1em; }
 .toc-item .abstract p {
   color: #000;
   font-size: 0.9em;
-  line-height: 1.35em;
 }
 
 .nav, .brand, .pagination li, .pagination a {
-  font-family: $sansFontFamily;
+  font-family: $font-family-sans-serif;
   font-size: 1em;
 }
 
@@ -57,12 +71,10 @@ ol.bibliography { padding-left: 1em; }
 
 .content p, .content ul li, .content ol li {
   font-size: 1.25em;
-  line-height: 1.5em;
 }
 
 .content ol li p, .content ol li h3 {
   font-size: 1em;
-  line-height: 1.1em;
 }
 
 .toc h2 {
@@ -82,6 +94,7 @@ ol.bibliography { padding-left: 1em; }
 
 .toc ol, .toc li {
   margin-left: 0;
+  padding-left: 0;
   list-style: none;
 }
 
@@ -100,8 +113,7 @@ ol.bibliography { padding-left: 1em; }
 }
 
 blockquote p {
-  font-size: 1em;
-  line-height: 1.25em;
+  font-size: 0.75em;
   font-style: italic;
 }
 
@@ -129,7 +141,7 @@ li.nostyle {
   list-style-type: none;
 }
 
-.license img { padding-bottom: 1.5em; }
+.license img { padding-bottom: 1.5em; padding-left: 10px; }
 
 img.about {
   float: left;
@@ -140,11 +152,16 @@ img.about {
   border-radius: 40px;
 }
 
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 figcaption {
   margin-top: 0.75em;
   font-size: 1.1em;
   line-height: 1.3em;
-  font-family: $sansFontFamily;
+  font-family: $font-family-sans-serif;
 }
 
 /* sidebar */
@@ -166,7 +183,7 @@ figcaption {
 }
 
 .aside ul li {
-  font-family: $sansFontFamily;
+  font-family: $font-family-sans-serif;
   font-size: 1em;
   float: left;
   margin-right: 1em;
@@ -177,13 +194,13 @@ figcaption {
 }
 
 table {
-  font-family: $sansFontFamily;
+  font-family: $font-family-sans-serif;
   max-width: 100%;
-  background-color: $tableBackground;
+  background-color: $table-bg;
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
-  margin-bottom: $baseLineHeight;
+  margin-bottom: $line-height-base;
 
   caption {
     text-align: left;
@@ -200,7 +217,7 @@ table {
     padding: 8px;
     text-align: left;
     vertical-align: top;
-    border-top: 1px solid $tableBorder;
+    border-top: 1px solid $table-border-color;
   }
   th {
     font-weight: bold;
@@ -220,12 +237,12 @@ table {
   }
   // Account for multiple tbody instances
   tbody + tbody {
-    border-top: 2px solid $tableBorder;
+    border-top: 2px solid $table-border-color;
   }
 
   // Nesting
   .table {
-    background-color: $bodyBackground;
+    background-color: $body-bg;
   }
 }
 
@@ -239,7 +256,7 @@ table {
 }
 
 .chart a {
-  fill: $linkColor;
+  fill: $link-color;
 }
 
 .chart .title { font-size: 24px; }
@@ -253,4 +270,4 @@ table {
 }
 
 .signpost { padding-top: 0.8em; }
-.year-label, .tooltip { font-family: $sansFontFamily; }
+.year-label, .tooltip { font-family: $font-family-sans-serif; }

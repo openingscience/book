@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  padding: 20px 0 0 0;
+}
+
+.navbar-toggle {
+  float: left;
+  margin-left: 15px;
+}
+
+@media (min-width: 0) {
+  .navbar-toggle {
+    display: block; /* force showing the toggle */
+  }
+}
+
+@media (min-width: 992px) {
+  body {
+    padding: 0;
+  }
+  .navbar {
+    right: auto;
+    background: none;
+    border: none;
+  }
+}
+
+.offcanvas ul.nav li {
+  padding: 0 0 0 15px;
+}
+
+.offcanvas ul.nav li a {
+  display: inline;
+  padding: 0;
+}
+
+.offcanvas ul.nav li span {
+  padding-right: 3px;
+}
+
+ul.tag-list {
+  padding-left: 8px;
+}
+
+ul.tag-list li {
+  list-style: none;
+}
+
+.glyphicon-home {
+  padding-top: 15px;
+}
