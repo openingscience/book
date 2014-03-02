@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 published: true
 ---
 
@@ -12,8 +12,8 @@ Sönke Bartling and Sascha Friesike as editors. The content is Open Access with 
 
 The content for Opening Science will change over time, and this website is used to collect comments and provide
 revisions of the book chapters as the text evolves. The text is formatted in Markdown, and is converted into
-HTML (and possibly other formats) by the Pandoc document converter and the Jekyll static site generator. All files
-are stored in git version control and hosted on Github. Technical implementation of this website coordinated by Martin Fenner.
+HTML by the [Pandoc](http://johnmacfarlane.net/pandoc/) document converter and the [Jekyll](http://jekyllrb.com/) static site generator. All files
+are stored in git version control and hosted on [Github](https://github.com/openingscience/book/). Technical implementation of this website coordinated by Martin Fenner.
 
 ## About the Authors
 
