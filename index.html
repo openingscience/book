@@ -2,7 +2,7 @@
 layout: default
 title: Opening Science
 doi: 10.1007/978-3-319-00026-8
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 ---
 {% for category in site.categories %}
   <div class="toc">
@@ -16,14 +16,13 @@ modified_date: 19 January 2014
         <li>
       {% endif %}
           <div class="toc-item">
-            <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-            {% if post.authors %}<p>{% for author in post.authors %}
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            {% if post.authors %}
+              <p>{% for author in post.authors %}
               {{ author.name }}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}</p>
             {% endif %}
             {% if post.abstract %}
-              <div class="abstract">
-                {{ post.abstract | markdownify }}
-              </div>
+              {{ post.abstract | markdownify }}
             {% endif %}
           </div>
         </li>
