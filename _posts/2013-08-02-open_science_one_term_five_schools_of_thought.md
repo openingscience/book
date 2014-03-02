@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Open Science: One Term, Five Schools of Thought"
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: "10.1007/978-3-319-00026-8_2"
-authors: 
+authors:
   - name: Benedikt Fecher
   - name: Sascha Friesike
+    orcid: "0000-0002-9314-5633"
 category: basics_background
 abstract: "Open Science is an umbrella term encompassing a multitude of assumptions about the future of knowledge creation and dissemination. Based on a literature review, this chapter aims at structuring the overall discourse by proposing five Open Science schools of thought: The *infrastructure school* (which is concerned with the technological architecture), the *public school* (which is concerned with the accessibility of knowledge creation), the \"measurement school\"(which is concerned with alternative impact measurement), the \"democratic school\"(which is concerned with access to knowledge) and the \"pragmatic school\" (which is concerned with collaborative research)."
 published: true
@@ -64,7 +65,7 @@ and the tools and methods used to achieve and promote these aims.
 
 ![](/images/open_science_.png)
 
-Table: **Table 1**: Five Open Science schools of thought.
+Table: **Table 1**. Five Open Science schools of thought.
 
 ----------------------- --------------------------------------------------------------------------- ----------------------------------- ------------------------------------------------------------------------- -----------------------------------------------------------------
 **School of thought**   **Central assumption**                                                      **Involved groups**                 **Central Aim**                                                           **Tools & Methods**
@@ -100,7 +101,7 @@ between scientists and the public and define openness as a form of
 devotion to a wider audience. In the following section we will elaborate
 more on both streams in reference to relevant literature.
 
-Table: **Table 2**: Public School
+Table: **Table 2**. Public School
 
 -------------------------- --------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Author (Year)**          **Title**                                                                                                 **Content**
@@ -295,7 +296,7 @@ school, namely open access to research publications and Open Data. We
 assume that both represent a wider set of arguments that accompanies
 discussion on free access to research products.
 
-#### Open Data
+### Open Data
 
 Regarding Open Data in science, Murray-Rust (2008, p. 52) relates the
 meaning of the prefix ‘open’ to the common definition of open source
@@ -317,7 +318,7 @@ permission from a journal (see table 3). He assumes that, other than validating
 research, journals have no use for claiming possession over supporting
 information—other researchers, however, do.
 
-Table: **Table 3**: Democratic School - Open data
+Table: **Table 3**. Democratic School - Open data
 
 ------------------------- ----------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Author (Year)**         **Title**                                                         **Content**
@@ -406,7 +407,7 @@ Data also illustrates that research on this issue needs to be holistic.
 
 ### Open Access to Research Publication
 
-Table: **Table 4**: Democratic School - Open access to publications
+Table: **Table 4**. Democratic School - Open access to publications
 
 -------------------------------- ------------------------------------------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Author (Year)**                **Title**                                                                                  **Content**
@@ -488,7 +489,7 @@ through online tools. The notion of ‘open’ follows in this regard very
 much the disclosed production process known from open innovation
 concepts (see table 5).
 
-Table: **Table 5**: Pragmatic school
+Table: **Table 5**. Pragmatic school
 
 ------------------------- ------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Author (Year)**         **Title**                                                                                   **Content**
@@ -602,10 +603,10 @@ science ; in this case the incentives to share information.
 
 Neylon and Wu (2009), in a general text on the requirements for Open
 Science, elaborate more on Web 2.0 tools that facilitate and accelerate
-scientific discovery. According to them, tools'' *“*whether they be
+scientific discovery. According to them, tools “*whether they be
 social networking sites, electronic laboratory notebooks, or controlled
 vocabularies, must be built to help scientists do what they are already
-doing, not what the tool designer feels they should be doing''” (ibid.,
+doing, not what the tool designer feels they should be doing*” (ibid.,
 p. 543). The authors thereby regard the implementation of Web 2.0 tools
 in close relation to the existing scientific practice. Following this,
 scientific tools can only foster scientific discovery if they tie in
@@ -638,7 +639,7 @@ practice-oriented and case-specific; it focuses on the technological
 requirements that facilitate particular research practices (e.g. the
 Open Science Grid).
 
-Table: **Table 6**: Infrastructure school
+Table: **Table 6**. Infrastructure school
 
 ------------------------- ----------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Author (Year)**         **Title**                                                   **Content**
@@ -749,19 +750,19 @@ example of myExperiment, De Roure et al. (2008) propose four key
 capabilities of what they consider a Social Virtual Research Environment
 (SVRE):
 
--   According to the authors, a SVRE should *firstly* facilitate the
-    management and sharing of research objects. These can be any digital
-    commodities that are used and reused by researchers (e.g. methods
-    and data).
--   *Secondly*, it should have incentives for researchers to make their
-    research objects available.
--   *Thirdly*, the environment should be open and extensible—meaning
-    that software, tools and services can be easily integrated.
--   *Fourthly*, it should provide a platform to action research.
-    Actioning research is, in the authors’ understanding, what makes a
-    platform an actual research environment. Research objects are in
-    this regard not just stored and exchanged but they are used in the
-    conduct of research (De Roure 2008, p. 182).
+* According to the authors, a SVRE should *firstly* facilitate the
+  management and sharing of research objects. These can be any digital
+  commodities that are used and reused by researchers (e.g. methods
+  and data).
+* *Secondly*, it should have incentives for researchers to make their
+  research objects available.
+* *Thirdly*, the environment should be open and extensible—meaning
+  that software, tools and services can be easily integrated.
+* *Fourthly*, it should provide a platform to action research.
+  Actioning research is, in the authors’ understanding, what makes a
+  platform an actual research environment. Research objects are in
+  this regard not just stored and exchanged but they are used in the
+  conduct of research (De Roure 2008, p. 182).
 
 This depiction of a SVRE does of course not exclude mass computation
 (the third capability in fact endorses the integration of additional
@@ -801,14 +802,12 @@ impact can be measured in the digital age.
 Advocates of the Open Science measurement school express the following
 concerns about the current impact factor:
 
--   The peer review is time-consuming. (McVeigh 2004; Priem & Costello,
-    2010)
--   The impact is linked to a journal rather than directly to an
-    article. (McVeigh 2004)
--   New publishing formats (e.g. online open access journals, blogs) are
-    seldom in a journal format to which an impact factor can be assigned
-    to (Weller & Puschmann 2012; Priem et al. 2012; Yeong & Abdullah
-    2012)
+* The peer review is time-consuming. (McVeigh 2004; Priem & Costello, 2010)
+* The impact is linked to a journal rather than directly to an
+  article. (McVeigh 2004)
+* New publishing formats (e.g. online open access journals, blogs) are
+  seldom in a journal format to which an impact factor can be assigned
+  to (Weller & Puschmann 2012; Priem et al. 2012; Yeong & Abdullah 2012)
 
 Accordingly, this school argues the case for an alternative and faster
 impact measurement that includes other forms of publication and the
@@ -819,7 +818,7 @@ are leaving traces online and offer a new basis by which to measure
 scientific impact. The umbrella term for these new impact measurements
 is altmetrics (see table 7).
 
-Table: **Table 7**: Measurement School
+Table: **Table 7**. Measurement School
 
 ------------------------------- -------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Author (Year)**               **Title**                                                                                          **Content**

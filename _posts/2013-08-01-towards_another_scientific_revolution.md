@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Towards Another Scientific Revolution
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: "10.1007/978-3-319-00026-8_1"
-authors: 
+authors:
   - name: Sönke Bartling
     orcid: "0000-0001-5434-9433"
   - name: Sascha Friesike
+    orcid: "0000-0002-9314-5633"
 category: basics_background
 abstract: "In this introductory chapter we establish a common understanding of what are and what drives current changes in research and science. The concepts of Science 2.0 and Open Science will be introduced. As such we provide a short introduction to the history of science and knowledge dissemination. We explain the origins of our scientific culture which evolved around publication methods. Interdependencies of current concepts will be elucidated and it will be stated that the transition towards Open Science is a complex cultural change. Reasons as to why the change is slow are discussed and the main obstacles are identified. Next, we explain the recent changes in scientific workflows and how these cause changes in the system as a whole. Furthermore, we provide an overview on the entire book and explain what can be found in each chapter."
 published: true
@@ -311,15 +312,15 @@ field and thus several terms emerged, whereof we would like to define
 only two—mainly in order to use them in the discussions contained within
 this book.
 
--   **Science 2.0** refers to all scientific culture, incl. scientific communication, which employs features enabled by Web 2.0 and the Internet (in contrast to Science 1.0 which represents a scientific culture that does not take advantage of the Internet).
--   **Open Science** refers to a scientific culture that is
-    characterized by its openness. Scientist share results almost
-    immediately and with a very wide audience. Strictly speaking, since
-    the first scientific revolution, science has been open (Figure 4).
-    Through the Internet and Web 2.0 science can become ‘*more* open
-    science’, meaning that researchers share results, ideas, and data
-    much earlier and much more extensively to the public than they do at
-    the moment.
+* **Science 2.0** refers to all scientific culture, incl. scientific communication, which employs features enabled by Web 2.0 and the Internet (in contrast to Science 1.0 which represents a scientific culture that does not take advantage of the Internet).
+* **Open Science** refers to a scientific culture that is
+  characterized by its openness. Scientist share results almost
+  immediately and with a very wide audience. Strictly speaking, since
+  the first scientific revolution, science has been open (Figure 4).
+  Through the Internet and Web 2.0 science can become ‘*more* open
+  science’, meaning that researchers share results, ideas, and data
+  much earlier and much more extensively to the public than they do at
+  the moment.
 
 Science 2.0 enables Open Science, but Science 2.0 does not necessarily
 have to happen in an open science fashion, since scientists can still
@@ -404,54 +405,54 @@ This book brings together the enabling concepts that shape the current
 discussion on our changing research environment. We divided the book
 into three parts in order to make its content easily accessible.
 
--   The first part of the book is called **Basics**; here we cover
-    topics that highlight the overall shift in scientific thinking. It
-    begins with the chapter “Open Science: One Term, Five Schools of
-    Thought” in which *Benedikt Fecher* and editor *Sascha Friesike*
-    explain the many meanings which have been given to the term Open
-    Science. This is followed by *Mathias Binswanger’s* “Excellence by
-    Nonsense: The Competition for Publications in Modern Science” in
-    which he highlights some of the downsides in today publication
-    driven scientific environments. *Alexander Gerber’s* article titled
-    “Science Caught Flat-footed: How Academia Struggles with Open
-    Science Communication” follows; here the author explains why social
-    media are adopted quite slowly by the research community, especially
-    in Europe. The last article in the section was written by *Michelle
-    Sidler* and is entitled “Open Science and the Three Cultures:
-    Expanding Open Science to All Domains of Knowledge Creation”; in it
-    the author highlights a core weakness that the terms Open Science
-    and Science 2.0 share: the fact that all of the implied concepts are
-    valid for researchers outside the sciences as well, yet the name
-    might scare them away.
--   The second part of the book is called **Tools** and deals with
-    implementations that already work today. *Cornelius Puschmann*
-    starts the section with his piece on blogging and microblogging
-    among researches called “(Micro)blogging Science? Notes on
-    Potentials and Constraints of New Forms of Scholarly Communication”.
-    He is followed by *Michael Nentwich* and *René König’s* article
-    “Academia Goes Facebook? The Potential of Social Network Sites in
-    the Scholarly Realm”. “Reference Management” by *Martin Fenner*,
-    *Kaja Scheliga*, and editor *Sönke Bartling* is the next chapter. It
-    is succeeded by “Open Access: A State of the Art” by *Dagmar Sitek*
-    and *Roland Bertelmann*, and *James MacGregor, Kevin Stranack*,
-    and *John Willinsky’s* “The Public Knowledge Project: Open Source
-    Tools for Open Access to Scholarly Communication”.
--   The third part named **Vision** takes a more long term view on the
-    issue and thus explains how single aspects of research might develop
-    over the next decade or two. The section begins with an article by
-    *Martin Fenner* named “Altmetrics and Other Novel Measures for
-    Scientific Impact” and an article by *Lambert Heller*, *Ronald The*,
-    and *Sönke Bartling* called “Dynamic Publication Formats”. It
-    follows “Open Research Data” by *Heinz Pampel* and *Sünje
-    Dallmeier-Tiessen*, and “Intellectual Property and Computational
-    Science” by *Victoria Stodden.* The next chapter is called “Research
-    Funding in Science 2.0” and was written by *Jörg Eisfeld-Reschke*,
-    *Ulrich Herb*, and Karsten Wenzlaff. The last chapter of the
-    book was written by *Thomas* *Schildhauer* and *Hilger* *Voss* and
-    is entitled “Open Innovation and Crowdsourcing in the Sciences”.
--   The book closes with a collection of cases which highlight in a
-    rather brief manner some aspects of the Open Science movement. Here
-    the authors focus on specific aspects and projects, give advice, or
-    present their experience.
+* The first part of the book is called **Basics**; here we cover
+  topics that highlight the overall shift in scientific thinking. It
+  begins with the chapter “Open Science: One Term, Five Schools of
+  Thought” in which *Benedikt Fecher* and editor *Sascha Friesike*
+  explain the many meanings which have been given to the term Open
+  Science. This is followed by *Mathias Binswanger’s* “Excellence by
+  Nonsense: The Competition for Publications in Modern Science” in
+  which he highlights some of the downsides in today publication
+  driven scientific environments. *Alexander Gerber’s* article titled
+  “Science Caught Flat-footed: How Academia Struggles with Open
+  Science Communication” follows; here the author explains why social
+  media are adopted quite slowly by the research community, especially
+  in Europe. The last article in the section was written by *Michelle
+  Sidler* and is entitled “Open Science and the Three Cultures:
+  Expanding Open Science to All Domains of Knowledge Creation”; in it
+  the author highlights a core weakness that the terms Open Science
+  and Science 2.0 share: the fact that all of the implied concepts are
+  valid for researchers outside the sciences as well, yet the name
+  might scare them away.
+* The second part of the book is called **Tools** and deals with
+  implementations that already work today. *Cornelius Puschmann*
+  starts the section with his piece on blogging and microblogging
+  among researches called “(Micro)blogging Science? Notes on
+  Potentials and Constraints of New Forms of Scholarly Communication”.
+  He is followed by *Michael Nentwich* and *René König’s* article
+  “Academia Goes Facebook? The Potential of Social Network Sites in
+  the Scholarly Realm”. “Reference Management” by *Martin Fenner*,
+  *Kaja Scheliga*, and editor *Sönke Bartling* is the next chapter. It
+  is succeeded by “Open Access: A State of the Art” by *Dagmar Sitek*
+  and *Roland Bertelmann*, and *James MacGregor, Kevin Stranack*,
+  and *John Willinsky’s* “The Public Knowledge Project: Open Source
+  Tools for Open Access to Scholarly Communication”.
+* The third part named **Vision** takes a more long term view on the
+  issue and thus explains how single aspects of research might develop
+  over the next decade or two. The section begins with an article by
+  *Martin Fenner* named “Altmetrics and Other Novel Measures for
+  Scientific Impact” and an article by *Lambert Heller*, *Ronald The*,
+  and *Sönke Bartling* called “Dynamic Publication Formats”. It
+  follows “Open Research Data” by *Heinz Pampel* and *Sünje
+  Dallmeier-Tiessen*, and “Intellectual Property and Computational
+  Science” by *Victoria Stodden.* The next chapter is called “Research
+  Funding in Science 2.0” and was written by *Jörg Eisfeld-Reschke*,
+  *Ulrich Herb*, and Karsten Wenzlaff. The last chapter of the
+  book was written by *Thomas* *Schildhauer* and *Hilger* *Voss* and
+  is entitled “Open Innovation and Crowdsourcing in the Sciences”.
+* The book closes with a collection of cases which highlight in a
+  rather brief manner some aspects of the Open Science movement. Here
+  the authors focus on specific aspects and projects, give advice, or
+  present their experience.
 
 ## References
