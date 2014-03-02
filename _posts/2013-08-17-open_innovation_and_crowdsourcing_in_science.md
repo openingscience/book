@@ -265,7 +265,7 @@ research departments can use these platforms for their own purposes.
   **Focus**        innovation challenges (initiated by companies/ organisations); community   innovation challenges and presentation of new solutions   innovation challenges; community   scientific and social projects   search for experts on specific issues   completed ideas to date   develop products based on new and existing technologies; gamification
   ---------------- -------------------------------------------------------------------------- --------------------------------------------------------- ---------------------------------- -------------------------------- --------------------------------------- ------------------------- -----------------------------------------------------------------------
 
-## Innocentive (<http://www.innocentive.com>)
+## [Innocentive](<http://www.innocentive.com>)
 
 Innocentive.com is the best known open innovation platform that allows
 companies and experts to interact (Wessel 2007). It was founded by the
@@ -338,7 +338,7 @@ website or in a social network. The “InnoCentive Anywhere” App creates
 an opportunity for the “solver” to keep up-to-date with regard to
 forthcoming challenges.
 
-## Innoget (<http://www.innoget.com>)
+## [Innoget](http://www.innoget.com>)
 
 Innoget focuses on linking up organizations that generate innovations
 with those that are in search of innovation, both having equal rights.
@@ -362,7 +362,7 @@ like countries, nature of challenge (such as a collaboration, licensing
 or a research contract) or organization/institution (major enterprise,
 public sector, university etc.).
 
-## SolutionXchange (<http://www.solutionxchange.com>)
+## [SolutionXchange](http://www.solutionxchange.com>)
 
 SolutionXchange.com was founded by Genpact, an Indian provider of
 process and technology services that operates worldwide. A distinctive
@@ -391,7 +391,7 @@ experts with the task of evolving an idea that was remunerated,
 depending on the importance or size of the project or the time spent on
 development.
 
-## One Billion Minds (<http://www.onebillionminds.com>)
+## [One Billion Minds](<http://www.onebillionminds.com>)
 
 This platform calls itself “Human Innovation Network”; “openness”
 according to the open innovation principle is highlighted in particular.
@@ -414,7 +414,7 @@ answers. At
 economical aim. The declared intention of is “to
 change the world”.[^7]
 
-## Presans (<http://presans.com>)
+## [Presans](<http://presans.com>)
 
 Presans.com follows a very different approach from those mentioned
 above: The company provides a search engine that—according to the
@@ -426,7 +426,7 @@ expert’s availability are of value. This issue is based on the
 assumption that the solution-seeking company often does not know what
 kind of solution the company is actually looking for.
 
-## Inpama (<http://inpama.com>)
+## [Inpama](<http://inpama.com>)
 
 Inpama.com enables inventors and scientists to present their solutions
 ready for licensing and accordingly ready to be put on the market.
@@ -441,7 +441,7 @@ category. Also, Inpama.com offers further information and assistance
 with impoving the product or invention by contacting test consumers or
 industrial property agents or by marketing the invention.
 
-## Marblar (<http://marblar.com>)
+## [Marblar](<http://marblar.com>)
 
 Marblar.com adopts a very interesting approach. Assuming that a minimum
 of 95 per cent of the inventions that have been developed at
