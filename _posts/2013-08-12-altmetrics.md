@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Altmetrics and Other Novel Measures for Scientific Impact"
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_12
 authors:
  - name:  Martin Fenner
@@ -90,8 +90,8 @@ typically associated with the publisher Public Library of Science
 Altmetrics and article-level metrics are sometimes used interchangeably,
 but there are important differences:
 
-- Article-level metrics also includes citations and usage data
-- Altmetrics can also be applied to other research outputs, such as research data
+* Article-level metrics also includes citations and usage data
+* Altmetrics can also be applied to other research outputs, such as research data
 
 **Metrics for other research works** – presentations, datasets,
 software, etc. – typically include usage statistics and altmetrics, but
@@ -116,7 +116,7 @@ advocating social bookmarking tools for post-publication peer review.
 Neylon and Wu described the PLOS Article-Level Metrics service launched
 in 2009 in an article published the same year. Priem and Hemminger
 published an article in July 2010 that describes scientometrics 2.0 and
-called for new metrics based on Web 2.0 tools. Groth and Gurney studied
+called for new metrics based on Web 2.0 tools. Groth and Gurney [-@groth_2010] studied
 chemistry science blogging about scholarly papers and presented their
 findings at the Web Science Conference 2010. The Altmetrics manifesto
 was published in October 2010 by Jason Priem, Dario Taraborelli, Paul
@@ -171,28 +171,28 @@ correlation of 0.5 between WoS citations and Mendeley users articles
 published by the open-access publisher PLOS.
 
 Twitter has also attracted significant interest from altmetrics
-researchers. Priem and Costello [-@priem_how_2010] and Priem et al. [-@priem_uncovering_2011] report
+researchers. Priem and Costello [-@priem_2010] and Priem et al. [-@priem_2011] report
 that scholars use Twitter as a professional medium for discussing
-articles, while Eysenbach [-@eysenbach_can_2011] found that highly-tweeted articles were
+articles, while Eysenbach [-@eysenbach_2011] found that highly-tweeted articles were
 11 times more likely become highly-cited later. Analyzing the use of
-Twitter during scientific conferences, Weller and Puschmann [-@weller_twitter_2011] and
+Twitter during scientific conferences, Weller and Puschmann [-@weller_2011] and
 Letierce et al. (2010) report that there was discipline-specific
 tweeting behavior regarding topic and number of tweets, as well as
 references to different document types including journal articles,
 blogs, and slides. Other sources have examined additional data sources
 besides reference managers and Twitter, investigating examined citation
 from Wikipedia articles (Nielsen 2007) and blogs [@groth_2010;
-@shema_research_2012] as sources of alternative impact data.
+@shema_2012] as sources of alternative impact data.
 
 ## Use cases
 
 Altmetrics can complement traditional bibliometrics and are more
 appropriate in a number of scenarios:
 
--   Metrics as a discovery tool
--   Data-driven stories about the post-publication reception of research
--   Business intelligence for a journal, university or funder
--   Evaluation of the impact of research and researchers
+* Metrics as a discovery tool
+* Data-driven stories about the post-publication reception of research
+* Business intelligence for a journal, university or funder
+* Evaluation of the impact of research and researchers
 
 ### Metrics as a discovery tool
 
@@ -243,11 +243,11 @@ including inappropriate uses such as using the Journal Impact Factor to
 evaluate publications of individual researchers. Before altmetrics can
 be used for evaluation, the following questions need to be addressed:
 
-- Can numbers reflect the impact of research, across disciplines and over time?
-- Does the use of metrics for evaluation create undesired incentives?
-- Do the currently available altmetrics really measure impact or something else?
-- How can we standardize altmetrics?
-- How easily can altmetrics be changed by self-promotion and gaming?
+* Can numbers reflect the impact of research, across disciplines and over time?
+* Does the use of metrics for evaluation create undesired incentives?
+* Do the currently available altmetrics really measure impact or something else?
+* How can we standardize altmetrics?
+* How easily can altmetrics be changed by self-promotion and gaming?
 
 The first two questions relate to more general aspects of using
 scientometrics for evaluation, whereas the last three questions are more
@@ -289,7 +289,7 @@ interaction (cf. ImpactStory 2012)
 
   **Cited**         Citations,full-text mentions      Wikipedia mentiones
 
-  **Waved**         CiteULike,                        Delicious
+  **Saved**         CiteULike,                        Delicious
                     Mendeley                          Facebook
 
   **Viewed**        PDF downloads                     HTML views
@@ -409,9 +409,13 @@ adopted. A big part of the challenge is the very nature of the Social
 Web, which is much more difficult to analyze than traditional scholarly
 citations.
 
-1. the constantly changing nature of the Social Web, including the lack of commonly used persistent identifiers
-2. self-promotion and gaming, inherit to all Social Web activities, and aggravated by the difficulty of understanding who is talking
-3. Altmetrics is more interested in things that can be measured, rather than things that are meaningful for scholarly impact. We therefore measure attention or self-promotion instead of scholarly impact.
+1. the constantly changing nature of the Social Web, including the lack
+   of commonly used persistent identifiers
+2. self-promotion and gaming, inherit to all Social Web activities, and
+   aggravated by the difficulty of understanding who is talking
+3. Altmetrics is more interested in things that can be measured, rather
+   than things that are meaningful for scholarly impact. We therefore
+   measure attention or self-promotion instead of scholarly impact.
 
 These challenges are less of a problem for discovery tools based on
 altmetrics, but are hard to solve for evaluation tools. Altmetrics is
@@ -420,11 +424,6 @@ other questions, including standards, anti-gaming mechanisms, and ways
 to put metrics into context.
 
 ## References
-
-Groth, P. & Gurney, T., 2010. Studying Scientific Discourse on the Web using Bibliometrics: A Chemistry Blogging Case Study. In *Proceedings of
-the WebSci10: Extending the Frontiers of Society On-Line, April 26-27th
-2010*. Raleigh, NC, USA. Available at:
-<http://journal.webscience.org/308/>.
 
 BMJ Group, 2011. Richard Smith: What is post publication peer review?
 *BMJ Group Blogs*. Available at:
@@ -495,4 +494,3 @@ d’Aix-en-Provence, pp. 99–110.
 
 Weller, K. & Peters, I., 2012. Citations in Web 2.0. Available at:
 <http://nfgwin.uni-duesseldorf.de/sites/default/files/Weller.pdf>.
-
