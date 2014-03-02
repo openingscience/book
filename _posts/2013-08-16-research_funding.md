@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Funding in Open Science
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_16
 authors:
  - name: Jörg Eisfeld-Reschke
@@ -314,8 +314,8 @@ discourses of the day.
 
 Obviously, crowdfunding meets several of the aforementioned criteria.
 Jim Giles, while commenting also on the public nature of crowdfunding,
-states in this context:'' *“*Crowd-funding''—raising money for research
-directly from the public—looks set to become increasingly common.”
+states in this context: “*Crowd-funding — raising money for research
+directly from the public — looks set to become increasingly common.*”
 (Giles 2012, p. 252). In principle, crowdfunding can also be more
 closely intertwined with the model of *Citizen Science* than traditional
 research funding organizations – for those organizations only a select
