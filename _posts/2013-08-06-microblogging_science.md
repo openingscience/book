@@ -201,14 +201,14 @@ blogs.
 ------------------------ --------------------------- --------------------------------- ----------------
 **Actor**                **Target audience**         **Function**                      **Analogy**
 
-Lab leader in genetics   Funders, general public     - provide rationale f. research   Report
-                                                     - inform public & funders
+Lab leader in genetics   Funders, general public     provide rationale f. research     Report
+                                                     inform public & funders
 
-PhD student in physics   Peers, senior researchers   - promote self                    Lab notebook
-                                                     - practice writing
+PhD student in physics   Peers, senior researchers   promote self                      Lab notebook
+                                                     practice writing
 
-Science journalist       General public              - explain science broadly         Magazine piece
-                                                     - educate readers
+Science journalist       General public              explain science broadly           Magazine piece
+                                                     educate readers
 ------------------------ --------------------------- --------------------------------- ----------------
 
 Table: **Table 2**. Example motives of science bloggers
@@ -233,28 +233,27 @@ technical backbone but is maintained so as to feature high quality
 scientific content contributed by experts from different fields.
 
 Since August 2006, Redfield has posted over 900 entries on the blog,
-discussing various issues of her research. Her initial post gives a good
-idea about the direction of the blog:
+discussing various issues of her research. Her
+[initial post](http://rrresearch.fieldofscience.com/2006_08_01_archive.html)
+gives a good idea about the direction of the blog:
 
-| This is my first post to this new blog.
-|
-| The purpose of keeping the blog is to give me a semi-public place to
-| describe the ongoing process of doing and thinking about my lab’s
-| research. I hope I’ll use it to describe/explain (mainly to myself)
-| the scientific issues I'm thinking about:
-
-* what experiments we’ve done
-* what the results were if they worked (or possible explanations for
-  why they didn’t work)
-* what I think the results mean for the questions we’re trying to
-  answer
-* what experiments I think we might do or should do when time and
-  resources permit.
-
-The purpose of this post, however, is mainly to see what happens when
-I click on ‘Publish Post’*
-
-*From: [http://rrresearch.fieldofscience.com/2006_08_01_archive.html](http://rrresearch.fieldofscience.com/2006_08_01_archive.html)*
+>This is my first post to this new blog.
+>
+>The purpose of keeping the blog is to give me a semi-public place to
+>describe the ongoing process of doing and thinking about my lab’s
+>research. I hope I’ll use it to describe/explain (mainly to myself)
+>the scientific issues I'm thinking about:
+>
+>* what experiments we’ve done
+>* what the results were if they worked (or possible explanations for
+>  why they didn’t work)
+>* what I think the results mean for the questions we’re trying to
+>  answer
+>* what experiments I think we might do or should do when time and
+>  resources permit.
+>
+>The purpose of this post, however, is mainly to see what happens when
+>I click on ‘Publish Post’.
 
 While many posts are devoted to documenting and describing her
 research—often, as emphasized in the post above, seemingly with herself
@@ -268,9 +267,9 @@ genetics laboratory.
 While Redfield’s blog was known to an expert audience before, she
 attained major success as a result the post *“Arsenic-associated
 bacteria (NASA’s claims)”* (Redfield 2010) that strongly critiqued the
-paper ''“A Bacterium That Can Grow by Using Arsenic Instead of
-Phosphorus” *(Wolfe-Simon et al. 2010) which had been previously
-published in the journal* Science''. In the blog post, Redfield
+paper “*A Bacterium That Can Grow by Using Arsenic Instead of
+Phosphorus”* (Wolfe-Simon et al. 2010) which had been previously
+published in the journal *Science*. In the blog post, Redfield
 initially reports the findings of the paper and then proceeds with a
 detailed criticism of the methodology used by the authors of the study.
 As in other entries, she mixes a somewhat informal style with the
@@ -580,20 +579,21 @@ scientists.
 
 **Table 3**. Advantages and disadvantages of blogging and microblogging.
 
-  -------------------------------- ---------------------------------------------- ---------------------------------- ------------------------------
-  **Blogs**                                                                       **Twitter**
-  **+**                            **-**                                          **+**                              **-**
+-------------------------------- ---------------------------------------------- ---------------------------------- ------------------------------
+**Blogs**                                                                       **Twitter**
 
-  Rapid dissemination of content   Lack of formal recognition                     Communicate with colleagues        Time-consuming
+**+**                            **-**                                          **+**                              **-**
 
-  Cheap                            Lack of prestige in the scientific community   Promote your research              Benefits unclear
+Rapid dissemination of content   Lack of formal recognition                     Communicate with colleagues        Time-consuming
 
-  Easy to use                      No clear topical focus                         Disseminate information            Increased self-exposure
+Cheap                            Lack of prestige in the scientific community   Promote your research              Benefits unclear
 
-  Open to individuals              Time-consuming                                 Build personal influence           Not sufficiently informative
+Easy to use                      No clear topical focus                         Disseminate information            Increased self-exposure
 
-  Promotional tool                 Long-term availability unclear                 Stay up to date about your field   Perceived as trivial
-  -------------------------------- ---------------------------------------------- ---------------------------------- ------------------------------
+Open to individuals              Time-consuming                                 Build personal influence           Not sufficiently informative
+
+Promotional tool                 Long-term availability unclear                 Stay up to date about your field   Perceived as trivial
+-------------------------------- ---------------------------------------------- ---------------------------------- ------------------------------
 
 ## What is the Potential of Blogs and Twitter for the Future of Science?
 
