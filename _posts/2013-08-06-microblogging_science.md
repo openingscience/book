@@ -54,8 +54,7 @@ and reproducible on a previously unimaginable level, providing novel
 insights into a wide array of areas, from climatology to social science
 (Lazer et al. 2009).
 
-![**Figure 1**. myExperiment is one of a number of new virtual research
-environments (VREs).]()
+![**Figure 1**. myExperiment is one of a number of new virtual research environments (VREs).](/images/microblogging_myexperiment.png)
 
 Beyond innovation of research methods, other aspects of how science is
 undertaken are also changing visibly, both as a result of technological
@@ -100,7 +99,7 @@ networking sites) should be regarded as supporting a general long-term
 shift towards a more egalitarian relationship between experts and the
 lay public, rather than driving it.
 
-![**Figure 2**. CERN’s Twitter page.]()
+![**Figure 2**. CERN’s Twitter page.](/images/microblogging_cern.png)
 
 Intra-scientific discourse is changing as well, as a result of the move
 from paper to digital, which seems almost completed in much of the hard
@@ -196,7 +195,7 @@ give an overview of the various roles played by different actors, and of
 some of the motives of scientists who blog for different reasons,
 respectively.
 
-Table: **Table 1**: Examples of actors, audiences, and functions of science
+Table: **Table 1**. Examples of actors, audiences, and functions of science
 blogs.
 
 ------------------------ --------------------------- --------------------------------- ----------------
@@ -212,7 +211,7 @@ Science journalist       General public              - explain science broadly  
                                                      - educate readers
 ------------------------ --------------------------- --------------------------------- ----------------
 
-Table: **Table 2**: Example motives of science bloggers
+Table: **Table 2**. Example motives of science bloggers
 
 ------------------------------------------ ------------------------------- ---------------------------
 **Motive A: Visibility**                   **Motive B: Networking**        **Motive C: Information**
@@ -237,27 +236,25 @@ Since August 2006, Redfield has posted over 900 entries on the blog,
 discussing various issues of her research. Her initial post gives a good
 idea about the direction of the blog:
 
-```
-This is my first post to this new blog.
+| This is my first post to this new blog.
+|
+| The purpose of keeping the blog is to give me a semi-public place to
+| describe the ongoing process of doing and thinking about my lab’s
+| research. I hope I’ll use it to describe/explain (mainly to myself)
+| the scientific issues I'm thinking about:
 
-The purpose of keeping the blog is to give me a semi-public place to
-describe the ongoing process of doing and thinking about my lab’s
-research. I hope I’ll use it to describe/explain (mainly to myself)
-the scientific issues I'm thinking about:
-
-- what experiments we’ve done
-- what the results were if they worked (or possible explanations for
+* what experiments we’ve done
+* what the results were if they worked (or possible explanations for
   why they didn’t work)
-- what I think the results mean for the questions we’re trying to
+* what I think the results mean for the questions we’re trying to
   answer
-- what experiments I think we might do or should do when time and
+* what experiments I think we might do or should do when time and
   resources permit.
 
 The purpose of this post, however, is mainly to see what happens when
-I click on ‘Publish Post’
-```
+I click on ‘Publish Post’*
 
-*(from: [http://rrresearch.fieldofscience.com/2006_08_01_archive.html](http://rrresearch.fieldofscience.com/2006_08_01_archive.html))*
+*From: [http://rrresearch.fieldofscience.com/2006_08_01_archive.html](http://rrresearch.fieldofscience.com/2006_08_01_archive.html)*
 
 While many posts are devoted to documenting and describing her
 research—often, as emphasized in the post above, seemingly with herself
@@ -281,7 +278,7 @@ vocabulary of a scientific paper. She also includes numerous figures,
 illustrations, and references, making the post comparable to a review in
 a scientific journal.
 
-![**Figure 4**. The first post published on RRResearch in August 2006.]()
+![**Figure 4**. The first post published on RRResearch in August 2006.](/images/microblogging_rrresearch.png)
 
 The post received over 250 comments and a polished version was later
 published by *Science*, though the original article was not retracted.
@@ -360,7 +357,7 @@ might be primarily concerned with her blog’s reception among her
 students and peers.
 
 ![**Figure 5**. A Blog Around the Clock, Bora Zivkovic's blog at the
-Scientific American Blog Network.]()
+Scientific American Blog Network.](/images/microblogging_scientific_american.png)
 
 ## The Uses of Microblogs for Science: Two Scenarios
 
@@ -448,7 +445,7 @@ key issue to be aware of.
 
 ![**Figure 6**. Network visualization of retweets among users at the World
 Wide Web 2010 Conference (\#www2010), held in April 2010 in Raleigh,
-North Carolina.]()
+North Carolina.](/images/microblogging_visualisation.png)
 
 Examining the usage of *Twitter* during conferences, it is notable how
 specific the usage of scientists is compared to users of different
