@@ -29,6 +29,7 @@ body {
 }
 
 .offcanvas ul.nav li {
+  font-size: 17px;
   padding: 0 0 0 15px;
 }
 
@@ -51,4 +52,9 @@ ul.tag-list li {
 
 .glyphicon-home {
   padding-top: 15px;
+}
+
+.navmenu-brand {
+  font-size: 20px;
+  font-weight: bold;
 }

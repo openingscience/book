@@ -12,16 +12,16 @@
   {% endif %}
     <li><span class="glyphicon glyphicon-time"></span> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a></li>
     <li><span class="glyphicon glyphicon-edit"></span> <a href="http://prose.io/#openingscience/book/edit/master/{{page.path}}">Send Edit Request</a></li>
-    <li><span class="glyphicon glyphicon-home"></span> <a href="/">Home</a></li>
-    <li><span class="glyphicon glyphicon-info-sign"></span> <a href="/about.html">About</a></li>
-    <li><span class="glyphicon glyphicon-tags"></span> <a href="/tags.html">Tags</a></li>
     {% if page.tags and page.tags != empty %}
-    <li>
+    <li><span class="glyphicon glyphicon-tags"></span> Tags
       <ul class="tag-list">
         {% assign tags_list = page.tags %}
         {% include tags_list %}
       </ul>
     </li>
     {% endif %}
+    <li><span class="glyphicon glyphicon-home"></span> <a href="/">Home</a></li>
+    <li><span class="glyphicon glyphicon-info-sign"></span> <a href="/about.html">About</a></li>
+    <li><span class="glyphicon glyphicon-tags"></span> <a href="/tags.html">All Tags</a></li>
   </ul>
 </nav>
