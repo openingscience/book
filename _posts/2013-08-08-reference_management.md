@@ -549,7 +549,7 @@ and ReadCube which has a very nice user interface and a good PDF viewer.
 An extensive list and comparison of available reference management
 software [can be found on Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_reference_management_software).
 
-![**Figure 2**. Feature comparison of popular reference managers]()
+![**Figure 2**. Feature comparison of popular reference managers](/images/OpeningScienceEvolvingGuideFigures.019.png)
 
 ## Outlook
 
