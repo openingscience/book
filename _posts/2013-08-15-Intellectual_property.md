@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intellectual Property and Computational Science
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_15
 authors:
  - name: Victoria Stodden
@@ -64,7 +64,7 @@ and solutions that enable data and code sharing respectively. Each of
 these three research outputs, the research article, the data, and the
 code, require different legal analyses in the scientific context.
 
-##Section 1. Research Dissemination: The Narrative
+## Research Dissemination: The Narrative
 
 A typical empirical scientific workflow goes something like this: a
 research experiment is designed to answer a question; data are
@@ -223,7 +223,7 @@ need of a streamlined and uniform way of managing copyright over
 scientific publications, and also copyright on data and code, as
 elaborated in the next section.
 
-##Section 2. Research Dissemination: Data and “Raw Facts”
+## Research Dissemination: Data and “Raw Facts”
 
 Computational science today is facing a credibility crisis: without
 access to the data and computer code that underlies scientific
@@ -294,7 +294,7 @@ foresee different uses for the data than really reproducible research,
 or with scientists subject to a different Intellectual Property
 framework for data, such as those in Europe (Stodden 2011).
 
-##Section 3. Research Dissemination: Methods / Code / Tools
+## Research Dissemination: Methods / Code / Tools
 
 Computational results are often of a complexity that makes communicating
 the steps taken to arrive at a finding prohibitive in a typical
@@ -337,22 +337,24 @@ as the license accompanies any distributed code and the previous
 authors’ names are not used to promote any modified downstream software.
 The license is brief enough it can be included here:
 
+```
 Copyright (c) \<YEAR\>, \<OWNER\>
 
 All rights reserved.
+```
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
 met:
 
--   Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
--   Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
--   Neither the name of the \<ORGANIZATION\> nor the names of its
-    contributors may be used to endorse or promote products derived from
-    this software without specific prior written permission.
+* Redistributions of source code must retain the above copyright
+  notice, this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright
+  notice, this list of conditions and the following disclaimer in the
+  documentation and/or other materials provided with the distribution.
+* Neither the name of the \<ORGANIZATION\> nor the names of its
+  contributors may be used to endorse or promote products derived from
+  this software without specific prior written permission.
 
 This template is followed by a disclaimer releasing the author from
 liability for use of the code. The above copyright notice and list of
@@ -408,7 +410,7 @@ the scientific findings in question. The accompanying narrative,
 documentation, and meta-data are an essential part of understanding the
 research findings and for their verification and replication.
 
-##Conclusion
+## Conclusion
 
 The current set of scientific norms evolved to maximize the integrity of
 our stock of scientific knowledge. Hence they espouse independent
@@ -434,7 +436,7 @@ scholarly knowledge, it is imperative to address the barriers created by
 current Intellectual Property Law in such a way that access, reuse, and
 future research are promoted and preserved.
 
-##References
+## References
 
 Donoho, D. & Buckheit, J., 1995. *WaveLab and reproducible research*,
 Stanford Department of Statistics Technical Report.
