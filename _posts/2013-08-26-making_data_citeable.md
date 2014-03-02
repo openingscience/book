@@ -52,20 +52,14 @@ underlying data. For example:
 
 The dataset:
 
-```
-G.Yancheva, N. R. Nowaczyk et al (2007)
-Rock magnetism and X-ray flourescence spectrometry analyses on sediment
-cores of the Lake Huguang Maar, Southeast China, PANGAEA
-doi:10.1594/PANGAEA.587840 (http://dx.doi.org/10.1594/PANGAEA.587840)
-```
+**G.Yancheva, N. R. Nowaczyk et al** (2007). Rock magnetism and X-ray flourescence
+spectrometry analyses on sediment cores of the Lake Huguang Maar, Southeast China, *PANGAEA*
+doi:[10.1594/PANGAEA.587840](http://dx.doi.org/10.1594/PANGAEA.587840)
 
 Is a supplement to the article:
 
-```
-G. Ycheva, N. R. Nowaczyk et al (2007)
-Influence of the intertropical convergence zone on the East Asian monsoon
-Nature 445, 74-77 doi:10.1038/nature05431 (http://dx.doi.org/10.1038/nature05431)
-```
+**G. Ycheva, N. R. Nowaczyk et al** (2007). Influence of the intertropical
+convergence zone on the East Asian monsoon *Nature* 445, 74-77 doi:[10.1038/nature05431](http://dx.doi.org/10.1038/nature05431)
 
 Since 2005, TIB has been an official DOI Registration Agency with a
 focus on the registration of research data. The role of TIB is that of
