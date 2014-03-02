@@ -163,7 +163,7 @@ COinS.
 ![**Figure 1**. Showing COinS in action. At the click of a button, a
 reference is included into the reference manager software (Zotero) from
 information that is contained in the COinS information in the displayed
-web page: No need to manually copy references.]()
+web page: No need to manually copy references.](/images/reference_management_coins.jpg)
 
 ### Digital Object Identifiers (DOIs) and other Unique Identifiers
 
@@ -549,7 +549,7 @@ and ReadCube which has a very nice user interface and a good PDF viewer.
 An extensive list and comparison of available reference management
 software [can be found on Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_reference_management_software).
 
-![**Figure 2**. Feature comparison of popular reference managers](/images/OpeningScienceEvolvingGuideFigures.019.png)
+![**Figure 2**. Feature comparison of popular reference managers](/images/reference_management_comparison.png)
 
 ## Outlook
 
