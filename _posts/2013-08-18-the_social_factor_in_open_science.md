@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Social Factor of Open Science
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_18
 authors:
  - name: Tobias Fries
@@ -36,7 +36,7 @@ is conceivable that networking systems and search engine technology will
 consequently become increasingly prone to manipulation, this will at the
 same time be preventable up to a certain point.
 
-##The Transition from Science to Open Science
+## The Transition from Science to Open Science
 
 Admittedly some way behind the consumer sector, the field of science is
 now beginning to grow accustomed to the Internet. Certain ingrained
@@ -69,12 +69,12 @@ No matter how brilliant an unavailable text may be, if it is unknown,
 nobody will cite it. To put it another way, it is not the content alone
 that leads to its subsequent utilization in academic circles but also
 the extent of its reach. This correlation can also be expressed in the
-form of an equation, by dividing the number of quotes (k) by the number
-of times a text is read (n):
+form of an equation, by dividing the number of quotes *k* by the number
+of times a text is read *n*:
 
-1) k~Cit~ / n~Read~ = C
+${\frac{k_{Cit}}{n_{Read}} = C}$
 
-Factor C is used here to denote the citation conversion, a coefficient
+Factor *C* is used here to denote the citation conversion, a coefficient
 already familiar from conventional web analysis. The conversion rate
 refers to the ratio between the number of orders placed with online
 shops and the overall amount of web traffic or the number of
