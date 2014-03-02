@@ -1,10 +1,11 @@
 ---
 layout: post
 title: (Micro)blogging Science? Notes on Potentials and Constraints of New Forms of Scholarly Communication
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_6
 authors:
  - name:  Cornelius Puschmann
+   orcid: "0000-0002-3189-0662"
 category: tools
 tags: [blogging]
 abstract: "Academic publishing, as a practice and as a business, is undergoing the
@@ -236,20 +237,25 @@ Since August 2006, Redfield has posted over 900 entries on the blog,
 discussing various issues of her research. Her initial post gives a good
 idea about the direction of the blog:
 
-    This is my first post to this new blog.
+```
+This is my first post to this new blog.
 
-    The purpose of keeping the blog is to give me a semi-public place to describe the
-    ongoing process of doing and thinking about my lab’s research. I hope I’ll use it
-    to describe/explain (mainly to myself) the scientific issues I'm thinking about:
+The purpose of keeping the blog is to give me a semi-public place to
+describe the ongoing process of doing and thinking about my lab’s
+research. I hope I’ll use it to describe/explain (mainly to myself)
+the scientific issues I'm thinking about:
 
-    - what experiments we’ve done
-    - what the results were if they worked (or possible explanations for
-      why they didn’t work)
-    - what I think the results mean for the questions we’re trying to answer
-    - what experiments I think we might do or should do when time and resources permit.
+- what experiments we’ve done
+- what the results were if they worked (or possible explanations for
+  why they didn’t work)
+- what I think the results mean for the questions we’re trying to
+  answer
+- what experiments I think we might do or should do when time and
+  resources permit.
 
-    The purpose of this post, however, is mainly to see what happens when I click on
-    ‘Publish Post’
+The purpose of this post, however, is mainly to see what happens when
+I click on ‘Publish Post’
+```
 
 *(from: [http://rrresearch.fieldofscience.com/2006_08_01_archive.html](http://rrresearch.fieldofscience.com/2006_08_01_archive.html))*
 
