@@ -43,7 +43,7 @@ h3, h4, h5, h6 {
   margin: 0;
 }
 
-pre, code {
+pre {
   font-size: $font-size-small;
 }
 
@@ -53,6 +53,7 @@ p {
 
 blockquote {
   margin-left: -35px;
+  margin-right: -35px;
   font-style: italic;
   border-left-color: #bbb349;
 }
