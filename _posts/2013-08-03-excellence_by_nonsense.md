@@ -80,9 +80,9 @@ reach for the majority of working class kids. Since the 1960s however,
 increasing access to tertiary education occurred, for which the term
 “mass higher education” (Trow 1997) was coined.
 
-From 1950, first-year student rates increased from an average of 5 %
-in the industrialized countries to up to 50 % at the
-beginning of the 21st century (Switzerland, with its 20 %, is
+From 1950, first-year student rates increased from an average of 5%
+in the industrialized countries to up to 50% at the
+beginning of the 21st century (Switzerland, with its 20%, is
 an exception). Universities and politics, however, were not prepared to
 deal with this enormous increase. It was believed to be possible to
 carry on with 1,000 students in the same way as has been done with 50
@@ -312,7 +312,7 @@ whether they plead for acceptance (very rare), revision, or rejection
 (most common) of the article submitted to the journal in question. Quite
 a few top journals pride themselves on high rejection rates, supposedly
 reflecting the high quality of these journals (Fröhlich 2007). For such
-journals the rejection rates amount to approximately 95 %, which
+journals the rejection rates amount to approximately 95%, which
 encourages the reviewers to reject manuscripts in almost all cases in
 order to defend this important “quality measure”. Solely manuscripts
 that find favor with their reviewers get published, because although the
@@ -348,15 +348,15 @@ Centre for Science and Technology Studies at the University of Leiden
 publications in professional journals worldwide increased from
 approximately 686,000 in 1990 to about 1,260,000 in 2006, which
 corresponds to an increase of 84 %. The annual growth rate
-calculated on this basis was more than 5 %. The number of
+calculated on this basis was more than 5%. The number of
 scientific publications grows faster than the global economy and
 significantly faster than the production of goods and services in
 industrial countries, from where the largest number of publications
 originates (OECD 2008).
 
 By far the largest share of world production of scientific articles comes
-from the U.S. (25 %), followed by Britain with 6.9 %. Germany produces 6.3 %,
-Switzerland 1.5 %, and Austria 0.7 % (SBF 2007). However, calculating
+from the U.S. (25%), followed by Britain with 6.9%. Germany produces 6.3%,
+Switzerland 1.5%, and Austria 0.7% (SBF 2007). However, calculating
 published articles per capita, Switzerland becomes the world’s leading
 country, because there are 2.5 published scientific articles per 1,000
 inhabitants, while in the U.S. there are 1.2 articles, and only one article
@@ -500,7 +500,7 @@ the anonymity of the peer-review process.
 This fact can clearly be seen when looking at the origin of scientists
 who publish in top journals. For example, a study of the top five
 journals in economics (Frey et al. 2009, p. 153) shows that of the 275
-articles published in 2007, 43 % originated from scientists
+articles published in 2007, 43% originated from scientists
 working at only a few top American universities (Harvard, Yale,
 Princeton, MIT, Chicago, Berkeley, Stanford). The professors of these
 universities are basically set as authors and the rest must then go
@@ -651,7 +651,7 @@ on the one hand, the blessing of competition keeps being praised, but
 on the other hand, a monopoly for Thomson Scientific is allowed, which
 enables Thomson Scientific to sell its secretly fabricated Impact
 Factors to academic institutions at a high price, although in many
-sciences less than 50 % of today’s existing scientific journals
+sciences less than 50% of today’s existing scientific journals
 are included in the calculation.
 
 A concrete example will show how numbers are fabricated mindlessly. The
@@ -718,7 +718,7 @@ research output is of course not allowed, but in reality proves to be an
 entirely effective way to increase one's research productivity. As we
 have seen above, the peer-review process often fails to discover such
 double publications. Therefore, an anonymous survey on 3,000 American
-scientists from the year 2002 shows, at least 4.7 % of the
+scientists from the year 2002 shows, at least 4.7% of the
 participating scientists admitted to have published the same result
 several times (Six 2008).
 
@@ -763,8 +763,8 @@ trend appears to be particularly prevalent, which also explains why the
 average number of authors per article in modern medicine is so high.
 Based on the articles published in 2002, every tenth name in the author
 list of the “British Medical Journal” and one in five in the “Annals of
-Internal Medicine”, were phantom authors (see Baettge 2008). Furthermore, 60
-% of all articles published in the “Annals of Internal Medicine”
+Internal Medicine”, were phantom authors (see Baettge 2008). Furthermore,
+60% of all articles published in the “Annals of Internal Medicine”
 cited at least one phantom author. No wonder are there clinical directors
 with over 50 publications per year (see Six 2008), which, if they had really
 contributed to all these publications, would be beyond the capacity of a
@@ -1080,7 +1080,7 @@ sufficiently large workload for them. Therefore, a large portion of the
 research is just used to maintain this bureaucracy. Already in 1997, the
 European Court of Auditors criticized the EU in relation with the 4th
 Research Program as an “enormous bureaucracy and a useless waste of
-money”. According to experts, only about 60 % of the 13 billion
+money”. According to experts, only about 60% of the 13 billion
 euros, which were provided to the 4th Research Program, were actually
 received by research institutions. Not much has been changed in the
 following programs. The responsible coordinator of the Budgetary Control
@@ -1100,7 +1100,7 @@ hundreds of advisor posts have been created just to help scientists to
 make a successful project application. Even if you have completed
 the tedious work involved in making an application, the chance of success is low. Since
 the 6th Research Program which began in 2002, the success rate of
-applications lies between 15 and 20 %, while before the success
+applications lies between 15 and 20%, while before the success
 rate of applications was at about one quarter (figures from European
 Commision, 2008). In other words, between 80 and 85 percent of
 applications, involving about 12 researchers on average today, are not
