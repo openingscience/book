@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Excellence by Nonsense: The Competition for Publications in Modern Science"
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_3
 authors:
  - name: Mathias Binswanger
@@ -143,12 +143,12 @@ all the rest. This fallacy of composition applies here as well. Instead,
 the term ‘excellence’ became a meaningless catchword. Philosopher
 Mittelstrass (2007) writes:
 
-*“Until now, no one took offence at the labeling of excellent cuisine,
+> Until now, no one took offence at the labeling of excellent cuisine,
 excellent performance, excellent academics or excellent scientists. […]
 In the case of science this changed since science policy has occupied
 this term and talks about excellent research, excellent research
 establishments, clusters of excellence and Excellence Initiatives, in
-endless and almost unbearable repetitions.”*
+endless and almost unbearable repetitions.
 
 Yet how do we actually know what excellence is and where it is
 worthwhile to foster a scientific elite? In reality, no one actually
@@ -599,23 +599,23 @@ Research, consisting of mathematicians and statisticians, talks in a
 report dated 2008 (Adler et al. 2008, p. 3) about a *Culture of Numbers*
 and sums up the assessment of the situation as follows:
 
-*“The drive towards more transparency and accountability in the academic
+>The drive towards more transparency and accountability in the academic
 world has created a ‘culture of numbers’ in which institutions and
 individuals believe that fair decisions can be reached by algorithmic
 evaluation of some statistical data; unable to measure quality (the
 ultimate goal), decision-makers replace quality by numbers that they can
 measure. (...) But this faith in the accuracy, independence, and
-efficacy of metrics is misplaced.”*
+efficacy of metrics is misplaced.
 
 This is a warning coming from experts, which we should take seriously.
 Also, the German Research Foundation (DFG 2002) warned a few years ago
 about believing too much in quantitative measures (translated by the
 author):
 
-*“Quantitative indicators are comfortable, they seem objective and are
+> Quantitative indicators are comfortable, they seem objective and are
 (...) surrounded by an aura of hardly disputable authority.
 Nevertheless, the naive trust in numbers is a fatal misbelief which each
-faculty (...) should counteract.”*
+faculty (...) should counteract.
 
 However, the similarities between various publication rankings are low
 because different quality measurements lead to very different results
@@ -661,12 +661,12 @@ author, Miriam Hein (who studied economics) naively propagates a method
 for measuring quality without being aware of the perverse incentives
 this would create. In the introduction we read (Hein 2005, p. 3):
 
-*“An intended increase in research performance can probably be induced
+> An intended increase in research performance can probably be induced
 only by the use of incentive-compatible management tools. Research units
 and individual researchers who undertake high quality research must [an
 imperative!] be rewarded, and those who are less successful, should be
 sanctioned. It is therefore important to identify good and bad research.
-Well-designed ranking tools can serve this purpose.”*
+Well-designed ranking tools can serve this purpose.
 
 The above-quoted section talks about “high quality research” within the
 same article and a few pages later a proposal for the measurement and
@@ -674,10 +674,7 @@ calculation of the quality of research follows. The average “quality
 research” (DQ) of an institution shall be determined according to the
 following formula:
 
-<center>
-<Image:>
-
-</center>
+${DQ = \frac{FX}{FX_{S}} = \frac{\sum_i \sum_k \frac{p_{ki}w_{k}}{n_{ki}}}{\sum_i \sum_k \frac{p_{ki}}{n_{ki}}}}$
 
 *Pki* stands for the number of pages in publication *k* of scientist
 *i*, *n* denotes the number of authors of the publication *k*, and *wk*
@@ -1021,11 +1018,11 @@ today, and the application process at some institutions has become like
 a maze which only a few specialists can guide you through. An expert in
 this field, the sociologist Münch (2009 p. 8) writes:
 
-*“Staged competitions devour extensive stuff and resources for
+> Staged competitions devour extensive stuff and resources for
 coordination, for application processes, for evaluation and
 implementation which eat into actual research work, so that exactly the
 very best researchers are falling into a newly created control machine
-and run the risk of drowning in its depths.”*
+and run the risk of drowning in its depths.
 
 The actual research today rests largely on the shoulders of assistants
 and graduate students whose low hourly compensations still allow them to
