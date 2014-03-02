@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Public Knowledge Project: Open Source Tools for Open Access to Scholarly Communication"
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_11
 authors:
  - name: James MacGregor
@@ -220,7 +220,7 @@ takes only a second to create; after they have been created, separate
 journal managers can be enrolled in each instance, and these journal
 managers subsequently take over day-to-day administration tasks.
 
-### (b) Simplicity in Managemen
+### (b) Simplicity in Management
 
 After the journal, conference or press has been created, the manager
 completes a guided setup process where all core components related to
