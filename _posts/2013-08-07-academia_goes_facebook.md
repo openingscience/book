@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Academia Goes Facebook? The Potential of Social Network Sites in the Scholarly Realm"
-modified_date: 19 January 2014
+modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_7
 authors:
  - name:  Michael Nentwich
@@ -322,57 +322,57 @@ chapter on science-specific SNS.
 
 We found the following main practices:
 
-*Communication and cooperation:* One specific strength of
-science-specific SNS could be their potential to support communication
-and cooperation among researchers. We did not observe, however, many
-efficient and successful working groups in these SNS as of yet (they
-may, however, exist, but are hidden from outsiders). A few
-self-experiments in our own area have been only modestly successful.
-They mainly failed because of a lack of potential cooperation partners
-inside the chosen SNS as we were not able to motivate all relevant
-colleagues to actively participate in that particular SNS. In contrast
-to the attraction of large general SNS, the rather young and small
-science-specific networks suffer from a lack of sufficient numbers of
-active users (see the section “The Hard Way to the Critical Mass”). In
-addition, we observed the following further obstacles: technical
-limitations, lacking experience of users, skepticism regarding file
-security, the need to firstly develop a common culture of online
-collaboration, and, finally and notably, the problem of multiple
-channels (see the section Multiple Channels, Information Overload and
-Filtering).
+* *Communication and cooperation:* One specific strength of
+  science-specific SNS could be their potential to support communication
+  and cooperation among researchers. We did not observe, however, many
+  efficient and successful working groups in these SNS as of yet (they
+  may, however, exist, but are hidden from outsiders). A few
+  self-experiments in our own area have been only modestly successful.
+  They mainly failed because of a lack of potential cooperation partners
+  inside the chosen SNS as we were not able to motivate all relevant
+  colleagues to actively participate in that particular SNS. In contrast
+  to the attraction of large general SNS, the rather young and small
+  science-specific networks suffer from a lack of sufficient numbers of
+  active users (see the section “The Hard Way to the Critical Mass”). In
+  addition, we observed the following further obstacles: technical
+  limitations, lacking experience of users, skepticism regarding file
+  security, the need to firstly develop a common culture of online
+  collaboration, and, finally and notably, the problem of multiple
+  channels (see the section Multiple Channels, Information Overload and
+  Filtering).
 
-*Public relations and self-marketing:* Because of their limited target
-group (mainly peers), these SNS are of limited use for public relations,
-as you can hardly reach larger groups outside of the science communities
-in question. In contrast, it is potentially easier to target workers in
-particular fields by means of the sophisticated mechanisms for
-networking that most SNS provide. Similarly to general SNS,
-self-marketing is also possible in science-specific SNS when focused on
-one’s peer group, for example, by drawing attention to one’s own
-publications. Based on our observations, this is currently probably the
-most widely used activity. There is already a very high coverage of
-publications in certain fields in SNS like *Mendeley* [@li_validating_2011;
-@bar-ilan_jasistmendeley_2012].
+* *Public relations and self-marketing:* Because of their limited target
+  group (mainly peers), these SNS are of limited use for public relations,
+  as you can hardly reach larger groups outside of the science communities
+  in question. In contrast, it is potentially easier to target workers in
+  particular fields by means of the sophisticated mechanisms for
+  networking that most SNS provide. Similarly to general SNS,
+  self-marketing is also possible in science-specific SNS when focused on
+  one’s peer group, for example, by drawing attention to one’s own
+  publications. Based on our observations, this is currently probably the
+  most widely used activity. There is already a very high coverage of
+  publications in certain fields in SNS like *Mendeley* [@li_validating_2011;
+  @bar-ilan_jasistmendeley_2012].
 
-*E-teaching:* We did not observe that science-specific SNS are
-frequently used in teaching. There are specific functions to support it,
-for instance in *research.iversity*, but there is not much known yet
-about their actual usage. Obviously, these professional networks do not
-seem particularly attractive to students, in contrast to *Facebook* and
-other general SNS, because they fit less well with their day-to-day
-needs and more with the workaday life of a scientist. Hence, students
-are hardly reachable via this channel, except in experimental settings.
-However, certain effective student-orientated platforms exist, for
-example *Carnets2 Descartes* at Paris Descartes University. In any case,
-SNS may turn out being a good platform for exchange among teaching
-scientists when they prepare their courses.
+* *E-teaching:* We did not observe that science-specific SNS are
+  frequently used in teaching. There are specific functions to support it,
+  for instance in *research.iversity*, but there is not much known yet
+  about their actual usage. Obviously, these professional networks do not
+  seem particularly attractive to students, in contrast to *Facebook* and
+  other general SNS, because they fit less well with their day-to-day
+  needs and more with the workaday life of a scientist. Hence, students
+  are hardly reachable via this channel, except in experimental settings.
+  However, certain effective student-orientated platforms exist, for
+  example *Carnets2 Descartes* at Paris Descartes University. In any case,
+  SNS may turn out being a good platform for exchange among teaching
+  scientists when they prepare their courses.
 
-*Job exchange:* These services have the advantage of having a
-preselected target group in science-specific SNS as opposed to general
-ones. In September 2012, for example, we found more than 1.000 job
-offers on *ResearchGate*, mainly from biomedical enterprises, and some
-130 on *Academia.edu*. The extent to which these job exchanges are
-actually used is unknown to us.
+* *Job exchange:* These services have the advantage of having a
+  preselected target group in science-specific SNS as opposed to general
+  ones. In September 2012, for example, we found more than 1.000 job
+  offers on *ResearchGate*, mainly from biomedical enterprises, and some
+  130 on *Academia.edu*. The extent to which these job exchanges are
+  actually used is unknown to us.
 
 ### Assessing the Potential Future and Impacts of SNS in Academia
 
