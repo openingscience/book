@@ -121,7 +121,7 @@ open publication and open accessible research data (see Chapter 14,
 Pampel & Dallmeier-Tiessen: Open Research Data)*.* “Open inquiry is at
 the heart of scientific enterprise … We are now on the brink of an
 achievable aim: for all science literature to be online, for all of the
-data to be online and for the two to be interoperable” [@boulton_science_2012].
+data to be online and for the two to be interoperable” [@boulton_2012].
 
 In several countries, initiatives are afoot to build a legal foundation
 to help broadening the road to a world of openly accessible scientific
@@ -254,7 +254,7 @@ build a positive resonance in their research community. Today, Open
 Access journals are, of course, embedded within the high ranking
 journals in their fields. More and more get listed, e.g. in the Journal
 Citation Report of *Thomson-Reuters* (more than ten percent of all
-ranked titles).[^4] Laakso et al. [-@laakso_development_2011] give a comprehensive overview
+ranked titles).[^4] Laakso et al. [-@laakso_2011] give a comprehensive overview
 of the development using a distinction between “The pioneering years
 (1993–1999), the innovation years (2000–2004), and the consolidation
 years (2005–2009)”. For the future a more numerous migration from
@@ -281,7 +281,7 @@ grass roots for Open Access in the nineties.
 [PubMedCentral](http://www.ncbi.nlm.nih.gov/pmc) is another example within the
 field of biomedical and life sciences research.
 
-In principle, between 70 and 80 % of scientific journals allow such a
+In principle, between 70 and 80% of scientific journals allow such a
 method of self-archiving. Generally there are some restrictions which
 have to be complied by the authors. In the majority of cases, depositing
 a version of the original article is not allowed, but rather a preprint
@@ -391,8 +391,8 @@ matter. Björk et al. write *“There is a clear pattern to the internal
 distribution between green and gold in the different disciplines
 studied. In all the life sciences, gold is the dominating OA access
 channel. The picture is reversed in the other disciplines where green
-dominated. The lowest overall OA share is in chemistry with 13 % and the
-highest in earth sciences with 33 %.”* [@bjork_open_2010].
+dominated. The lowest overall OA share is in chemistry with 13% and the
+highest in earth sciences with 33%.”* [@bjork_2010].
 
 ## New Models
 
@@ -409,7 +409,7 @@ open access charges can be managed. Initiatives like the [“Compact for
 Open-Access Publishing Equity”](http://oacompact.org/compact/) are paving the way to such workflows
 in order to make them a matter of course. The Study of [Open Access
 Publishing (SOAP)](http://project-soap.eu/) gave evidence of this challenge:
-“Almost 40 % [scientists] said that a lack of funding for publication
+“Almost 40% [scientists] said that a lack of funding for publication
 fees was a deterrent …” (Vogel 2011). Institutional libraries must face
 this challenge and take on a new role. This new role is not too far from
 their traditional role: paying for access to information as a service
@@ -428,7 +428,7 @@ view this may be interesting, but usually the price level is high and
 only a few authors utilize this option. Seen from an institutional point
 of view, this is a problematic business model, as article fees and
 subscription fees are normally not yet combined. Therefore, institutions
-pay twice to a publisher [@bjork_hybrid_2012]. Obviously such a hybrid is not a
+pay twice to a publisher [@bjork_2012]. Obviously such a hybrid is not a
 transition path to Gold.
 
 Since traditional publishers have adopted the Open Access business model
@@ -444,7 +444,7 @@ For example, a lot of publishers are still locked up in thinking in
 print terms. In parallel, a common fear is that ACPs will go up and up
 when traditional publishers adopt the gold model and will become
 unaffordable. Charges differ within a broad range of some hundred Euros
-up to over 3000 Euros [@leptin_open_2012].
+up to over 3000 Euros [@leptin_2012].
 
 We now see a mixture of the roles mentioned. As an example, libraries
 can, in certain cases like grey literature, switch to a publisher’s
@@ -555,7 +555,7 @@ licenses.
 
 ## Benefits
 
-Open Access publications proved to have citation advantages [@gargouri_self-selected_2010]
+Open Access publications proved to have citation advantages [@gargouri_2010]
 resulting from open accessibility of scholarly results
 formerly only available in closed access. It guarantees faster
 communication and discussion of scientific results. Therefore, it
@@ -569,11 +569,11 @@ to openly accessible texts will certainly be available. This will make
 interdisciplinary work easier and productive. Reuse, due to open
 licenses, the “possibility to translate, combine, analyze, adapt, and
 preserve the scientific material” is easier and will lead to new
-outcomes [@carroll_why_2011].
+outcomes [@carroll_2011].
 
 The statement “In the online era, researchers’ own ‘mandate’ will no
 longer just be ‘publish-or-perish’ but ‘self-archive to flourish’”
-[@gargouri_self-selected_2010] can be extended to “researchers’ own
+[@gargouri_2010] can be extended to “researchers’ own
 ‘mandate’ will no longer just be ‘publish-or-perish’ but give open
 access to flourish”.
 
