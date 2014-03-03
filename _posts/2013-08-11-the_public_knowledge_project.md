@@ -6,6 +6,7 @@ doi: 10.1007/978-3-319-00026-8_11
 authors:
  - name: James MacGregor
  - name: Kevin Stranack
+   orcid: 0000-0001-8790-427X
  - name: John Willinsky
    orcid: 0000-0001-6192-8687
 categories: [tools]

@@ -5,6 +5,7 @@ modified_date: 2 March 2014
 doi: 10.1007/978-3-319-00026-8_7
 authors:
  - name:  Michael Nentwich
+   orcid: 0000-0003-2269-0076
  - name:  René König
 category: tools
 abstract: "Social network sites (SNS) have not only become a fundamental part of

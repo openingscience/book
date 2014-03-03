@@ -3,11 +3,12 @@ layout: post
 title: Creative Commons Licences
 modified_date: 19 January 2014
 doi: "10.1007/978-3-319-00026-8_19"
-authors: 
+authors:
   - name: Sascha Friesike
-categories: 
+    orcid: "0000-0002-9314-5633"
+categories:
   - cases_recipes_howtos
-tags: 
+tags:
   - licenses
 published: true
 ---
