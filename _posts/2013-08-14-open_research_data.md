@@ -107,12 +107,15 @@ clear that diverse basic conditions must be created before Data Sharing
 can become a standard in scientific practice. Access and usage
 conditions must be defined. Murray-Rust et al. [^2] for example demands
 the free accessibility in the public domain in their “Panton
-Principles”: “By open data in science we mean that it is freely
+Principles”:
+
+>By open data in science we mean that it is freely
 available on the public Internet permitting any user to download, copy,
 analyse, re-process, pass them to software or use them for any other
 purpose without financial, legal, or technical barriers other than those
-inseparable from gaining access to the internet itself.” The majority of
-the disciplines are still far away from the implementation of these
+inseparable from gaining access to the internet itself.
+
+The majority of the disciplines are still far away from the implementation of these
 “[p]rinciples for open data in science”, however. In addition, there are
 many cases in the life sciences and social science disciplines in which,
 because of data protection and personal rights, Data Sharing is not
