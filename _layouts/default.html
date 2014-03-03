@@ -37,14 +37,9 @@
               {% if page.next.url %}
                 <hr>
                 <div class="toc-item">
-                  <h3>Next: <a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
+                  <h3>Next chapter: <a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
                   {% if page.next.authors %}<p>{% for author in page.next.authors %}
                     {{ author.name }}{% if forloop.rindex > 2 %}, {% elsif forloop.rindex > 1 %} & {% endif %}{% endfor %}</p>
-                  {% endif %}
-                  {% if page.next.abstract %}
-                    <div class="abstract">
-                      {{ page.next.abstract | markdownify }}
-                    </div>
                   {% endif %}
                 </div>
               {% endif %}
