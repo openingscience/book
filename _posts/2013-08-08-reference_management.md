@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reference Management
-modified_date: 1 March 2014
+modified_date: 4 March 2014
 doi: 10.1007/978-3-319-00026-8_8
 authors:
   - name: Martin Fenner
