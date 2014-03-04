@@ -43,8 +43,9 @@ h3, h4, h5, h6 {
   margin: 0;
 }
 
-pre {
-  font-size: $font-size-small;
+pre, code {
+  font-size: 14px;
+  font-style: normal;
 }
 
 p {
