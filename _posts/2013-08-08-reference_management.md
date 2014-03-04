@@ -254,9 +254,10 @@ managers.
 
 Most reference managers support a large number of citation styles:
 [EndNote](http://endnote.com/downloads/styles) supports
-over 5,000 bibliographic styles, and [Mendeley](http://www.mendeley.com/citationstyles/),[Zotero](http://www.zotero.org/support/styles),
-and Papers all support 2750
-citation styles. Some reference managers include a style editor, in case
+over 5,000 bibliographic styles, and [Mendeley](http://www.mendeley.com/citationstyles/),
+[Zotero](http://www.zotero.org/support/styles),
+and Papers all support [more than 6,000 citation styles](http://blog.mendeley.com/academic-features/mendeley-contributes-2000-citation-styles-to-the-open-citation-style-repository-at-citationstyles-org/).
+Some reference managers include a style editor, in case
 a particular style is not yet supported. Citation styles used to be in
 proprietary format and owned by the publisher of the reference manager,
 but the [Citation Style Language](http://citationstyles.org/) (CSL)
