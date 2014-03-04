@@ -50,13 +50,13 @@ researcher.
 ## What is a Reference Manager?
 
 A reference manager supports researchers in performing three basic
-research steps: searching, storing, and writing (Fenner 2010a). It helps
+research steps: searching, storing, and writing [@fenner_2010a]. It helps
 researchers find relevant literature, allows them to store papers and
 their bibliographic metadata in a personal database for later retrieval,
 and allows researchers to insert citations and references in a chosen
 citation style when writing a text. To support those steps, a reference
 manager should have the following functionalities as identified by
-Gilmour and Cobus-Kuo (2011):
+Gilmour and Cobus-Kuo [-@gilmour_2011]:
 
 1.  Import citations from bibliographic databases and websites
 2.  Gather metadata from PDF files
@@ -229,8 +229,7 @@ the DOI, for all references. This allows them to double-check the
 reference information against bibliographic databases (using tools such
 as eXtyles), and to format the citations into their preferred style.
 Citation information in free-text format can contain errors, and these
-errors are propagated if citations are entered manually (see Specht
-2010)
+errors are propagated if citations are entered manually (see [@specht_2010]).
 
 Citation styles are needed not only to correctly identify all references
 (for which bibliographic formats and digital identifiers are better
@@ -262,7 +261,8 @@ a particular style is not yet supported. Citation styles used to be in
 proprietary format and owned by the publisher of the reference manager,
 but the [Citation Style Language](http://citationstyles.org/) (CSL)
 has evolved as an open XML-based language to describe the formatting of
-citations and bibliographies. Originally written for Zotero, CSL is now
+citations and bibliographies. Originally created by Bruce D'Arcus and further
+developed in collaboration with Zotero developer Simon Kornblith, CSL is now
 also used by Mendeley, Papers, and many other tools and services. In
 2012, a [web-based editor](http://editor.citationstyles.org/about/) to
 create and edit CSL styles was launched, facilitating the creation of
@@ -549,7 +549,7 @@ and ReadCube which has a very nice user interface and a good PDF viewer.
 An extensive list and comparison of available reference management
 software [can be found on Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_reference_management_software).
 
-![**Figure 2**. Feature comparison of popular reference managers](/images/reference_management_comparison.png)
+![**Figure 2**. Feature comparison of popular reference managers. Adapted from [@fenner_2010b].](/images/reference_management_comparison.png)
 
 ## Outlook
 
@@ -577,17 +577,3 @@ ask for reference lists in standard bibliographic formats using digital
 identifiers.
 
 ## References
-
-Fenner, M., 2010a. Reference Management meets Web 2.0. *Cellular Therapy
-and Transplantation*, 2(6).
-
-Fenner, M., 2010b. Reference Manager Overview. *Gobbledygook*. Available
-at: <http://blogs.plos.org/mfenner/reference-manager-overview/>.
-
-Gilmour, R. & Cobus-Kuo, L., 2011. Reference Management Software: a
-Comparative Analysis of Four Products. In *Issues in Science and
-Technology Librarianship*. Available at:
-<http://www.istl.org/11-summer/refereed2.html>.
-
-Specht, C.G., 2010. Opinion: Mutations of citations. Available at:
-<http://www.the-scientist.com/?articles.view/articleNo/29252/title/Opinion--Mutations-of-citations/>.
