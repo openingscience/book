@@ -1,5 +1,5 @@
 language: haskell
-before_install:
+install:
  - cabal update
  - cabal install pandoc pandoc-citeproc
 script: bundle exec rake site:deploy
