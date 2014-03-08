@@ -15,7 +15,15 @@ permalink: none
 paginate: 50
 paginate_path: "page:num"
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
 
 title: Opening Science
 name: Opening Science
