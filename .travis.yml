@@ -1,4 +1,5 @@
 language: haskell
+cache: bundler
 install: cabal install pandoc pandoc-citeproc
 script:
  - bundle install
