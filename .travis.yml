@@ -1,9 +1,8 @@
 language: haskell
-cache: bundler
-install: cabal install pandoc pandoc-citeproc
-script:
+install:
  - bundle install
- - bundle exec rake site:deploy
+ - travis_retry cabal install pandoc pandoc-citeproc
+script: bundle exec rake site:deploy
 env:
   global:
     secure: "KdzjwA7NIzbgp5tl8aNIiseswacSh+oKjhwCvipH3JA0EZ85LKFSY6sr0rXSivPsqcTyeAX+uzW+ICIZZn5ynreN40Y46sZqniXwciCEg3enkXnxNYHGJtyzUwQ1sE54LEiPPnx6DjUInMfuDygSRSba8iNDx64YQEVbjScP4Wc="

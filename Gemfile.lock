@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://production.cf.rubygems.org/
   specs:
     bibtex-ruby (2.3.4)
       latex-decode (>= 0.0.6)

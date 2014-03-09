@@ -199,7 +199,7 @@ namespace :site do
     # Commit and push to github
     sha = `git log`.match(/[a-z0-9]{40}/)[0]
     Dir.chdir(CONFIG["destination"]) do
-      sh "git add ."
+      sh "git add --all ."
       sh "git commit -m 'Updating to #{CONFIG['github_user']}/#{CONFIG['source_repo']}@#{sha}.'"
       sh "git push origin master"
       puts "Updated destination repo pushed to GitHub Pages"
