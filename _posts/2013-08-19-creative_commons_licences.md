@@ -3,21 +3,21 @@ layout: post
 title: Creative Commons Licences
 modified_date: 19 January 2014
 doi: "10.1007/978-3-319-00026-8_19"
-authors:
+authors: 
   - name: Sascha Friesike
     orcid: "0000-0002-9314-5633"
-categories:
+categories: 
   - cases_recipes_howtos
-tags:
+tags: 
   - licenses
 published: true
 ---
 
 Licences are a topic many researchers shy away from. And it is common
 behavior that property rights are unknowingly signed away. In this
-little section we would like to present the different creative commons
+little section we would like to present the different Creative Commons
 licences one is oftentimes confronted with. This book for instance is
-published under a creative commons license. They are widely used and
+published under a Creative Commons license. They are widely used and
 especially popular online and it is helpful to any researcher to
 understand what they mean.
 
