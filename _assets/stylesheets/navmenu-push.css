@@ -15,9 +15,6 @@ body {
   .navbar-toggle {
     display: block; /* force showing the toggle */
   }
-}
-
-@media (min-width: 992px) {
   body {
     padding: 0;
   }
