@@ -59,6 +59,8 @@ blockquote {
   border-left-color: #bbb349;
 }
 
+.col-md-8 ol, .col-md-8 ul { list-style-position: outside; margin-left: -40px; }
+
 p span.math {
   margin-left: 1em;
 }

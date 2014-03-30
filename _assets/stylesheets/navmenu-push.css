@@ -55,3 +55,8 @@ ul.tag-list li {
   font-size: 20px;
   font-weight: bold;
 }
+
+.logo {
+  padding-top: 25px;
+  padding-left: 8px;
+}
