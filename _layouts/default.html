@@ -31,7 +31,7 @@
       <div class="content">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            {{ content | to_scholmd }}
+            {{ content | fluidify }}
 
             <div class="license">
               {% if page.next.url %}

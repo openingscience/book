@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dynamic Publication Formats and Collaborative Authoring"
-modified_date: 30 March 2014
+modified_date: 2 April 2014
 doi: 10.1007/978-3-319-00026-8_13
 authors:
  - name: Lambert Heller
@@ -224,19 +224,12 @@ being used which are currently not credited. Only the discussion
 sections of new peer-reviewed publications are a chance for accredited
 scholarly criticism.
 
-<figure>
-  <a href="/images/dynamic_publication_formats.jpg" title="" data-fluidbox>
-      <img src="/images/dynamic_publication_formats.jpg" title="" alt="" />
-  </a>
-  <figcaption>
-    **Figure 1**. Today’s scientific publications are static—meaning finalized
+![**Figure 1**. Today’s scientific publications are static—meaning finalized
 versions exist that cannot be changed. Dynamic publication formats have
 become possible with the Internet. The publication can now evolve with
 the development of new knowledge. In dynamic publications many parts and
 texts can be ‘reused’ (as represented by the parts of the text that keep
-the color; new additions represent novel scientific knowledge).
-  </figcaption>
-</figure>
+the color; new additions represent novel scientific knowledge).](/images/dynamic_publication_formats.jpg)
 
 ### Redundancy in scientific publications—currently no reuse and remixing
 
@@ -269,18 +262,11 @@ manner is a considerable feat which is beyond the pure transportation of
 information. Here, the reusing and remixing of content has to be seen in
 a different context.
 
-<figure>
-  <a href="/images/dynamic_publication_formats_2.png" title="" data-fluidbox>
-      <img src="/images/dynamic_publication_formats_2.png" title="" alt="" />
-  </a>
-  <figcaption>
-    **Figure 2**. Remixing is the concept of using text and parts of earlier
-    publications to build a novel publication; remixing is currently
-    restricted through legal and scientific cultures, however, remixing may
-    become much more acceptable in the future—remixing has to be
-    distinguished from scientific plagiarism.
-  </figcaption>
-</figure>
+![**Figure 2**. Remixing is the concept of using text and parts of earlier
+publications to build a novel publication; remixing is currently
+restricted through legal and scientific cultures, however, remixing may
+become much more acceptable in the future—remixing has to be
+distinguished from scientific plagiarism.](/images/dynamic_publication_formats_2.png)
 
 ### Legal hurdles to make remixing and reuse difficult
 
@@ -332,14 +318,7 @@ somewhat consistent and comprehensible by itself. The forms of
 publications that were available in the past are abstracts, talks,
 papers, reviews, and books (Figure 3).
 
-<figure>
-  <a href="/images/dynamic_publication_formats_3.png" title="" data-fluidbox>
-      <img src="/images/dynamic_publication_formats_3.png" title="" alt="" />
-  </a>
-  <figcaption>
-    **Figure 3**. Classical publication formats before the Internet.
-  </figcaption>
-</figure>
+![**Figure 3**. Classical publication formats before the Internet.](/images/dynamic_publication_formats_3.png)
 
 Since the Internet, the available publication methods are no longer
 limited to this list. It became possible that virtually everybody can
@@ -348,14 +327,7 @@ paper and its distribution vanished. Novel publication methods such as
 blogs, microblogs, comments, wiki updates, or other publication methods
 complement the prevailing publishing methods (Figure 4) (Pochoda 2012).
 
-<figure>
-  <a href="/images/dynamic_publication_formats_4.png" title="" data-fluidbox>
-      <img src="/images/dynamic_publication_formats_4.png" title="" alt="" />
-  </a>
-  <figcaption>
-    **Figure 4**. Today’s publication formats.
-  </figcaption>
-</figure>
+![**Figure 4**. Today’s publication formats.](/images/dynamic_publication_formats_4.png)
 
 ## Aspects of Dynamic Publication Formats
 
@@ -409,20 +381,13 @@ However, the peer-review is done by people other than the authors
 themselves and the peer-reviewing process can be organized by a
 quality-granting authority such as a journal.
 
-<figure>
-  <a href="/images/dynamic_publication_formats_5.jpg" title="" data-fluidbox>
-      <img src="/images/dynamic_publication_formats_5.jpg" title="" alt="" />
-  </a>
-  <figcaption>
-    **Figure 5**. Dynamic publications: Working and public versions. The
-    working versions are collaboratively edited by a small group of authors.
-    The authors can decide when a version or a revision should become widely
-    available. Depending on the platform, a formalized ‘gate-keeping’
-    mechanism (consent among authors) and/or ‘peer-review’ as organized by a
-    quality-granting authority (journal) has to be passed. Working as well
-    as published versions can be reused by other authors.
-  </figcaption>
-</figure>
+![**Figure 5**. Dynamic publications: Working and public versions. The
+working versions are collaboratively edited by a small group of authors.
+The authors can decide when a version or a revision should become widely
+available. Depending on the platform, a formalized ‘gate-keeping’
+mechanism (consent among authors) and/or ‘peer-review’ as organized by a
+quality-granting authority (journal) has to be passed. Working as well
+as published versions can be reused by other authors.](/images/dynamic_publication_formats_5.jpg)
 
 ### Tranclusion, pull-requests, and forking—Lifecycle and history
 
@@ -444,19 +409,12 @@ remains to be seen whether they can be integrated into the scientific
 publishing culture so that the systems in question benefit from it, and
 usability, as well as readability, can be assured.
 
-<figure>
-  <a href="/images/dynamic_publication_formats_6.jpg" title="" data-fluidbox>
-      <img src="/images/dynamic_publication_formats_6.jpg" title="" alt="" />
-  </a>
-  <figcaption>
-    **Figure 6**. Dynamic publications allow many novel concepts such as
-    ‘forking’ (dividing one publication into two branches of working
-    versions), ‘transclusion’ (reuse of text or images from another
-    publication, potentially with live updates) and ‘pull requests’ (a
-    certain way of including updates from one forked working version into
-    another: a ‘one time transclusion’).
-  </figcaption>
-</figure>
+![**Figure 6**. Dynamic publications allow many novel concepts such as
+‘forking’ (dividing one publication into two branches of working
+versions), ‘transclusion’ (reuse of text or images from another
+publication, potentially with live updates) and ‘pull requests’ (a
+certain way of including updates from one forked working version into
+another: a ‘one time transclusion’).](/images/dynamic_publication_formats_6.jpg)
 
 ## Publication formats
 
