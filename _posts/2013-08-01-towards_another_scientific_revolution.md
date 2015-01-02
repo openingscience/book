@@ -81,7 +81,7 @@ preparation of this book we constantly ran into this dilemma and we
 would like to take the opportunity to tell you that whenever we talk
 about science we mean any organized form of knowledge creation (see
 chapter 06, Sidler:
-[Open](https://docs.google.com/document/d/19IgWhakIduAZmn6iMEPeVAsnfMESLPP8S5Ohx15WeOo/edit).
+[Open](https://docs.google.com/document/d/19IgWhakIduAZmn6iMEPeVAsnfMESLPP8S5Ohx15WeOo/edit)).
 *Secondly*, science is often understood as the product created by a
 scientist. And a scientist is understood as someone with a full-time job
 at a university or a research institute. Yet, new forms of collaboration
