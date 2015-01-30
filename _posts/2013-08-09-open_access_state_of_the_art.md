@@ -9,11 +9,12 @@ authors:
    orcid: 0000-0002-5588-0290
 category: tools
 tags: [open access]
-abstract: "Free access to knowledge is a central module within the context of
-Science 2.0. Rapid development within the area of Open Access underlines
-this fact and is a pathfinder for Science 2.0, especially since the
-October 2003 enactment of the [“Berlin Declaration on Open Access to
-Knowledge in the Sciences and Humanities”](http://http://oa.mpg.de/files/2010/04/berlin_declaration.pdf)."
+abstract: |
+ Free access to knowledge is a central module within the context of Science
+ 2.0. Rapid development within the area of Open Access underlines this fact and
+ is a pathfinder for Science 2.0, especially since the October 2003 enactment
+ of the [“Berlin Declaration on Open Access to Knowledge in the Sciences and
+ Humanities”](http://http://oa.mpg.de/files/2010/04/berlin_declaration.pdf).
 ---
 
 > Open Access saves lives.

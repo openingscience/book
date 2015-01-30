@@ -6,12 +6,13 @@ doi: 10.1007/978-3-319-00026-8_3
 authors:
  - name: Mathias Binswanger
 category: basics_background
-abstract: "In this chapter, Binswanger (a critic of the current scientific process)
-explains how artificially staged competitions affect science and how they result
-in nonsense. An economist himself, Binswanger provides examples from his
-field and shows how impact factors and publication pressure reduce
-the quality of scientific publications. Some might know his work and
-arguments from his book “Sinnlose Wettbewerbe”."
+abstract: |
+ In this chapter, Binswanger (a critic of the current scientific process)
+ explains how artificially staged competitions affect science and how they
+ result in nonsense. An economist himself, Binswanger provides examples from
+ his field and shows how impact factors and publication pressure reduce the
+ quality of scientific publications. Some might know his work and arguments
+ from his book “Sinnlose Wettbewerbe”.
 ---
 
 > Most scientific publications are utterly redundant, mere qualitative

@@ -8,7 +8,17 @@ authors:
   - name: Sascha Friesike
     orcid: "0000-0002-9314-5633"
 category: basics_background
-abstract: "Open Science is an umbrella term encompassing a multitude of assumptions about the future of knowledge creation and dissemination. Based on a literature review, this chapter aims at structuring the overall discourse by proposing five Open Science schools of thought: The *infrastructure school* (which is concerned with the technological architecture), the *public school* (which is concerned with the accessibility of knowledge creation), the \"measurement school\"(which is concerned with alternative impact measurement), the \"democratic school\"(which is concerned with access to knowledge) and the \"pragmatic school\" (which is concerned with collaborative research)."
+abstract: |
+  Open Science is an umbrella term encompassing a multitude of assumptions
+  about the future of knowledge creation and dissemination. Based on a
+  literature review, this chapter aims at structuring the overall discourse by
+  proposing five Open Science schools of thought: The *infrastructure school*
+  (which is concerned with the technological architecture), the *public school*
+  (which is concerned with the accessibility of knowledge creation), the
+  \"measurement school\"(which is concerned with alternative impact
+  measurement), the \"democratic school\"(which is concerned with access to
+  knowledge) and the \"pragmatic school\" (which is concerned with
+  collaborative research).
 published: true
 ---
 

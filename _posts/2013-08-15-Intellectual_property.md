@@ -8,19 +8,19 @@ authors:
    orcid: 0000-0003-2015-7825
 category: vision
 tags: [licenses, open access]
-abstract: "This chapters outlines some of the principles ways United States
-Intellectual Property Law affects the sharing of digital scholarly
-objects, particularly for those who wish to practice reproducible
-computational science or open science. The sharing of the research
-manuscript, and the data and code that are associated with the
-manuscript, can be subject to copyright and software is potentially
-subject to patenting. Both of these aspects of Intellectual Property
-must be confronted by researchers and this is discussed for each of the
-three digital scholarly objects: the research article; the data; and the
-code. Recommendations are made to maximize the downstream reuse utility
-of each of these objects. Finally, this chapter proposes new structures
-to manage Intellectual Property rights related to scientific research
-going forward."
+abstract: |
+ This chapters outlines some of the principles ways United States Intellectual
+ Property Law affects the sharing of digital scholarly objects, particularly
+ for those who wish to practice reproducible computational science or open
+ science. The sharing of the research manuscript, and the data and code that
+ are associated with the manuscript, can be subject to copyright and software
+ is potentially subject to patenting. Both of these aspects of Intellectual
+ Property must be confronted by researchers and this is discussed for each of
+ the three digital scholarly objects: the research article; the data; and the
+ code. Recommendations are made to maximize the downstream reuse utility of
+ each of these objects. Finally, this chapter proposes new structures to
+ manage Intellectual Property rights related to scientific research going
+ forward.
 ---
 
 ## Introduction

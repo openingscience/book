@@ -8,20 +8,20 @@ authors:
    orcid: 0000-0003-2269-0076
  - name:  René König
 category: tools
-abstract: "Social network sites (SNS) have not only become a fundamental part of
-the Web, but also increasingly offer novel communicative and networking
-possibilities for academia. Following a short presentation of the
-typical functions of (science-specific) SNS, we firstly present the
-state of knowledge regarding academic usage practices, both in general
-purpose SNS and in science-specific SNS. Secondly, we assess potential
-impacts by addressing identified key issues such as privacy, the role of
-pseudonymity, and the specific form of informal communication in
-question. In particular, we focus on the issue of network effects and
-the challenge of multiple channels, which presents itself as a major
-hurdle for an effective implementation of SNS in academia. Despite hese
-difficulties, we come to the conclusion that SNS are, in principle,
-functional for scholarly communication and that they have serious
-potential within academia."
+abstract: |
+ Social network sites (SNS) have not only become a fundamental part of the Web,
+ but also increasingly offer novel communicative and networking possibilities
+ for academia. Following a short presentation of the typical functions of
+  (science-specific) SNS, we firstly present the state of knowledge regarding
+  academic usage practices, both in general purpose SNS and in science-specific
+  SNS. Secondly, we assess potential impacts by addressing identified key
+  issues such as privacy, the role of pseudonymity, and the specific form of
+  informal communication in question. In particular, we focus on the issue of
+  network effects and the challenge of multiple channels, which presents itself
+  as a major hurdle for an effective implementation of SNS in academia. Despite
+  hese difficulties, we come to the conclusion that SNS are, in principle,
+  functional for scholarly communication and that they have serious potential
+  within academia.
 ---
 
 > This network is the seat of scientific opinion which is not held by
