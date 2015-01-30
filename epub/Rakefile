@@ -1,0 +1,57 @@
+require 'yaml'
+
+book = 'OpeningScience.epub'
+
+task default: book
+
+chapters = []
+
+chapters_source = Dir.glob('../_posts/*.md').sort
+chapters_source.each do |source|
+  transformed = 'tmp/' + File.basename(source)
+  chapters << transformed
+  data_file = transformed + '.yaml'
+  file data_file => source do
+    mkdir_p File.dirname(data_file)
+    sh "sed -e '2,/^---/ !d; /^---/d' #{source} > #{data_file}"
+  end
+
+  file transformed => [data_file, source] do
+    mkdir_p File.dirname(transformed)
+
+    puts "#{source} → #{transformed}"
+
+    data = YAML.load_file(data_file)
+
+    authors = data['authors'].map { |a| a['name'] }
+    if authors.size > 2
+      authors[-1] = 'and ' + authors[-1]
+    end
+
+    text = `sed -e '/^---/,/^---/ d' #{source}`
+    text.gsub!(/\/images/, '../images')
+
+    File.open(transformed, 'w') do |f|
+      f.puts "# #{data['title']}\n"
+      f.puts "By #{authors.join(', ')}\n\n"
+      if data['abstract']
+        f.puts "**Abstract:** #{data['abstract']}"
+        f.puts
+        f.puts '-----'
+        f.puts
+      end
+      f.puts text
+    end
+  end
+end
+
+file book => ['title_page.txt', 'metadata.xml'] + chapters do |t|
+  sh 'pandoc', '--toc-depth', '1', '-f', 'markdown', '-t', 'epub3', '-o', book, '--epub-metadata=metadata.xml', 'title_page.txt', *chapters
+end
+
+task :clean do
+  rm_r book
+  rm_rf 'tmp'
+end
+
+task :rebuild => [:clean, :default]
