@@ -8,12 +8,13 @@ authors:
    orcid: 0000-0002-8250-6253
 category: cases_recipes_howtos
 tags: [persistent identifiers, research data]
-abstract: "In 2005 the German National Library of Science and Technology started
-assigning DOI names to datasets to allow stabile linking between
-articles and data. In 2009 this work lead to the funding of DataCite, a
-global consortium of libraries and information institutions with the aim
-to enable scientists to use datasets as independently published records
-that can be shared, referenced and cited."
+abstract: |
+ In 2005 the German National Library of Science and Technology started
+ assigning DOI names to datasets to allow stabile linking between articles and
+ data. In 2009 this work lead to the funding of DataCite, a global consortium
+ of libraries and information institutions with the aim to enable scientists to
+ use datasets as independently published records that can be shared, referenced
+ and cited.
 ---
 
 Data integration with text is an important aspect of scientific

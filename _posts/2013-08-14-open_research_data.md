@@ -10,29 +10,28 @@ authors:
    orcid: 0000-0002-6137-2348
 categories: [vision]
 tags: [research data, open access]
-abstract: "“To make progress in science, we need to be open and share.” This quote
-from Neelie Kroes (2012), vice president of the European Commission
-describes the growing public demand for an Open Science. Part of Open
-Science is, next to Open Access to peer-reviewed publications, the Open
-Access to research data, the basis of scholarly knowledge. The
-opportunities and challenges of Data Sharing are discussed widely in the
-scholarly sector. The cultures of Data Sharing differ within the
-scholarly disciplines. Well advanced are for example disciplines like
-biomedicine and earth sciences. Today, more and more funding agencies
-require a proper Research Data Management and the possibility of data
-re-use. Many researchers often see the potential of Data Sharing, but
-they act cautiously. This situation shows a clear ambivalence between
-the demand for Data Sharing and the current practice of Data Sharing.
-Starting from a baseline study on current discussions, practices and
-developments the article describe the challenges of Open Research Data.
-The authors briefly discuss the barriers and drivers to Data Sharing.
-Furthermore, the article analyses strategies and approaches to promote
-and implement Data Sharing. This comprises an analysis of the current
-landscape of data repositories, enhanced publications and data papers.
-In this context the authors also shed light on incentive mechanisms,
-data citation practises and the interaction between data repositories
-and journals. In the conclusions the authors outline requirements of a
-future Data Sharing culture."
+abstract:
+ “To make progress in science, we need to be open and share.” This quote from
+ Neelie Kroes (2012), vice president of the European Commission describes the
+ growing public demand for an Open Science. Part of Open Science is, next to
+ Open Access to peer-reviewed publications, the Open Access to research data,
+ the basis of scholarly knowledge. The opportunities and challenges of Data
+ Sharing are discussed widely in the scholarly sector. The cultures of Data
+ Sharing differ within the scholarly disciplines. Well advanced are for example
+ disciplines like biomedicine and earth sciences. Today, more and more funding
+ agencies require a proper Research Data Management and the possibility of data
+ re-use. Many researchers often see the potential of Data Sharing, but they act
+ cautiously. This situation shows a clear ambivalence between the demand for
+ Data Sharing and the current practice of Data Sharing. Starting from a
+ baseline study on current discussions, practices and developments the article
+ describe the challenges of Open Research Data. The authors briefly discuss the
+ barriers and drivers to Data Sharing. Furthermore, the article analyses
+ strategies and approaches to promote and implement Data Sharing. This
+ comprises an analysis of the current landscape of data repositories, enhanced
+ publications and data papers. In this context the authors also shed light on
+ incentive mechanisms, data citation practises and the interaction between data
+ repositories and journals. In the conclusions the authors outline requirements
+ of a future Data Sharing culture.
 ---
 
 > To make progress in science, we need to be open and share.

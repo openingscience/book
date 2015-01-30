@@ -11,24 +11,23 @@ authors:
    orcid: 0000-0001-5434-9433
 categories: [vision]
 tags: [blogging]
-abstract: "While Online Publishing has replaced most traditional printed journals
-in less than twenty years, today’s Online Publication Formats are still
-closely bound to the medium of paper. Collaboration is mostly hidden
-from the readership, and ‘final’ versions of papers are stored in
-‘publisher PDF’ files mimicking print. Meanwhile new media formats
-originating from the web itself bring us new modes of transparent
-collaboration, feedback, continued refinement, and reusability of
-(scholarly) works: Wikis, Blogs and Code Repositories, to name a few.
-This chapter characterizes the potentials of Dynamic Publication Formats
-and analyzes necessary prerequisites. Selected tools specific to the
-aims, stages, and functions of Scholarly Publishing are presented.
-Furthermore, this chapter points out early examples of usage and further
-development from the field. In doing so, Dynamic Publication Formats are
-described as a) a ‘parallel universe’ based on the commodification of
-(scholarly) media, and b) as a much needed complement, slowly recognized
-and incrementally integrated into more efficient and dynamic workflows
-of production, improvement, and dissemination of scholarly knowledge in
-general."
+abstract: |
+ While Online Publishing has replaced most traditional printed journals in less
+ than twenty years, today’s Online Publication Formats are still closely bound
+ to the medium of paper. Collaboration is mostly hidden from the readership,
+ and ‘final’ versions of papers are stored in ‘publisher PDF’ files mimicking
+ print. Meanwhile new media formats originating from the web itself bring us
+ new modes of transparent collaboration, feedback, continued refinement, and
+ reusability of (scholarly) works: Wikis, Blogs and Code Repositories, to name
+ a few. This chapter characterizes the potentials of Dynamic Publication
+ Formats and analyzes necessary prerequisites. Selected tools specific to the
+ aims, stages, and functions of Scholarly Publishing are presented.
+ Furthermore, this chapter points out early examples of usage and further
+ development from the field. In doing so, Dynamic Publication Formats are
+ described as a) a ‘parallel universe’ based on the commodification of
+ (scholarly) media, and b) as a much needed complement, slowly recognized and
+ incrementally integrated into more efficient and dynamic workflows of
+ production, improvement, and dissemination of scholarly knowledge in general.
 ---
 
 > We are Wikipedians. This means that we should be: kind, thoughtful,

@@ -6,15 +6,15 @@ doi: 10.1007/978-3-319-00026-8_5
 authors:
  - name: Michelle Sidler
 category: basics_background
-abstract: "The Open Science movement has been most successful in transforming
-disciplines traditionally associated with science. Social science and
-humanities disciplines, especially those in the United States, are less
-well represented. To include all domains of knowledge, the Open Science
-movement must bridge these ‘three cultures’ through projects that
-highlight multiple lines of inquiry, research methods, and publishing
-practices. The movement should also consider changing its moniker to
-Open Knowledge in order to include academic disciplines that do not
-self-identify as science."
+abstract: |
+ The Open Science movement has been most successful in transforming disciplines
+ traditionally associated with science. Social science and humanities
+ disciplines, especially those in the United States, are less well represented.
+ To include all domains of knowledge, the Open Science movement must bridge
+ these ‘three cultures’ through projects that highlight multiple lines of
+ inquiry, research methods, and publishing practices. The movement should also
+ consider changing its moniker to Open Knowledge in order to include academic
+ disciplines that do not self-identify as science.
 ---
 
 > How knowledge circulates has always been vital to the life of the mind,

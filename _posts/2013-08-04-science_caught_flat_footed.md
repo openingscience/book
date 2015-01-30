@@ -6,21 +6,21 @@ doi: 10.1007/978-3-319-00026-8_4
 authors:
  - name: Alexander Gerber
 category: basics_background
-abstract: "As high as the potential of Web 2.0 might be, the European academia,
-compared to that of the US, mostly reacts hesitantly at best to these
-new opportunities. Interestingly enough this scepticism applies even
-more to science communication than to scientific practice itself. The
-author shows that the supposed technological challenge is actually a
-cultural one. Thus possible solutions do not primarily lie in the tools
-or in the strategies used to apply them, but in the adaptation of the
-systemic frameworks of knowledge-creation and dissemination as we have
-practised them for decades, if not centuries. Permeating an ‘Open
-Science Communication’ (OSC) under closed paradigms can only succeed if
-foremost the embedding frameworks are adapted. This will include new
-forms of impact measurement, recognition, and qualification, and not
-only obvious solutions from the archaic toolbox of enlightenment and
-dissemination. The author also illustrates the causes, effects, and
-solutions for this cultural change with empirical data."
+abstract: |
+ As high as the potential of Web 2.0 might be, the European academia, compared
+ to that of the US, mostly reacts hesitantly at best to these new
+ opportunities. Interestingly enough this scepticism applies even more to
+ science communication than to scientific practice itself. The author shows
+ that the supposed technological challenge is actually a cultural one. Thus
+ possible solutions do not primarily lie in the tools or in the strategies used
+ to apply them, but in the adaptation of the systemic frameworks of
+ knowledge-creation and dissemination as we have practised them for decades, if
+ not centuries. Permeating an ‘Open Science Communication’ (OSC) under closed
+ paradigms can only succeed if foremost the embedding frameworks are adapted.
+ This will include new forms of impact measurement, recognition, and
+ qualification, and not only obvious solutions from the archaic toolbox of
+ enlightenment and dissemination. The author also illustrates the causes,
+ effects, and solutions for this cultural change with empirical data.
 ---
 
 > Change happens by listening and then starting a dialogue with the
