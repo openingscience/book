@@ -388,7 +388,7 @@ mechanism (consent among authors) and/or ‘peer-review’ as organized by a
 quality-granting authority (journal) has to be passed. Working as well
 as published versions can be reused by other authors.](/images/dynamic_publication_formats_5.jpg)
 
-### Tranclusion, pull-requests, and forking—Lifecycle and history
+### Transclusion, pull-requests, and forking—Lifecycle and history
 
 The lifecycle of a dynamic publication is much harder to define than the
 life cycle of a static, traditional publication. Concepts such as
