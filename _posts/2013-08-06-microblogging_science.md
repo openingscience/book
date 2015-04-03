@@ -265,7 +265,7 @@ submissions, and other aspects that are part of work processes at a
 genetics laboratory.
 
 While Redfield’s blog was known to an expert audience before, she
-attained major success as a result the post *“Arsenic-associated
+attained major success as a result of the post *“Arsenic-associated
 bacteria (NASA’s claims)”* (Redfield 2010) that strongly critiqued the
 paper “*A Bacterium That Can Grow by Using Arsenic Instead of
 Phosphorus”* (Wolfe-Simon et al. 2010) which had been previously
