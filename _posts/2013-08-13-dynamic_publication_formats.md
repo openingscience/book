@@ -36,7 +36,7 @@ viewpoints, open to criticism, bold about changing our policies and also
 cautious about changing our policies. We are not vindictive, childish,
 and we don't stoop to the level of our worst critics, no matter how much
 we may find them to be annoying.
-<small>Jimmmy Wales ― one of the founders of Wikipedia</small>
+<small>Jimmy Wales ― one of the founders of Wikipedia</small>
 
 ## Introduction
 
