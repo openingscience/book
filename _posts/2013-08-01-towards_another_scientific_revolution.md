@@ -140,7 +140,7 @@ as we know them today formed many centuries later and as such ancient
 scientists were usually philosophers, mathematicians, and physicists in
 one. Similar developments were noticeable in other societies as well. In
 China for instance thinkers like Confucius, Laozi, or Sun Tzu were
-concerned with question similar to those raised in ancient Greece.
+concerned with questions similar to those raised in ancient Greece.
 
 During the following centuries, religion played a major role in the
 development of knowledge creation. Beliefs about certain essential
@@ -424,7 +424,7 @@ into three parts in order to make its content easily accessible.
   explain the many meanings which have been given to the term Open
   Science. This is followed by *Mathias Binswanger’s* “Excellence by
   Nonsense: The Competition for Publications in Modern Science” in
-  which he highlights some of the downsides in today publication
+  which he highlights some of the downsides in today's publication
   driven scientific environments. *Alexander Gerber’s* article titled
   “Science Caught Flat-footed: How Academia Struggles with Open
   Science Communication” follows; here the author explains why social
