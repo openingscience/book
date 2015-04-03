@@ -822,7 +822,7 @@ concerns about the current impact factor:
 Accordingly, this school argues the case for an alternative and faster
 impact measurement that includes other forms of publication and the
 social web coverage of a scientific contribution. The general credo is:
-As the scholarly workflow is migrates increasingly to the web, formerly
+As the scholarly workflow is migrating increasingly to the web, formerly
 hidden uses like reading, bookmarking, sharing, discussing, and rating
 are leaving traces online and offer a new basis by which to measure
 scientific impact. The umbrella term for these new impact measurements
