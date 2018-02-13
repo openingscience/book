@@ -1,7 +1,18 @@
-language: haskell
+language: ruby
+rvm:
+- 2.4.1
+sudo: required
+
+cache: bundler
+
+before_install:
+  - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb
+  - sudo dpkg -i pandoc-1.15.2-1-amd64.deb
+  - rm pandoc-1.15.2-1-amd64.deb
+
 install:
  - bundle install
- - travis_retry cabal install pandoc pandoc-citeproc
+
 script: bundle exec rake site:deploy
 
 env:

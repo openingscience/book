@@ -1,6 +1,10 @@
 safe: false
 lsi: false
-pygments: true
+highlighter: rouge
+
+plugins:
+  - jekyll-paginate
+  - jekyll-bootstrap-sass
 
 relative_source: ../book/
 destination: ../openingscience.github.io/
