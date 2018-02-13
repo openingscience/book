@@ -8,12 +8,12 @@ authors:
    orcid: 0000-0002-9341-7985
 category: tools
 tags: [open access, publishing]
-abstract: "Recent years have seen a great deal of experimentation around the basic
-concept of the journal. This chapter overviews some of the more novel or
-interesting developments in this space, developments which include new
-business models; new editorial models, and new ways in which the
-traditional functions of the journal can be disaggregated into separate
-services."
+abstract: |
+ Recent years have seen a great deal of experimentation around the basic
+ concept of the journal. This chapter overviews some of the more novel or
+ interesting developments in this space, developments which include new
+ business models; new editorial models, and new ways in which the traditional
+ functions of the journal can be disaggregated into separate services.
 ---
 
 > It is not the strongest of the species that survives, nor the most

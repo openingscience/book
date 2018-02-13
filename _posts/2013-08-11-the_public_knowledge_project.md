@@ -11,18 +11,18 @@ authors:
    orcid: 0000-0001-6192-8687
 categories: [tools]
 tags: [publishing, open access]
-abstract: "This chapter describes how the Public Knowledge Project, a collective of
-academics, librarians, and technical genies, has been, since 1998,
-building open source software (free) publishing platforms that create an
-alternative path to commercial and subscription-based routes to
-scholarly communication. It sets out how its various website platforms,
-including Open Journal Systems, Open Conference Systems, and, recently,
-Open Monograph Press, provide a guided path through the editorial
-workflow of submission, review, editing, publishing and indexing.
-Thousands of faculty members around the world are now using the software
-to publish independent journals on a peer-reviewed and open access
-basis, greatly increasing the public and global contribution of research
-and scholarship.  "
+abstract: |
+ This chapter describes how the Public Knowledge Project, a collective of
+ academics, librarians, and technical genies, has been, since 1998, building
+ open source software (free) publishing platforms that create an alternative
+ path to commercial and subscription-based routes to scholarly communication.
+ It sets out how its various website platforms, including Open Journal Systems,
+ Open Conference Systems, and, recently, Open Monograph Press, provide a guided
+ path through the editorial workflow of submission, review, editing, publishing
+ and indexing. Thousands of faculty members around the world are now using the
+ software to publish independent journals on a peer-reviewed and open access
+ basis, greatly increasing the public and global contribution of research and
+ scholarship.
 ---
 
 ## Introduction

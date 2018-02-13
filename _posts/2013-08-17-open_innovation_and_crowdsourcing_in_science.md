@@ -7,21 +7,21 @@ authors:
  - name: Thomas Schildhauer
  - name: Hilger Voss
 category: vision
-abstract: "The advent of open innovation has intensified communication and
-interaction between scientists and corporations. Crowdsourcing added to
-this trend. Nowadays research questions can be raised and answered from
-virtually anywhere on the globe. This chapter provides an overview of
-the advancements in open innovation and the phenomenon of crowdsourcing
-as its main tool for accelerating the solution-finding process for a
-given (not only scientific) problem by incorporating external knowledge,
-and specifically by including scientists and researchers in the formerly
-closed but now open systems of innovation processes. We present
-perspectives on two routes to open innovation and crowdsourcing: either
-asking for help to find a solution to a scientific question or
-contributing not only scientific knowledge but also other ideas towards
-the solution-finding process. Besides explaining forms and platforms for
-crowdsourcing in the sciences we also point out inherent risks and
-provide a future outlook for this aspect of (scientific) collaboration."
+abstract: |
+ The advent of open innovation has intensified communication and interaction
+ between scientists and corporations. Crowdsourcing added to this trend.
+ Nowadays research questions can be raised and answered from virtually anywhere
+ on the globe. This chapter provides an overview of the advancements in open
+ innovation and the phenomenon of crowdsourcing as its main tool for
+ accelerating the solution-finding process for a given (not only scientific)
+ problem by incorporating external knowledge, and specifically by including
+ scientists and researchers in the formerly closed but now open systems of
+ innovation processes. We present perspectives on two routes to open innovation
+ and crowdsourcing: either asking for help to find a solution to a scientific
+ question or contributing not only scientific knowledge but also other ideas
+ towards the solution-finding process. Besides explaining forms and platforms
+ for crowdsourcing in the sciences we also point out inherent risks and provide
+ a future outlook for this aspect of (scientific) collaboration.
 ---
 
 ##What is Open Innovation and What is Crowdsourcing?

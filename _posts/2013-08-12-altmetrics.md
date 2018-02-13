@@ -7,17 +7,16 @@ authors:
  - name:  Martin Fenner
    orcid: 0000-0003-1419-2405
 categories: [vision]
-abstract: "Impact assessment is one of the major drivers in scholarly
-communication, in particular since the number of available faculty
-positions and grants has far exceeded the number of applications. Peer
-review still plays a critical role in evaluating science, but
-citation-based bibliometric indicators are becoming increasingly
-important. This chapter looks at a novel set of indicators that can
-complement both citation analysis and peer review. Altmetrics use
-indicators gathered in the real-time Social Web to provide immediate
-feedback about scholarly works. We describe the most important
-altmetrics and provide a critical assessment of their value and
-limitations."
+abstract: |
+ Impact assessment is one of the major drivers in scholarly communication, in
+ particular since the number of available faculty positions and grants has far
+ exceeded the number of applications. Peer review still plays a critical role
+ in evaluating science, but citation-based bibliometric indicators are becoming
+ increasingly important. This chapter looks at a novel set of indicators that
+ can complement both citation analysis and peer review. Altmetrics use
+ indicators gathered in the real-time Social Web to provide immediate feedback
+ about scholarly works. We describe the most important altmetrics and provide a
+ critical assessment of their value and limitations.
 ---
 
 > Good science, original work, always went beyond the body of received

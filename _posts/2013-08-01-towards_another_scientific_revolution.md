@@ -9,7 +9,19 @@ authors:
   - name: Sascha Friesike
     orcid: "0000-0002-9314-5633"
 category: basics_background
-abstract: "In this introductory chapter we establish a common understanding of what are and what drives current changes in research and science. The concepts of Science 2.0 and Open Science will be introduced. As such we provide a short introduction to the history of science and knowledge dissemination. We explain the origins of our scientific culture which evolved around publication methods. Interdependencies of current concepts will be elucidated and it will be stated that the transition towards Open Science is a complex cultural change. Reasons as to why the change is slow are discussed and the main obstacles are identified. Next, we explain the recent changes in scientific workflows and how these cause changes in the system as a whole. Furthermore, we provide an overview on the entire book and explain what can be found in each chapter."
+abstract: |
+  In this introductory chapter we establish a common understanding of what are
+  and what drives current changes in research and science. The concepts of
+  Science 2.0 and Open Science will be introduced. As such we provide a short
+  introduction to the history of science and knowledge dissemination. We
+  explain the origins of our scientific culture which evolved around
+  publication methods. Interdependencies of current concepts will be elucidated
+  and it will be stated that the transition towards Open Science is a complex
+  cultural change. Reasons as to why the change is slow are discussed and the
+  main obstacles are identified. Next, we explain the recent changes in
+  scientific workflows and how these cause changes in the system as a whole.
+  Furthermore, we provide an overview on the entire book and explain what can
+  be found in each chapter.
 published: true
 ---
 
@@ -81,7 +93,7 @@ preparation of this book we constantly ran into this dilemma and we
 would like to take the opportunity to tell you that whenever we talk
 about science we mean any organized form of knowledge creation (see
 chapter 06, Sidler:
-[Open](https://docs.google.com/document/d/19IgWhakIduAZmn6iMEPeVAsnfMESLPP8S5Ohx15WeOo/edit).
+[Open](https://docs.google.com/document/d/19IgWhakIduAZmn6iMEPeVAsnfMESLPP8S5Ohx15WeOo/edit)).
 *Secondly*, science is often understood as the product created by a
 scientist. And a scientist is understood as someone with a full-time job
 at a university or a research institute. Yet, new forms of collaboration

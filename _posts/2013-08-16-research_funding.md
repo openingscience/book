@@ -9,22 +9,22 @@ authors:
    orcid: 0000-0002-3500-3119
  - name: Karsten Wenzlaff
 category: vision
-abstract: "The advent of the Open Science paradigm has led to new interdependencies
-between the funding of research and the practice of Open Science. On the
-one hand, traditional revenue models in Science Publishing are
-questioned by Open Science Methods and new revenue models in and around
-Open Science need to be established. This only works if researchers make
-large parts of their data and results available under Open Access
-principles. If research funding wants to have an impact within this new
-paradigm, it requires scientists and scientific projects to make more
-than just text publications available according to the Open Access
-principles. On the other hand, it is still to be discussed how Research
-Funding itself could be more open. Is it possible to generate a new
-understanding of financing science shaped by transparency, interaction,
-participation, and stakeholder governance—in other words reach the next
-level as Research Funding 2.0? This article focuses on both of the
-aspects: Firstly, how Research Funding is promoting Open Science.
-Secondly, how an innovative and open Research Funding might look like."
+abstract: |
+ The advent of the Open Science paradigm has led to new interdependencies
+ between the funding of research and the practice of Open Science. On the one
+ hand, traditional revenue models in Science Publishing are questioned by Open
+ Science Methods and new revenue models in and around Open Science need to be
+ established. This only works if researchers make large parts of their data and
+ results available under Open Access principles. If research funding wants to
+ have an impact within this new paradigm, it requires scientists and scientific
+ projects to make more than just text publications available according to the
+ Open Access principles. On the other hand, it is still to be discussed how
+ Research Funding itself could be more open. Is it possible to generate a new
+ understanding of financing science shaped by transparency, interaction,
+ participation, and stakeholder governance—in other words reach the next level
+ as Research Funding 2.0? This article focuses on both of the aspects: Firstly,
+ how Research Funding is promoting Open Science. Secondly, how an innovative
+ and open Research Funding might look like.
 ---
 
 ## Research Funding Policies: Pushing forward Open Science

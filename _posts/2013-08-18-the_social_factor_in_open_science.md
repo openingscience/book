@@ -6,21 +6,20 @@ doi: 10.1007/978-3-319-00026-8_18
 authors:
  - name: Tobias Fries
 category: vision
-abstract: "Increasing visibility in the internet is a key success factor for all
-stakeholders in the online world. Sky rocketing online marketing
-spending of companies as well as increasing personal resources in
-systematic “self-marketing” of private people are a consequence of this.
-Similar holds true for the science and knowledge creation world - here,
-visibility is also a key success factor and we are currently witnessing
-the systematic exploitation of online marketing channels by scientists
-and research insitutes.
-A theorectical base for this novel interest in science marketing is
-herein provided by transfering concepts from the non-science online
-marketing world to the special situation of science marketing. The
-article gives hints towards most promising, practical approaches. The
-theorectical base is derived from considerations in the field of
-scale-free networks in which quality is not necessarily a predominant
-success factor, but the connectivity."
+abstract: |
+ Increasing visibility in the internet is a key success factor for all
+ stakeholders in the online world. Sky rocketing online marketing spending of
+ companies as well as increasing personal resources in systematic
+ “self-marketing” of private people are a consequence of this. Similar holds
+ true for the science and knowledge creation world - here, visibility is also a
+ key success factor and we are currently witnessing the systematic exploitation
+ of online marketing channels by scientists and research insitutes. A
+ theorectical base for this novel interest in science marketing is herein
+ provided by transfering concepts from the non-science online marketing world
+ to the special situation of science marketing. The article gives hints towards
+ most promising, practical approaches. The theorectical base is derived from
+ considerations in the field of scale-free networks in which quality is not
+ necessarily a predominant success factor, but the connectivity.
 ---
 
 ## Introduction
