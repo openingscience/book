@@ -14,7 +14,3 @@ install:
  - bundle install
 
 script: bundle exec rake site:deploy
-
-env:
-  global:
-    secure: "KdzjwA7NIzbgp5tl8aNIiseswacSh+oKjhwCvipH3JA0EZ85LKFSY6sr0rXSivPsqcTyeAX+uzW+ICIZZn5ynreN40Y46sZqniXwciCEg3enkXnxNYHGJtyzUwQ1sE54LEiPPnx6DjUInMfuDygSRSba8iNDx64YQEVbjScP4Wc="
