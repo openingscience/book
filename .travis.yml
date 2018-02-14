@@ -14,3 +14,16 @@ install:
  - bundle install
 
 script: bundle exec rake site:deploy
+
+deploy:
+  - provider: s3
+    access_key_id: $AWS_ACCESS_KEY
+    secret_access_key: $AWS_SECRET_KEY
+    bucket: book.openingscience.org
+    region: eu-west-1
+    skip_cleanup: true
+    local_dir: build
+    acl: public_read
+    cache_control: "max-age=31536000"
+    on:
+      all_branches: true
