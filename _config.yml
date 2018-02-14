@@ -6,14 +6,6 @@ plugins:
   - jekyll-paginate
   - jekyll-bootstrap-sass
 
-relative_source: ../book/
-destination: ../openingscience.github.io/
-
-# Settings for deploy rake task
-github_user: openingscience
-source_repo: book
-destination_repo: openingscience.github.io
-
 permalink: none
 
 paginate: 50

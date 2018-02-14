@@ -13,7 +13,7 @@ before_install:
 install:
  - bundle install
 
-script: bundle exec rake site:deploy
+script: bundle exec jekyll build
 
 deploy:
   - provider: s3
@@ -22,7 +22,7 @@ deploy:
     bucket: book.openingscience.org
     region: eu-west-1
     skip_cleanup: true
-    local_dir: build
+    local_dir: _site
     acl: public_read
     cache_control: "max-age=31536000"
     on:
