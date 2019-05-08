@@ -8,7 +8,7 @@
     <li><span class="glyphicon glyphicon-calendar"></span> {{ page.modified_date }}</li>
   {% endif %}
   {% if page.doi %}
-    <li><span class="glyphicon glyphicon-link"></span> <a href="http://dx.doi.org/{{ page.doi }}">doi: {{ page.doi }}</a></li>
+    <li><span class="glyphicon glyphicon-link"></span> <a href="https://doi.org/{{ page.doi }}">doi: {{ page.doi }}</a></li>
   {% endif %}
     <li><span class="glyphicon glyphicon-time"></span> <a href="{{ site.source_url }}/commits/master/{{ page.path }}">Version History</a></li>
     <li><span class="glyphicon glyphicon-edit"></span> <a href="http://prose.io/#openingscience/book/edit/master/{{page.path}}">Send Edit Request</a></li>

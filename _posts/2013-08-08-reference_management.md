@@ -287,10 +287,10 @@ additional styles.
 ### Examples of citation styles
 
 #### DOI
-<http://dx.doi.org/10.1126/science.1197258>
+<https://doi.org/10.1126/science.1197258>
 
 #### shortDOI
-<http://doi.org/dc3dhn>
+<https://doi.org/dc3dhn>
 
 #### APA
 
@@ -298,7 +298,7 @@ Wolfe-Simon, F., Blum, J. S., Kulp, T. R., Gordon, G. W., Hoeft, S. E., Pett-Rid
 
 #### Vancouver
 
-Wolfe-Simon F, Blum JS, Kulp TR, Gordon GW, Hoeft SE, Pett-Ridge J, et al. A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus. Science [Internet]. American Association for the Advancement of Science; 2011 Jun 2;332(6034):11636. Available from: <http://dx.doi.org/10.1126/science.1197258>
+Wolfe-Simon F, Blum JS, Kulp TR, Gordon GW, Hoeft SE, Pett-Ridge J, et al. A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus. Science [Internet]. American Association for the Advancement of Science; 2011 Jun 2;332(6034):11636. Available from: <https://doi.org/10.1126/science.1197258>
 
 #### Nature
 
@@ -309,7 +309,7 @@ Wolfe-Simon, F. et al. A Bacterium That Can Grow by Using Arsenic Instead of Pho
 ```
 @article{wolfe_simon_2011,
   title={A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus},
-  volume={332}, url={<http://dx.doi.org/10.1126/science.1197258>},
+  volume={332}, url={<https://doi.org/10.1126/science.1197258>},
   DOI={10.1126/science.1197258},
   number={6034},
   journal={Science},
@@ -345,7 +345,7 @@ VL - 332
 PB - American Association for the Advancement of Science
 DO - 10.1126/science.1197258
 PY - 2011
-UR - <http://dx.doi.org/10.1126/science.1197258>
+UR - <https://doi.org/10.1126/science.1197258>
 ER -
 ```
 
@@ -356,7 +356,7 @@ ER -
   "volume": "332",
   "issue": "6034",
   "DOI": "10.1126/science.1197258",
-  "URL": "<http://dx.doi.org/10.1126/science.1197258>",
+  "URL": "<https://doi.org/10.1126/science.1197258>",
   "title": "A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus",
   "container-title": "Science",
   "publisher": "American Association for the Advancement of Science",
