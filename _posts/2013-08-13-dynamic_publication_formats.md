@@ -738,7 +738,7 @@ on phrasal analysis. In ACM Press, p. 1. doi:10.1145/1822258.1822291.
 
 Mietchen, D., Hagedorn, G. & Förstner, K.U., 2011. Wikis in scholarly
 publishing. *Information Services and Use*, 31(1-2), pp.53–59.
-doi:http://dx.doi.org/10.3233/ISU-2011-0621.
+doi:https://doi.org/10.3233/ISU-2011-0621.
 
 Parnell, L.D. et al., 2011. BioStar: An Online Question & Answer
 Resource for the Bioinformatics Community P. E. Bourne, ed. *PLoS
